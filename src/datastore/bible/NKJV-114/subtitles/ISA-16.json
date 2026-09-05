@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Isaiah Chapter 16 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "16-1a2db2b6eb3db0ff85e47fc28c40e34b",
+        "next": [
+            "ISA.17"
+        ],
+        "prev": [
+            "ISA.15"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.18,
+                    "startOffset": 0,
+                    "endOffset": 105
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.18,
+                    "end": 20.810000000000002,
+                    "startOffset": 107,
+                    "endOffset": 226
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.810000000000002,
+                    "end": 31.59,
+                    "startOffset": 229,
+                    "endOffset": 367
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.59,
+                    "end": 46.89,
+                    "startOffset": 369,
+                    "endOffset": 557
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.89,
+                    "end": 59.54,
+                    "startOffset": 559,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.54,
+                    "end": 70.86,
+                    "startOffset": 719,
+                    "endOffset": 850
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 70.86,
+                    "end": 82.77,
+                    "startOffset": 852,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 82.77,
+                    "end": 99.63000000000001,
+                    "startOffset": 989,
+                    "endOffset": 1234
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 99.63000000000001,
+                    "end": 114.41,
+                    "startOffset": 1236,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 114.41,
+                    "end": 129.88,
+                    "startOffset": 1434,
+                    "endOffset": 1643
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 129.88,
+                    "end": 137.95,
+                    "startOffset": 1645,
+                    "endOffset": 1732
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 137.95,
+                    "end": 148.67,
+                    "startOffset": 1734,
+                    "endOffset": 1882
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 148.67,
+                    "end": 154.56,
+                    "startOffset": 1884,
+                    "endOffset": 1958
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 154.56,
+                    "end": 171,
+                    "startOffset": 1960,
+                    "endOffset": 2159
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 16 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "16-113461d104ddd37c6b92da23c353097b",
+        "next": [
+            "ISA.17"
+        ],
+        "prev": [
+            "ISA.15"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.53,
+                    "startOffset": 0,
+                    "endOffset": 105
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.53,
+                    "end": 18.95,
+                    "startOffset": 107,
+                    "endOffset": 226
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.95,
+                    "end": 32.789999,
+                    "startOffset": 229,
+                    "endOffset": 367
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.789999,
+                    "end": 50.95,
+                    "startOffset": 369,
+                    "endOffset": 557
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.95,
+                    "end": 66.47999999999999,
+                    "startOffset": 559,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 66.47999999999999,
+                    "end": 80.78,
+                    "startOffset": 719,
+                    "endOffset": 850
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.78,
+                    "end": 93.80999999999999,
+                    "startOffset": 852,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 93.80999999999999,
+                    "end": 113.79,
+                    "startOffset": 989,
+                    "endOffset": 1234
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 113.79,
+                    "end": 130.79999999999998,
+                    "startOffset": 1236,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 130.79999999999998,
+                    "end": 149.23,
+                    "startOffset": 1434,
+                    "endOffset": 1643
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 149.23,
+                    "end": 161.03000000000003,
+                    "startOffset": 1645,
+                    "endOffset": 1732
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 161.03000000000003,
+                    "end": 171.419999,
+                    "startOffset": 1734,
+                    "endOffset": 1882
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 171.419999,
+                    "end": 178.5,
+                    "startOffset": 1884,
+                    "endOffset": 1958
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 178.5,
+                    "end": 200.16,
+                    "startOffset": 1960,
+                    "endOffset": 2159
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Micah Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-4757ff871d00d623d6940c9d43280e82",
+        "next": [
+            "MIC.3"
+        ],
+        "prev": [
+            "MIC.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.29,
+                    "startOffset": 0,
+                    "endOffset": 142
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.29,
+                    "end": 24.74,
+                    "startOffset": 144,
+                    "endOffset": 280
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.74,
+                    "end": 39.53,
+                    "startOffset": 282,
+                    "endOffset": 460
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.53,
+                    "end": 57.980000000000004,
+                    "startOffset": 462,
+                    "endOffset": 700
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.980000000000004,
+                    "end": 64.97,
+                    "startOffset": 705,
+                    "endOffset": 794
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.97,
+                    "end": 75.47999999999999,
+                    "startOffset": 797,
+                    "endOffset": 922
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 75.47999999999999,
+                    "end": 86.10000000000001,
+                    "startOffset": 924,
+                    "endOffset": 1075
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 86.10000000000001,
+                    "end": 97.55999999999999,
+                    "startOffset": 1078,
+                    "endOffset": 1230
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 97.55999999999999,
+                    "end": 105.319999,
+                    "startOffset": 1232,
+                    "endOffset": 1352
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 105.319999,
+                    "end": 116.01,
+                    "startOffset": 1355,
+                    "endOffset": 1469
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 116.01,
+                    "end": 127.46,
+                    "startOffset": 1471,
+                    "endOffset": 1623
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 127.46,
+                    "end": 143.64000000000001,
+                    "startOffset": 1626,
+                    "endOffset": 1862
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 143.64000000000001,
+                    "end": 158.088,
+                    "startOffset": 1864,
+                    "endOffset": 2037
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Micah Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-a2d9b71093c34a3c4410307718084aa1",
+        "next": [
+            "MIC.3"
+        ],
+        "prev": [
+            "MIC.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.02,
+                    "startOffset": 0,
+                    "endOffset": 142
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.02,
+                    "end": 24.619999999999997,
+                    "startOffset": 144,
+                    "endOffset": 280
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.619999999999997,
+                    "end": 39.720000000000006,
+                    "startOffset": 282,
+                    "endOffset": 460
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.720000000000006,
+                    "end": 57.5,
+                    "startOffset": 462,
+                    "endOffset": 700
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.5,
+                    "end": 65.74,
+                    "startOffset": 705,
+                    "endOffset": 794
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.74,
+                    "end": 77.68,
+                    "startOffset": 797,
+                    "endOffset": 922
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 77.68,
+                    "end": 90.55,
+                    "startOffset": 924,
+                    "endOffset": 1075
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 90.55,
+                    "end": 102.97999999999999,
+                    "startOffset": 1078,
+                    "endOffset": 1230
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 102.97999999999999,
+                    "end": 111.67999999999999,
+                    "startOffset": 1232,
+                    "endOffset": 1352
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 111.67999999999999,
+                    "end": 122.669999,
+                    "startOffset": 1355,
+                    "endOffset": 1469
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 122.669999,
+                    "end": 135.32999999999998,
+                    "startOffset": 1471,
+                    "endOffset": 1623
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 135.32999999999998,
+                    "end": 153.46,
+                    "startOffset": 1626,
+                    "endOffset": 1862
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 153.46,
+                    "end": 172.44,
+                    "startOffset": 1864,
+                    "endOffset": 2037
+                }
+            }
+        ]
+    }
+]

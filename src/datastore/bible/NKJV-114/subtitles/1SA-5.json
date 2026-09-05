@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "I Samuel Chapter 5 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "5-ea8ba2113d9735abcf6d3366216ca3ef",
+        "next": [
+            "1SA.6"
+        ],
+        "prev": [
+            "1SA.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.62,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.62,
+                    "end": 15.399999,
+                    "startOffset": 81,
+                    "endOffset": 182
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.399999,
+                    "end": 29.169999999999998,
+                    "startOffset": 184,
+                    "endOffset": 367
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.169999999999998,
+                    "end": 46.34,
+                    "startOffset": 369,
+                    "endOffset": 608
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.34,
+                    "end": 56.13,
+                    "startOffset": 610,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.13,
+                    "end": 66.84,
+                    "startOffset": 740,
+                    "endOffset": 878
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 66.84,
+                    "end": 79.63,
+                    "startOffset": 880,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.63,
+                    "end": 100.08,
+                    "startOffset": 1042,
+                    "endOffset": 1315
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 100.08,
+                    "end": 115.7,
+                    "startOffset": 1317,
+                    "endOffset": 1523
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 115.7,
+                    "end": 131.79999999999998,
+                    "startOffset": 1525,
+                    "endOffset": 1732
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 131.79999999999998,
+                    "end": 152.74,
+                    "startOffset": 1735,
+                    "endOffset": 2033
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 152.74,
+                    "end": 162.72,
+                    "startOffset": 2035,
+                    "endOffset": 2135
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I Samuel Chapter 5 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "5-a4521467627e970c5c43144791686fd4",
+        "next": [
+            "1SA.6"
+        ],
+        "prev": [
+            "1SA.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.61,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.61,
+                    "end": 14.93,
+                    "startOffset": 81,
+                    "endOffset": 182
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.93,
+                    "end": 28.64,
+                    "startOffset": 184,
+                    "endOffset": 367
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.64,
+                    "end": 45.89,
+                    "startOffset": 369,
+                    "endOffset": 608
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.89,
+                    "end": 56.12,
+                    "startOffset": 610,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.12,
+                    "end": 67.4,
+                    "startOffset": 740,
+                    "endOffset": 878
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.4,
+                    "end": 79.07,
+                    "startOffset": 880,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.07,
+                    "end": 100.67999999999999,
+                    "startOffset": 1042,
+                    "endOffset": 1315
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 100.67999999999999,
+                    "end": 115.01,
+                    "startOffset": 1317,
+                    "endOffset": 1523
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 115.01,
+                    "end": 131.08999999999997,
+                    "startOffset": 1525,
+                    "endOffset": 1732
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 131.08999999999997,
+                    "end": 151.81,
+                    "startOffset": 1735,
+                    "endOffset": 2033
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 151.81,
+                    "end": 164.136,
+                    "startOffset": 2035,
+                    "endOffset": 2135
+                }
+            }
+        ]
+    }
+]

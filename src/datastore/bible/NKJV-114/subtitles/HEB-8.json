@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Hebrews Chapter 8 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "8-53bc3a132636e9e04a537fcff9b61f1b",
+        "next": [
+            "HEB.9"
+        ],
+        "prev": [
+            "HEB.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.450000000000001,
+                    "startOffset": 0,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.450000000000001,
+                    "end": 21.18,
+                    "startOffset": 162,
+                    "endOffset": 252
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.18,
+                    "end": 30.939999999999998,
+                    "startOffset": 254,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.939999999999998,
+                    "end": 37.809999999999995,
+                    "startOffset": 396,
+                    "endOffset": 511
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.809999999999995,
+                    "end": 52.53,
+                    "startOffset": 513,
+                    "endOffset": 735
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.53,
+                    "end": 62.89,
+                    "startOffset": 738,
+                    "endOffset": 883
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 62.89,
+                    "end": 69.559999,
+                    "startOffset": 885,
+                    "endOffset": 981
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.559999,
+                    "end": 80.94999999999999,
+                    "startOffset": 983,
+                    "endOffset": 1154
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.94999999999999,
+                    "end": 94.5,
+                    "startOffset": 1156,
+                    "endOffset": 1379
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 94.5,
+                    "end": 108.85000000000001,
+                    "startOffset": 1381,
+                    "endOffset": 1598
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.85000000000001,
+                    "end": 119.36,
+                    "startOffset": 1600,
+                    "endOffset": 1755
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 119.36,
+                    "end": 126.62,
+                    "startOffset": 1757,
+                    "endOffset": 1868
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 126.62,
+                    "end": 139.68,
+                    "startOffset": 1871,
+                    "endOffset": 2007
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Hebrews Chapter 8 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "8-bb623aa7d31242e1af1ce2c712f80763",
+        "next": [
+            "HEB.9"
+        ],
+        "prev": [
+            "HEB.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.059999000000001,
+                    "startOffset": 0,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.059999000000001,
+                    "end": 21.68,
+                    "startOffset": 162,
+                    "endOffset": 252
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.68,
+                    "end": 34.13,
+                    "startOffset": 254,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.13,
+                    "end": 43.339999999999996,
+                    "startOffset": 396,
+                    "endOffset": 511
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.339999999999996,
+                    "end": 61.24,
+                    "startOffset": 513,
+                    "endOffset": 735
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.24,
+                    "end": 74.56,
+                    "startOffset": 738,
+                    "endOffset": 883
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 74.56,
+                    "end": 83.16,
+                    "startOffset": 885,
+                    "endOffset": 981
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 83.16,
+                    "end": 95.55000000000001,
+                    "startOffset": 983,
+                    "endOffset": 1154
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 95.55000000000001,
+                    "end": 109.92,
+                    "startOffset": 1156,
+                    "endOffset": 1379
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 109.92,
+                    "end": 126.45,
+                    "startOffset": 1381,
+                    "endOffset": 1598
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 126.45,
+                    "end": 138.01,
+                    "startOffset": 1600,
+                    "endOffset": 1755
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 138.01,
+                    "end": 146.67,
+                    "startOffset": 1757,
+                    "endOffset": 1868
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 146.67,
+                    "end": 165.816,
+                    "startOffset": 1871,
+                    "endOffset": 2007
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Micah Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-01bb75869674a50dcaeb426b02745f36",
+        "next": [
+            "MIC.5"
+        ],
+        "prev": [
+            "MIC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.629998999999998,
+                    "startOffset": 0,
+                    "endOffset": 199
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.629998999999998,
+                    "end": 35.799999,
+                    "startOffset": 201,
+                    "endOffset": 460
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.799999,
+                    "end": 52.889999,
+                    "startOffset": 462,
+                    "endOffset": 701
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 52.889999,
+                    "end": 63.23,
+                    "startOffset": 703,
+                    "endOffset": 845
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 63.23,
+                    "end": 72.25,
+                    "startOffset": 847,
+                    "endOffset": 961
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 72.25,
+                    "end": 81.36999999999999,
+                    "startOffset": 964,
+                    "endOffset": 1077
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 81.36999999999999,
+                    "end": 92.36,
+                    "startOffset": 1079,
+                    "endOffset": 1217
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 92.36,
+                    "end": 105.71,
+                    "startOffset": 1219,
+                    "endOffset": 1389
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 105.71,
+                    "end": 116.8,
+                    "startOffset": 1392,
+                    "endOffset": 1527
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 116.8,
+                    "end": 137.18,
+                    "startOffset": 1529,
+                    "endOffset": 1807
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 137.18,
+                    "end": 146.23000000000002,
+                    "startOffset": 1809,
+                    "endOffset": 1918
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 146.23000000000002,
+                    "end": 156.47,
+                    "startOffset": 1921,
+                    "endOffset": 2063
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 156.47,
+                    "end": 176.184,
+                    "startOffset": 2066,
+                    "endOffset": 2303
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Micah Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-3d8c2e9857166536d92bfb31a4bc3dd1",
+        "next": [
+            "MIC.5"
+        ],
+        "prev": [
+            "MIC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.409999,
+                    "startOffset": 0,
+                    "endOffset": 199
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.409999,
+                    "end": 35.599999000000004,
+                    "startOffset": 201,
+                    "endOffset": 460
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.599999000000004,
+                    "end": 56.11,
+                    "startOffset": 462,
+                    "endOffset": 701
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 56.11,
+                    "end": 68.469999,
+                    "startOffset": 703,
+                    "endOffset": 845
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 68.469999,
+                    "end": 78.3,
+                    "startOffset": 847,
+                    "endOffset": 961
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 78.3,
+                    "end": 89.59,
+                    "startOffset": 964,
+                    "endOffset": 1077
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 89.59,
+                    "end": 100.66999899999999,
+                    "startOffset": 1079,
+                    "endOffset": 1217
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 100.66999899999999,
+                    "end": 114.91000000000001,
+                    "startOffset": 1219,
+                    "endOffset": 1389
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 114.91000000000001,
+                    "end": 127.47,
+                    "startOffset": 1392,
+                    "endOffset": 1527
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 127.47,
+                    "end": 149.17,
+                    "startOffset": 1529,
+                    "endOffset": 1807
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 149.17,
+                    "end": 159.779999,
+                    "startOffset": 1809,
+                    "endOffset": 1918
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 159.779999,
+                    "end": 169.98000000000002,
+                    "startOffset": 1921,
+                    "endOffset": 2063
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 169.98000000000002,
+                    "end": 195.144,
+                    "startOffset": 2066,
+                    "endOffset": 2303
+                }
+            }
+        ]
+    }
+]

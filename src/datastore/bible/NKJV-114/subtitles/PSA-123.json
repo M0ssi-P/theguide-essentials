@@ -1,0 +1,106 @@
+[
+    {
+        "audioName": "Psalms Chapter 123 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "123-e2e0fa50d63e1d292de3bd6e1246a7cc",
+        "next": [
+            "PSA.124"
+        ],
+        "prev": [
+            "PSA.122"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.34,
+                    "startOffset": 0,
+                    "endOffset": 58
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.34,
+                    "end": 25.48,
+                    "startOffset": 60,
+                    "endOffset": 240
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.48,
+                    "end": 32.65,
+                    "startOffset": 242,
+                    "endOffset": 329
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.65,
+                    "end": 41.808,
+                    "startOffset": 331,
+                    "endOffset": 433
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 123 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "123-0e9d9fe7b950838a128d2160106e5471",
+        "next": [
+            "PSA.124"
+        ],
+        "prev": [
+            "PSA.122"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.790000000000001,
+                    "startOffset": 0,
+                    "endOffset": 58
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.790000000000001,
+                    "end": 0,
+                    "startOffset": 60,
+                    "endOffset": 240
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 0,
+                    "end": 35.949999000000005,
+                    "startOffset": 242,
+                    "endOffset": 329
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.949999000000005,
+                    "end": 50.16,
+                    "startOffset": 331,
+                    "endOffset": 433
+                }
+            }
+        ]
+    }
+]

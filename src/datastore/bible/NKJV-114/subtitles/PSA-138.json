@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 138 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "138-38117d2dc8465a959a3f533ab69a1e72",
+        "next": [
+            "PSA.139"
+        ],
+        "prev": [
+            "PSA.137"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.53,
+                    "startOffset": 0,
+                    "endOffset": 81
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.53,
+                    "end": 22.959999999999997,
+                    "startOffset": 83,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.959999999999997,
+                    "end": 29.969998999999998,
+                    "startOffset": 238,
+                    "endOffset": 325
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.969998999999998,
+                    "end": 35.89,
+                    "startOffset": 327,
+                    "endOffset": 418
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.89,
+                    "end": 42.01,
+                    "startOffset": 420,
+                    "endOffset": 500
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.01,
+                    "end": 50.04,
+                    "startOffset": 502,
+                    "endOffset": 589
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 50.04,
+                    "end": 60.54,
+                    "startOffset": 591,
+                    "endOffset": 746
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.54,
+                    "end": 72.624,
+                    "startOffset": 748,
+                    "endOffset": 870
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 138 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "138-bc6bd6ef6536baba05433d941382306a",
+        "next": [
+            "PSA.139"
+        ],
+        "prev": [
+            "PSA.137"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.099999,
+                    "startOffset": 0,
+                    "endOffset": 81
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.099999,
+                    "end": 24.55,
+                    "startOffset": 83,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.55,
+                    "end": 32.17,
+                    "startOffset": 238,
+                    "endOffset": 325
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.17,
+                    "end": 39.74,
+                    "startOffset": 327,
+                    "endOffset": 418
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 39.74,
+                    "end": 46.689999,
+                    "startOffset": 420,
+                    "endOffset": 500
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.689999,
+                    "end": 56,
+                    "startOffset": 502,
+                    "endOffset": 589
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 56,
+                    "end": 69.44999999999999,
+                    "startOffset": 591,
+                    "endOffset": 746
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.44999999999999,
+                    "end": 86.856,
+                    "startOffset": 748,
+                    "endOffset": 870
+                }
+            }
+        ]
+    }
+]

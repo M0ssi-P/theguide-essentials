@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 75 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "75-0ac4997c66a4a81f02d5307621eae27d",
+        "next": [
+            "PSA.76"
+        ],
+        "prev": [
+            "PSA.74"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.56,
+                    "startOffset": 0,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.56,
+                    "end": 23.310000000000002,
+                    "startOffset": 103,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.310000000000002,
+                    "end": 30.16,
+                    "startOffset": 158,
+                    "endOffset": 241
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.16,
+                    "end": 38.48,
+                    "startOffset": 243,
+                    "endOffset": 336
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.48,
+                    "end": 43.76,
+                    "startOffset": 338,
+                    "endOffset": 402
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 43.76,
+                    "end": 49.589999,
+                    "startOffset": 407,
+                    "endOffset": 486
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 49.589999,
+                    "end": 54.76,
+                    "startOffset": 488,
+                    "endOffset": 546
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 54.76,
+                    "end": 68.47,
+                    "startOffset": 548,
+                    "endOffset": 726
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 68.47,
+                    "end": 74.29,
+                    "startOffset": 728,
+                    "endOffset": 795
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 74.29,
+                    "end": 83.304,
+                    "startOffset": 798,
+                    "endOffset": 895
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 75 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "75-4e502fa40d7e83f47f805f8dc00ca722",
+        "next": [
+            "PSA.76"
+        ],
+        "prev": [
+            "PSA.74"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.159999000000003,
+                    "startOffset": 0,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.159999000000003,
+                    "end": 23.77,
+                    "startOffset": 103,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.77,
+                    "end": 32.109999,
+                    "startOffset": 158,
+                    "endOffset": 241
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.109999,
+                    "end": 40.67,
+                    "startOffset": 243,
+                    "endOffset": 336
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.67,
+                    "end": 45.76,
+                    "startOffset": 338,
+                    "endOffset": 402
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.76,
+                    "end": 53.019999,
+                    "startOffset": 407,
+                    "endOffset": 486
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.019999,
+                    "end": 59.330000000000005,
+                    "startOffset": 488,
+                    "endOffset": 546
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 59.330000000000005,
+                    "end": 74.72999999999999,
+                    "startOffset": 548,
+                    "endOffset": 726
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 74.72999999999999,
+                    "end": 81.28,
+                    "startOffset": 728,
+                    "endOffset": 795
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 81.28,
+                    "end": 95.136,
+                    "startOffset": 798,
+                    "endOffset": 895
+                }
+            }
+        ]
+    }
+]

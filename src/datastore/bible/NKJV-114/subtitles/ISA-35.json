@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Isaiah Chapter 35 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "35-219271f759a29792effb3bcbc300eb95",
+        "next": [
+            "ISA.36"
+        ],
+        "prev": [
+            "ISA.34"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.77,
+                    "startOffset": 0,
+                    "endOffset": 109
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.77,
+                    "end": 26.6,
+                    "startOffset": 111,
+                    "endOffset": 322
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.6,
+                    "end": 30.77,
+                    "startOffset": 324,
+                    "endOffset": 381
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.77,
+                    "end": 43.65,
+                    "startOffset": 383,
+                    "endOffset": 544
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.65,
+                    "end": 50.429999,
+                    "startOffset": 547,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 50.429999,
+                    "end": 60.3,
+                    "startOffset": 636,
+                    "endOffset": 780
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.3,
+                    "end": 71.76,
+                    "startOffset": 782,
+                    "endOffset": 951
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 71.76,
+                    "end": 86.67,
+                    "startOffset": 953,
+                    "endOffset": 1164
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 86.67,
+                    "end": 95.71,
+                    "startOffset": 1166,
+                    "endOffset": 1294
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 95.71,
+                    "end": 111,
+                    "startOffset": 1296,
+                    "endOffset": 1481
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 35 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "35-3e194035f601c57f1c0969f34b6e97e7",
+        "next": [
+            "ISA.36"
+        ],
+        "prev": [
+            "ISA.34"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.89,
+                    "startOffset": 0,
+                    "endOffset": 109
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.89,
+                    "end": 27.779999999999998,
+                    "startOffset": 111,
+                    "endOffset": 322
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.779999999999998,
+                    "end": 33.51,
+                    "startOffset": 324,
+                    "endOffset": 381
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.51,
+                    "end": 47.379999000000005,
+                    "startOffset": 383,
+                    "endOffset": 544
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.379999000000005,
+                    "end": 55.28,
+                    "startOffset": 547,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.28,
+                    "end": 67.56,
+                    "startOffset": 636,
+                    "endOffset": 780
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.56,
+                    "end": 82.72,
+                    "startOffset": 782,
+                    "endOffset": 951
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 82.72,
+                    "end": 101.99,
+                    "startOffset": 953,
+                    "endOffset": 1164
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 101.99,
+                    "end": 113.80000000000001,
+                    "startOffset": 1166,
+                    "endOffset": 1294
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 113.80000000000001,
+                    "end": 134.568,
+                    "startOffset": 1296,
+                    "endOffset": 1481
+                }
+            }
+        ]
+    }
+]

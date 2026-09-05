@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Romans Chapter 13 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "13-0fa628d2c189218f3134b9369d8a48d3",
+        "next": [
+            "ROM.14"
+        ],
+        "prev": [
+            "ROM.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.01,
+                    "startOffset": 0,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.01,
+                    "end": 22.27,
+                    "startOffset": 152,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.27,
+                    "end": 33.069998999999996,
+                    "startOffset": 278,
+                    "endOffset": 434
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.069998999999996,
+                    "end": 47.24,
+                    "startOffset": 436,
+                    "endOffset": 628
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.24,
+                    "end": 53.390001,
+                    "startOffset": 630,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 53.390001,
+                    "end": 60.63,
+                    "startOffset": 718,
+                    "endOffset": 827
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.63,
+                    "end": 70.8,
+                    "startOffset": 829,
+                    "endOffset": 957
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.8,
+                    "end": 78.22,
+                    "startOffset": 959,
+                    "endOffset": 1053
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 78.22,
+                    "end": 96.2,
+                    "startOffset": 1055,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 96.2,
+                    "end": 101.62,
+                    "startOffset": 1342,
+                    "endOffset": 1419
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 101.62,
+                    "end": 112.07,
+                    "startOffset": 1421,
+                    "endOffset": 1560
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 112.07,
+                    "end": 121.219999,
+                    "startOffset": 1562,
+                    "endOffset": 1691
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 121.219999,
+                    "end": 130.29999999999998,
+                    "startOffset": 1693,
+                    "endOffset": 1810
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 130.29999999999998,
+                    "end": 138.384,
+                    "startOffset": 1812,
+                    "endOffset": 1904
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Romans Chapter 13 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "13-57389b6fa73dceb387f3c4e0b6a91e84",
+        "next": [
+            "ROM.14"
+        ],
+        "prev": [
+            "ROM.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.85,
+                    "startOffset": 0,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.85,
+                    "end": 24.7,
+                    "startOffset": 152,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.7,
+                    "end": 37.89,
+                    "startOffset": 278,
+                    "endOffset": 434
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.89,
+                    "end": 54.199999999999996,
+                    "startOffset": 436,
+                    "endOffset": 628
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.199999999999996,
+                    "end": 61.6,
+                    "startOffset": 630,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.6,
+                    "end": 70.53,
+                    "startOffset": 718,
+                    "endOffset": 827
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 70.53,
+                    "end": 83.02,
+                    "startOffset": 829,
+                    "endOffset": 957
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 83.02,
+                    "end": 93.65,
+                    "startOffset": 959,
+                    "endOffset": 1053
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 93.65,
+                    "end": 113.2,
+                    "startOffset": 1055,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 113.2,
+                    "end": 121.80000000000001,
+                    "startOffset": 1342,
+                    "endOffset": 1419
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 121.80000000000001,
+                    "end": 134.94,
+                    "startOffset": 1421,
+                    "endOffset": 1560
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 134.94,
+                    "end": 145.95,
+                    "startOffset": 1562,
+                    "endOffset": 1691
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 145.95,
+                    "end": 156.73000000000002,
+                    "startOffset": 1693,
+                    "endOffset": 1810
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 156.73000000000002,
+                    "end": 169.8,
+                    "startOffset": 1812,
+                    "endOffset": 1904
+                }
+            }
+        ]
+    }
+]

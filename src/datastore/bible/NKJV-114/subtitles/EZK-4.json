@@ -1,0 +1,340 @@
+[
+    {
+        "audioName": "Ezekiel Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-3b6127d245947e3fc4d20ed2af320cb9",
+        "next": [
+            "EZK.5"
+        ],
+        "prev": [
+            "EZK.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.280000000000001,
+                    "startOffset": 1,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.280000000000001,
+                    "end": 23.5,
+                    "startOffset": 102,
+                    "endOffset": 260
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.5,
+                    "end": 39.28,
+                    "startOffset": 262,
+                    "endOffset": 488
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.28,
+                    "end": 50.43,
+                    "startOffset": 491,
+                    "endOffset": 657
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.43,
+                    "end": 61.88,
+                    "startOffset": 659,
+                    "endOffset": 832
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.88,
+                    "end": 72.969999,
+                    "startOffset": 834,
+                    "endOffset": 1003
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 72.969999,
+                    "end": 81.33,
+                    "startOffset": 1006,
+                    "endOffset": 1134
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 81.33,
+                    "end": 88.64999999999999,
+                    "startOffset": 1136,
+                    "endOffset": 1258
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 88.64999999999999,
+                    "end": 106.239999,
+                    "startOffset": 1261,
+                    "endOffset": 1497
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 106.239999,
+                    "end": 113.18,
+                    "startOffset": 1499,
+                    "endOffset": 1604
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 113.18,
+                    "end": 119.78999999999999,
+                    "startOffset": 1606,
+                    "endOffset": 1698
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 119.78999999999999,
+                    "end": 125.37,
+                    "startOffset": 1700,
+                    "endOffset": 1790
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 125.37,
+                    "end": 133.59,
+                    "startOffset": 1793,
+                    "endOffset": 1913
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 133.59,
+                    "end": 148.8,
+                    "startOffset": 1916,
+                    "endOffset": 2111
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 148.8,
+                    "end": 157.59999900000003,
+                    "startOffset": 2114,
+                    "endOffset": 2229
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 157.59999900000003,
+                    "end": 170.48,
+                    "startOffset": 2232,
+                    "endOffset": 2421
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 170.48,
+                    "end": 179.376,
+                    "startOffset": 2423,
+                    "endOffset": 2533
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ezekiel Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-e4bcc5986bc88014245b73c328aba599",
+        "next": [
+            "EZK.5"
+        ],
+        "prev": [
+            "EZK.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.839998999999999,
+                    "startOffset": 1,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.839998999999999,
+                    "end": 23.47,
+                    "startOffset": 102,
+                    "endOffset": 260
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.47,
+                    "end": 41.839999999999996,
+                    "startOffset": 262,
+                    "endOffset": 488
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.839999999999996,
+                    "end": 54.699999,
+                    "startOffset": 491,
+                    "endOffset": 657
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.699999,
+                    "end": 67.5,
+                    "startOffset": 659,
+                    "endOffset": 832
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 67.5,
+                    "end": 80.65,
+                    "startOffset": 834,
+                    "endOffset": 1003
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.65,
+                    "end": 90.63,
+                    "startOffset": 1006,
+                    "endOffset": 1134
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 90.63,
+                    "end": 99.13,
+                    "startOffset": 1136,
+                    "endOffset": 1258
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 99.13,
+                    "end": 120.30999999999999,
+                    "startOffset": 1261,
+                    "endOffset": 1497
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 120.30999999999999,
+                    "end": 128.72,
+                    "startOffset": 1499,
+                    "endOffset": 1604
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 128.72,
+                    "end": 136.52,
+                    "startOffset": 1606,
+                    "endOffset": 1698
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 136.52,
+                    "end": 143.989999,
+                    "startOffset": 1700,
+                    "endOffset": 1790
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 143.989999,
+                    "end": 154.38,
+                    "startOffset": 1793,
+                    "endOffset": 1913
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 154.38,
+                    "end": 171.59,
+                    "startOffset": 1916,
+                    "endOffset": 2111
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 171.59,
+                    "end": 182.4,
+                    "startOffset": 2114,
+                    "endOffset": 2229
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 182.4,
+                    "end": 197.82,
+                    "startOffset": 2232,
+                    "endOffset": 2421
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 197.82,
+                    "end": 209.832,
+                    "startOffset": 2423,
+                    "endOffset": 2533
+                }
+            }
+        ]
+    }
+]

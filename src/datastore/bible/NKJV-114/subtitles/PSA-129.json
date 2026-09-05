@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 129 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "129-201db0b34653f9a9f2f83f8a871a7bb4",
+        "next": [
+            "PSA.130"
+        ],
+        "prev": [
+            "PSA.128"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.149999,
+                    "startOffset": 1,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.149999,
+                    "end": 16.520000999999997,
+                    "startOffset": 73,
+                    "endOffset": 161
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.520000999999997,
+                    "end": 21.03,
+                    "startOffset": 163,
+                    "endOffset": 222
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.03,
+                    "end": 25.51,
+                    "startOffset": 225,
+                    "endOffset": 293
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 25.51,
+                    "end": 30.46,
+                    "startOffset": 295,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.46,
+                    "end": 35.279999,
+                    "startOffset": 356,
+                    "endOffset": 431
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 35.279999,
+                    "end": 40.949999999999996,
+                    "startOffset": 433,
+                    "endOffset": 513
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 40.949999999999996,
+                    "end": 50.904,
+                    "startOffset": 515,
+                    "endOffset": 631
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 129 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "129-ddbf299c44551f81ac535d9a0f42f3a3",
+        "next": [
+            "PSA.130"
+        ],
+        "prev": [
+            "PSA.128"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.789999,
+                    "startOffset": 1,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.789999,
+                    "end": 16.919999999999998,
+                    "startOffset": 73,
+                    "endOffset": 161
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.919999999999998,
+                    "end": 22.200000000000003,
+                    "startOffset": 163,
+                    "endOffset": 222
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.200000000000003,
+                    "end": 28.81,
+                    "startOffset": 225,
+                    "endOffset": 293
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.81,
+                    "end": 34.079999,
+                    "startOffset": 295,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 34.079999,
+                    "end": 39.64,
+                    "startOffset": 356,
+                    "endOffset": 431
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 39.64,
+                    "end": 45.699999999999996,
+                    "startOffset": 433,
+                    "endOffset": 513
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 45.699999999999996,
+                    "end": 59.088,
+                    "startOffset": 515,
+                    "endOffset": 631
+                }
+            }
+        ]
+    }
+]

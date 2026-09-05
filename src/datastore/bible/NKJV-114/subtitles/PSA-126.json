@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Psalms Chapter 126 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "126-26c87976d621cc2fc5668b383a0c5c8d",
+        "next": [
+            "PSA.127"
+        ],
+        "prev": [
+            "PSA.125"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.99,
+                    "startOffset": 0,
+                    "endOffset": 78
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.99,
+                    "end": 19.93,
+                    "startOffset": 80,
+                    "endOffset": 224
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.93,
+                    "end": 24.18,
+                    "startOffset": 227,
+                    "endOffset": 281
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.18,
+                    "end": 28.86,
+                    "startOffset": 283,
+                    "endOffset": 344
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.86,
+                    "end": 32.97,
+                    "startOffset": 346,
+                    "endOffset": 386
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 32.97,
+                    "end": 44.52,
+                    "startOffset": 388,
+                    "endOffset": 525
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 126 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "126-e1f25c76b4068bcf808ee453ceca49ac",
+        "next": [
+            "PSA.127"
+        ],
+        "prev": [
+            "PSA.125"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.86,
+                    "startOffset": 0,
+                    "endOffset": 78
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.86,
+                    "end": 22.94,
+                    "startOffset": 80,
+                    "endOffset": 224
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.94,
+                    "end": 27.750000000000004,
+                    "startOffset": 227,
+                    "endOffset": 281
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.750000000000004,
+                    "end": 33.689999,
+                    "startOffset": 283,
+                    "endOffset": 344
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.689999,
+                    "end": 38.779999000000004,
+                    "startOffset": 346,
+                    "endOffset": 386
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.779999000000004,
+                    "end": 55.128,
+                    "startOffset": 388,
+                    "endOffset": 525
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Jeremiah Chapter 47 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "47-08520c04df3eea6305070ab76eb484bc",
+        "next": [
+            "JER.48"
+        ],
+        "prev": [
+            "JER.46"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.03,
+                    "startOffset": 0,
+                    "endOffset": 108
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.03,
+                    "end": 29,
+                    "startOffset": 110,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29,
+                    "end": 41.45,
+                    "startOffset": 365,
+                    "endOffset": 552
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.45,
+                    "end": 54.28,
+                    "startOffset": 554,
+                    "endOffset": 754
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.28,
+                    "end": 62.65,
+                    "startOffset": 756,
+                    "endOffset": 869
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.65,
+                    "end": 71.19,
+                    "startOffset": 872,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.19,
+                    "end": 81.84,
+                    "startOffset": 982,
+                    "endOffset": 1109
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jeremiah Chapter 47 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "47-1fa727297c9b689da2959607f24fa8b0",
+        "next": [
+            "JER.48"
+        ],
+        "prev": [
+            "JER.46"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.36,
+                    "startOffset": 0,
+                    "endOffset": 108
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.36,
+                    "end": 29.11,
+                    "startOffset": 110,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.11,
+                    "end": 42.440000000000005,
+                    "startOffset": 365,
+                    "endOffset": 552
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 42.440000000000005,
+                    "end": 55.59,
+                    "startOffset": 554,
+                    "endOffset": 754
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.59,
+                    "end": 65.28999999999999,
+                    "startOffset": 756,
+                    "endOffset": 869
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.28999999999999,
+                    "end": 75.11,
+                    "startOffset": 872,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 75.11,
+                    "end": 90.168,
+                    "startOffset": 982,
+                    "endOffset": 1109
+                }
+            }
+        ]
+    }
+]

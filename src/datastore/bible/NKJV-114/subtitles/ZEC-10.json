@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Zechariah Chapter 10 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "10-404bbd400262a877d9d56fc0dd5abb6f",
+        "next": [
+            "ZEC.11"
+        ],
+        "prev": [
+            "ZEC.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.719999,
+                    "startOffset": 0,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.719999,
+                    "end": 31.599999,
+                    "startOffset": 158,
+                    "endOffset": 359
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.599999,
+                    "end": 45.57,
+                    "startOffset": 362,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 45.57,
+                    "end": 55.039999,
+                    "startOffset": 555,
+                    "endOffset": 664
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.039999,
+                    "end": 68.52,
+                    "startOffset": 666,
+                    "endOffset": 863
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 68.52,
+                    "end": 86.299999,
+                    "startOffset": 866,
+                    "endOffset": 1095
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 86.299999,
+                    "end": 100.03,
+                    "startOffset": 1097,
+                    "endOffset": 1273
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 100.03,
+                    "end": 108.87,
+                    "startOffset": 1275,
+                    "endOffset": 1386
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 108.87,
+                    "end": 119.81,
+                    "startOffset": 1389,
+                    "endOffset": 1537
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 119.81,
+                    "end": 132.45,
+                    "startOffset": 1539,
+                    "endOffset": 1713
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 132.45,
+                    "end": 147.28,
+                    "startOffset": 1715,
+                    "endOffset": 1923
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 147.28,
+                    "end": 157.248,
+                    "startOffset": 1926,
+                    "endOffset": 2024
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Zechariah Chapter 10 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "10-343034d5f5bacb24059227c3baa6e63c",
+        "next": [
+            "ZEC.11"
+        ],
+        "prev": [
+            "ZEC.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.32,
+                    "startOffset": 0,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.32,
+                    "end": 30.34,
+                    "startOffset": 158,
+                    "endOffset": 359
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.34,
+                    "end": 44.6,
+                    "startOffset": 362,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 44.6,
+                    "end": 54.34,
+                    "startOffset": 555,
+                    "endOffset": 664
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.34,
+                    "end": 67.83,
+                    "startOffset": 666,
+                    "endOffset": 863
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 67.83,
+                    "end": 87.42,
+                    "startOffset": 866,
+                    "endOffset": 1095
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 87.42,
+                    "end": 102.94,
+                    "startOffset": 1097,
+                    "endOffset": 1273
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 102.94,
+                    "end": 112.05,
+                    "startOffset": 1275,
+                    "endOffset": 1386
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 112.05,
+                    "end": 123.33,
+                    "startOffset": 1389,
+                    "endOffset": 1537
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 123.33,
+                    "end": 136.31,
+                    "startOffset": 1539,
+                    "endOffset": 1713
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 136.31,
+                    "end": 152.42,
+                    "startOffset": 1715,
+                    "endOffset": 1923
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 152.42,
+                    "end": 165.648,
+                    "startOffset": 1926,
+                    "endOffset": 2024
+                }
+            }
+        ]
+    }
+]

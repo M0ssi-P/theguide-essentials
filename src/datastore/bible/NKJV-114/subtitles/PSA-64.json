@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 64 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "64-7624be5b864616fa650161c57346d0ac",
+        "next": [
+            "PSA.65"
+        ],
+        "prev": [
+            "PSA.63"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.149999,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.149999,
+                    "end": 18.94,
+                    "startOffset": 81,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.94,
+                    "end": 25.810000000000002,
+                    "startOffset": 173,
+                    "endOffset": 269
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.810000000000002,
+                    "end": 32.15,
+                    "startOffset": 271,
+                    "endOffset": 361
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.15,
+                    "end": 41.459999999999994,
+                    "startOffset": 363,
+                    "endOffset": 473
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.459999999999994,
+                    "end": 50.96,
+                    "startOffset": 476,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 50.96,
+                    "end": 56.13,
+                    "startOffset": 592,
+                    "endOffset": 665
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 56.13,
+                    "end": 61.97,
+                    "startOffset": 667,
+                    "endOffset": 751
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 61.97,
+                    "end": 69.42,
+                    "startOffset": 753,
+                    "endOffset": 848
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 69.42,
+                    "end": 78.552,
+                    "startOffset": 850,
+                    "endOffset": 949
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 64 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "64-928b0ef189cea211dbe22469bcb397ee",
+        "next": [
+            "PSA.65"
+        ],
+        "prev": [
+            "PSA.63"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.699999,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.699999,
+                    "end": 19.740000000000002,
+                    "startOffset": 81,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.740000000000002,
+                    "end": 26.93,
+                    "startOffset": 173,
+                    "endOffset": 269
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.93,
+                    "end": 33.36,
+                    "startOffset": 271,
+                    "endOffset": 361
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.36,
+                    "end": 43.67,
+                    "startOffset": 363,
+                    "endOffset": 473
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 43.67,
+                    "end": 54.67999999999999,
+                    "startOffset": 476,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 54.67999999999999,
+                    "end": 61.85,
+                    "startOffset": 592,
+                    "endOffset": 665
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 61.85,
+                    "end": 68.75999900000001,
+                    "startOffset": 667,
+                    "endOffset": 751
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 68.75999900000001,
+                    "end": 76.479999,
+                    "startOffset": 753,
+                    "endOffset": 848
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 76.479999,
+                    "end": 91.152,
+                    "startOffset": 850,
+                    "endOffset": 949
+                }
+            }
+        ]
+    }
+]

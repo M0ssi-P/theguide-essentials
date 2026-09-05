@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Jonah Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-605633d392457df50af3b5a691b85432",
+        "next": [
+            "JON.3"
+        ],
+        "prev": [
+            "JON.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.42,
+                    "startOffset": 0,
+                    "endOffset": 59
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.42,
+                    "end": 17.220000000000002,
+                    "startOffset": 61,
+                    "endOffset": 203
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.220000000000002,
+                    "end": 26.79,
+                    "startOffset": 205,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.79,
+                    "end": 33.47,
+                    "startOffset": 342,
+                    "endOffset": 437
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.47,
+                    "end": 41.949999999999996,
+                    "startOffset": 440,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.949999999999996,
+                    "end": 52.879999000000005,
+                    "startOffset": 545,
+                    "endOffset": 701
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.879999000000005,
+                    "end": 61.34,
+                    "startOffset": 704,
+                    "endOffset": 810
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 61.34,
+                    "end": 66.039999,
+                    "startOffset": 813,
+                    "endOffset": 869
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 66.039999,
+                    "end": 74.56,
+                    "startOffset": 871,
+                    "endOffset": 985
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 74.56,
+                    "end": 81.432,
+                    "startOffset": 988,
+                    "endOffset": 1053
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jonah Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-58e1762630590ddf43fc7f0a22dc6b94",
+        "next": [
+            "JON.3"
+        ],
+        "prev": [
+            "JON.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.31,
+                    "startOffset": 0,
+                    "endOffset": 59
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.31,
+                    "end": 19.5,
+                    "startOffset": 61,
+                    "endOffset": 203
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.5,
+                    "end": 29.52,
+                    "startOffset": 205,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.52,
+                    "end": 37.14,
+                    "startOffset": 342,
+                    "endOffset": 437
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.14,
+                    "end": 47.779999999999994,
+                    "startOffset": 440,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 47.779999999999994,
+                    "end": 60.72,
+                    "startOffset": 545,
+                    "endOffset": 701
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.72,
+                    "end": 70.829999,
+                    "startOffset": 704,
+                    "endOffset": 810
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.829999,
+                    "end": 0,
+                    "startOffset": 813,
+                    "endOffset": 869
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 0,
+                    "end": 86.28,
+                    "startOffset": 871,
+                    "endOffset": 985
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 86.28,
+                    "end": 98.376,
+                    "startOffset": 988,
+                    "endOffset": 1053
+                }
+            }
+        ]
+    }
+]

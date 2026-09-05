@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Psalms Chapter 53 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "53-42e28319ac2e29c42d9d702eea89673e",
+        "next": [
+            "PSA.54"
+        ],
+        "prev": [
+            "PSA.52"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 0,
+                    "startOffset": 0,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 0,
+                    "end": 29.499999000000003,
+                    "startOffset": 135,
+                    "endOffset": 240
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.499999000000003,
+                    "end": 39.949999,
+                    "startOffset": 242,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.949999,
+                    "end": 48.61,
+                    "startOffset": 356,
+                    "endOffset": 463
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.61,
+                    "end": 62.309999999999995,
+                    "startOffset": 465,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.309999999999995,
+                    "end": 75.6,
+                    "startOffset": 636,
+                    "endOffset": 779
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 53 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "53-4fbeae720eb40cb7ce30b0693f908d90",
+        "next": [
+            "PSA.54"
+        ],
+        "prev": [
+            "PSA.52"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.48,
+                    "startOffset": 0,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.48,
+                    "end": 27.77,
+                    "startOffset": 135,
+                    "endOffset": 240
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.77,
+                    "end": 37.43999899999999,
+                    "startOffset": 242,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.43999899999999,
+                    "end": 46.669999,
+                    "startOffset": 356,
+                    "endOffset": 463
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.669999,
+                    "end": 59.45,
+                    "startOffset": 465,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.45,
+                    "end": 76.152,
+                    "startOffset": 636,
+                    "endOffset": 779
+                }
+            }
+        ]
+    }
+]

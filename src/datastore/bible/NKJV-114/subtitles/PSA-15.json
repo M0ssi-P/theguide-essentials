@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Psalms Chapter 15 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "15-b099dc35621d9d237c8b11e45d502668",
+        "next": [
+            "PSA.16"
+        ],
+        "prev": [
+            "PSA.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.280000000000001,
+                    "startOffset": 0,
+                    "endOffset": 71
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.280000000000001,
+                    "end": 18.460001,
+                    "startOffset": 73,
+                    "endOffset": 155
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.460001,
+                    "end": 26.52,
+                    "startOffset": 157,
+                    "endOffset": 280
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.52,
+                    "end": 37.7,
+                    "startOffset": 282,
+                    "endOffset": 412
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.7,
+                    "end": 50.208,
+                    "startOffset": 414,
+                    "endOffset": 551
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 15 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "15-5e15f27b882e0a02e016e67ba7fcd235",
+        "next": [
+            "PSA.16"
+        ],
+        "prev": [
+            "PSA.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.2,
+                    "startOffset": 0,
+                    "endOffset": 71
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.2,
+                    "end": 19.32,
+                    "startOffset": 73,
+                    "endOffset": 155
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.32,
+                    "end": 27.98,
+                    "startOffset": 157,
+                    "endOffset": 280
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.98,
+                    "end": 40.39,
+                    "startOffset": 282,
+                    "endOffset": 412
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.39,
+                    "end": 56.664,
+                    "startOffset": 414,
+                    "endOffset": 551
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Isaiah Chapter 12 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "12-216e40f4a6d66e3e3f24e92bc23d70ec",
+        "next": [
+            "ISA.13"
+        ],
+        "prev": [
+            "ISA.11"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.82,
+                    "startOffset": 0,
+                    "endOffset": 134
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.82,
+                    "end": 26.81,
+                    "startOffset": 136,
+                    "endOffset": 273
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.81,
+                    "end": 31.660000000000004,
+                    "startOffset": 278,
+                    "endOffset": 344
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.660000000000004,
+                    "end": 43.12,
+                    "startOffset": 346,
+                    "endOffset": 488
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.12,
+                    "end": 49.839999999999996,
+                    "startOffset": 490,
+                    "endOffset": 572
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.839999999999996,
+                    "end": 58.872,
+                    "startOffset": 574,
+                    "endOffset": 665
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 12 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "12-4d9580832c2f786dd351e0b333e2430b",
+        "next": [
+            "ISA.13"
+        ],
+        "prev": [
+            "ISA.11"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.3,
+                    "startOffset": 0,
+                    "endOffset": 134
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.3,
+                    "end": 25.85,
+                    "startOffset": 136,
+                    "endOffset": 273
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.85,
+                    "end": 32.010000000000005,
+                    "startOffset": 278,
+                    "endOffset": 344
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.010000000000005,
+                    "end": 44.18,
+                    "startOffset": 346,
+                    "endOffset": 488
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.18,
+                    "end": 51.12,
+                    "startOffset": 490,
+                    "endOffset": 572
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 51.12,
+                    "end": 62.904,
+                    "startOffset": 574,
+                    "endOffset": 665
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Isaiah Chapter 18 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "18-563a8990734f7c7772ed3ba5907de5e9",
+        "next": [
+            "ISA.19"
+        ],
+        "prev": [
+            "ISA.17"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.189999,
+                    "startOffset": 0,
+                    "endOffset": 83
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.189999,
+                    "end": 30.330000000000002,
+                    "startOffset": 85,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.330000000000002,
+                    "end": 40.96,
+                    "startOffset": 343,
+                    "endOffset": 495
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.96,
+                    "end": 52.179999,
+                    "startOffset": 497,
+                    "endOffset": 657
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 52.179999,
+                    "end": 64.25,
+                    "startOffset": 660,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.25,
+                    "end": 75.85000000000001,
+                    "startOffset": 846,
+                    "endOffset": 1027
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 75.85000000000001,
+                    "end": 98.352,
+                    "startOffset": 1029,
+                    "endOffset": 1312
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 18 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "18-ed99a4723eab2d4a75ae374fd11b9585",
+        "next": [
+            "ISA.19"
+        ],
+        "prev": [
+            "ISA.17"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.49,
+                    "startOffset": 0,
+                    "endOffset": 83
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.49,
+                    "end": 28.86,
+                    "startOffset": 85,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.86,
+                    "end": 42.449999999999996,
+                    "startOffset": 343,
+                    "endOffset": 495
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 42.449999999999996,
+                    "end": 57.540000000000006,
+                    "startOffset": 497,
+                    "endOffset": 657
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.540000000000006,
+                    "end": 72.449999,
+                    "startOffset": 660,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 72.449999,
+                    "end": 84.779999,
+                    "startOffset": 846,
+                    "endOffset": 1027
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 84.779999,
+                    "end": 112.152,
+                    "startOffset": 1029,
+                    "endOffset": 1312
+                }
+            }
+        ]
+    }
+]

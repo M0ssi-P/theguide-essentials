@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Psalms Chapter 23 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "23-27872402f5696e9b41739911ef878563",
+        "next": [
+            "PSA.24"
+        ],
+        "prev": [
+            "PSA.22"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.16,
+                    "startOffset": 0,
+                    "endOffset": 43
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.16,
+                    "end": 17.349999999999998,
+                    "startOffset": 45,
+                    "endOffset": 123
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.349999999999998,
+                    "end": 24.330000000000002,
+                    "startOffset": 125,
+                    "endOffset": 207
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.330000000000002,
+                    "end": 36.11,
+                    "startOffset": 209,
+                    "endOffset": 353
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.11,
+                    "end": 45.96,
+                    "startOffset": 355,
+                    "endOffset": 461
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.96,
+                    "end": 59.184,
+                    "startOffset": 463,
+                    "endOffset": 579
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 23 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "23-46d384070486eb2ee14e1fa322105e5f",
+        "next": [
+            "PSA.24"
+        ],
+        "prev": [
+            "PSA.22"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.219999999999999,
+                    "startOffset": 0,
+                    "endOffset": 43
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.219999999999999,
+                    "end": 16.199999000000002,
+                    "startOffset": 45,
+                    "endOffset": 123
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.199999000000002,
+                    "end": 23.5,
+                    "startOffset": 125,
+                    "endOffset": 207
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.5,
+                    "end": 35.63,
+                    "startOffset": 209,
+                    "endOffset": 353
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.63,
+                    "end": 46.13,
+                    "startOffset": 355,
+                    "endOffset": 461
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.13,
+                    "end": 61.272,
+                    "startOffset": 463,
+                    "endOffset": 579
+                }
+            }
+        ]
+    }
+]

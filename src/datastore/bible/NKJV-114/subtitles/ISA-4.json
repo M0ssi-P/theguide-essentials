@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Isaiah Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-0ffd69c5b566595465623ddd11d80ed2",
+        "next": [
+            "ISA.5"
+        ],
+        "prev": [
+            "ISA.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.789998999999998,
+                    "startOffset": 0,
+                    "endOffset": 177
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.789998999999998,
+                    "end": 28.95,
+                    "startOffset": 180,
+                    "endOffset": 345
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.95,
+                    "end": 40.08,
+                    "startOffset": 347,
+                    "endOffset": 502
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.08,
+                    "end": 51.579999,
+                    "startOffset": 504,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 51.579999,
+                    "end": 66.95,
+                    "startOffset": 676,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 66.95,
+                    "end": 77.016,
+                    "startOffset": 889,
+                    "endOffset": 1020
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-abe3148bae0ecb4651d5862e1da41090",
+        "next": [
+            "ISA.5"
+        ],
+        "prev": [
+            "ISA.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.36,
+                    "startOffset": 0,
+                    "endOffset": 177
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.36,
+                    "end": 30.26,
+                    "startOffset": 180,
+                    "endOffset": 345
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.26,
+                    "end": 42.599999999999994,
+                    "startOffset": 347,
+                    "endOffset": 502
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 42.599999999999994,
+                    "end": 54.469999,
+                    "startOffset": 504,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.469999,
+                    "end": 71.049999,
+                    "startOffset": 676,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 71.049999,
+                    "end": 85.416,
+                    "startOffset": 889,
+                    "endOffset": 1020
+                }
+            }
+        ]
+    }
+]

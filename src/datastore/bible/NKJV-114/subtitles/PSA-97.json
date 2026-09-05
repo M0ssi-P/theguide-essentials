@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Psalms Chapter 97 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "97-a0974b4ae16d65f2923dbf7a2e8a76d9",
+        "next": [
+            "PSA.98"
+        ],
+        "prev": [
+            "PSA.96"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.74,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.74,
+                    "end": 17.159999,
+                    "startOffset": 77,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.159999,
+                    "end": 0,
+                    "startOffset": 171,
+                    "endOffset": 231
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 0,
+                    "end": 26.220000000000002,
+                    "startOffset": 233,
+                    "endOffset": 292
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 26.220000000000002,
+                    "end": 33.03,
+                    "startOffset": 294,
+                    "endOffset": 397
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 33.03,
+                    "end": 38.690000000000005,
+                    "startOffset": 399,
+                    "endOffset": 471
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 38.690000000000005,
+                    "end": 46.6,
+                    "startOffset": 473,
+                    "endOffset": 567
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 46.6,
+                    "end": 53.269999000000006,
+                    "startOffset": 569,
+                    "endOffset": 661
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 53.269999000000006,
+                    "end": 60.739999999999995,
+                    "startOffset": 663,
+                    "endOffset": 748
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 60.739999999999995,
+                    "end": 69.869999,
+                    "startOffset": 750,
+                    "endOffset": 868
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 69.869999,
+                    "end": 74.72,
+                    "startOffset": 870,
+                    "endOffset": 940
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 74.72,
+                    "end": 83.184,
+                    "startOffset": 942,
+                    "endOffset": 1029
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 97 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "97-102425cd2d677574e2a08706300e9718",
+        "next": [
+            "PSA.98"
+        ],
+        "prev": [
+            "PSA.96"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.879999999999999,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.879999999999999,
+                    "end": 16.419999999999998,
+                    "startOffset": 77,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.419999999999998,
+                    "end": 21.98,
+                    "startOffset": 171,
+                    "endOffset": 231
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.98,
+                    "end": 28.230000000000004,
+                    "startOffset": 233,
+                    "endOffset": 292
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.230000000000004,
+                    "end": 35.10000000000001,
+                    "startOffset": 294,
+                    "endOffset": 397
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 35.10000000000001,
+                    "end": 41.39,
+                    "startOffset": 399,
+                    "endOffset": 471
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 41.39,
+                    "end": 52.949999000000005,
+                    "startOffset": 473,
+                    "endOffset": 567
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 52.949999000000005,
+                    "end": 60.38,
+                    "startOffset": 569,
+                    "endOffset": 661
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 60.38,
+                    "end": 68,
+                    "startOffset": 663,
+                    "endOffset": 748
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 68,
+                    "end": 79.60000000000001,
+                    "startOffset": 750,
+                    "endOffset": 868
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 79.60000000000001,
+                    "end": 86.31,
+                    "startOffset": 870,
+                    "endOffset": 940
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 86.31,
+                    "end": 98.16,
+                    "startOffset": 942,
+                    "endOffset": 1029
+                }
+            }
+        ]
+    }
+]

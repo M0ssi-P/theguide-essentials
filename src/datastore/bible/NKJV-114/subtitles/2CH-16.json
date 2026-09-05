@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "II Chronicles Chapter 16 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "16-9ee7e98219cdd5fed35b4eec85fd62cc",
+        "next": [
+            "2CH.17"
+        ],
+        "prev": [
+            "2CH.15"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.059999,
+                    "startOffset": 0,
+                    "endOffset": 168
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.059999,
+                    "end": 31.149999,
+                    "startOffset": 170,
+                    "endOffset": 339
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.149999,
+                    "end": 47,
+                    "startOffset": 342,
+                    "endOffset": 556
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 47,
+                    "end": 61.68,
+                    "startOffset": 559,
+                    "endOffset": 729
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 61.68,
+                    "end": 68.36999899999999,
+                    "startOffset": 731,
+                    "endOffset": 820
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 68.36999899999999,
+                    "end": 79.62,
+                    "startOffset": 822,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.62,
+                    "end": 98.589999,
+                    "startOffset": 982,
+                    "endOffset": 1214
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 98.589999,
+                    "end": 111.15,
+                    "startOffset": 1216,
+                    "endOffset": 1373
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 111.15,
+                    "end": 128.4,
+                    "startOffset": 1375,
+                    "endOffset": 1588
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 128.4,
+                    "end": 140.48000000000002,
+                    "startOffset": 1591,
+                    "endOffset": 1741
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 140.48000000000002,
+                    "end": 149.60999999999999,
+                    "startOffset": 1743,
+                    "endOffset": 1849
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 149.60999999999999,
+                    "end": 163.03,
+                    "startOffset": 1851,
+                    "endOffset": 2017
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 163.03,
+                    "end": 169.79,
+                    "startOffset": 2019,
+                    "endOffset": 2095
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 169.79,
+                    "end": 188.808,
+                    "startOffset": 2097,
+                    "endOffset": 2338
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Chronicles Chapter 16 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "16-f951cc3f8a2105ced62602eceb1a5d22",
+        "next": [
+            "2CH.17"
+        ],
+        "prev": [
+            "2CH.15"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.399999999999999,
+                    "startOffset": 0,
+                    "endOffset": 168
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.399999999999999,
+                    "end": 26.509998999999997,
+                    "startOffset": 170,
+                    "endOffset": 339
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.509998999999997,
+                    "end": 42.18,
+                    "startOffset": 342,
+                    "endOffset": 556
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 42.18,
+                    "end": 57.94,
+                    "startOffset": 559,
+                    "endOffset": 729
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.94,
+                    "end": 65.33999899999999,
+                    "startOffset": 731,
+                    "endOffset": 820
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.33999899999999,
+                    "end": 77.38,
+                    "startOffset": 822,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 77.38,
+                    "end": 95.56,
+                    "startOffset": 982,
+                    "endOffset": 1214
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 95.56,
+                    "end": 107.229999,
+                    "startOffset": 1216,
+                    "endOffset": 1373
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 107.229999,
+                    "end": 123.149999,
+                    "startOffset": 1375,
+                    "endOffset": 1588
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 123.149999,
+                    "end": 135.04,
+                    "startOffset": 1591,
+                    "endOffset": 1741
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 135.04,
+                    "end": 144.67000000000002,
+                    "startOffset": 1743,
+                    "endOffset": 1849
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 144.67000000000002,
+                    "end": 158.2,
+                    "startOffset": 1851,
+                    "endOffset": 2017
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 158.2,
+                    "end": 165.11,
+                    "startOffset": 2019,
+                    "endOffset": 2095
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 165.11,
+                    "end": 186.192,
+                    "startOffset": 2097,
+                    "endOffset": 2338
+                }
+            }
+        ]
+    }
+]

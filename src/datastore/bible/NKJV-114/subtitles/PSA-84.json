@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Psalms Chapter 84 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "84-4610a18ff327ce5abaf089136c6810e9",
+        "next": [
+            "PSA.85"
+        ],
+        "prev": [
+            "PSA.83"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.299999999999999,
+                    "startOffset": 0,
+                    "endOffset": 46
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.299999999999999,
+                    "end": 22.68,
+                    "startOffset": 48,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.68,
+                    "end": 34.03,
+                    "startOffset": 158,
+                    "endOffset": 311
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.03,
+                    "end": 40.08,
+                    "startOffset": 313,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.08,
+                    "end": 45.85,
+                    "startOffset": 395,
+                    "endOffset": 472
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.85,
+                    "end": 52.46,
+                    "startOffset": 474,
+                    "endOffset": 573
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.46,
+                    "end": 58.279999999999994,
+                    "startOffset": 575,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.279999999999994,
+                    "end": 65.62,
+                    "startOffset": 649,
+                    "endOffset": 717
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 65.62,
+                    "end": 72.140001,
+                    "startOffset": 718,
+                    "endOffset": 783
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 72.140001,
+                    "end": 82,
+                    "startOffset": 785,
+                    "endOffset": 928
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 82,
+                    "end": 92.69000000000001,
+                    "startOffset": 930,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 92.69000000000001,
+                    "end": 100.08,
+                    "startOffset": 1067,
+                    "endOffset": 1120
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 84 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "84-f49a6a6b733cc106f7965731b0d7dde4",
+        "next": [
+            "PSA.85"
+        ],
+        "prev": [
+            "PSA.83"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.129999,
+                    "startOffset": 0,
+                    "endOffset": 46
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.129999,
+                    "end": 24.8,
+                    "startOffset": 48,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.8,
+                    "end": 39.419999999999995,
+                    "startOffset": 158,
+                    "endOffset": 311
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.419999999999995,
+                    "end": 47.290000000000006,
+                    "startOffset": 313,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.290000000000006,
+                    "end": 55.00000000000001,
+                    "startOffset": 395,
+                    "endOffset": 472
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.00000000000001,
+                    "end": 63.76,
+                    "startOffset": 474,
+                    "endOffset": 573
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.76,
+                    "end": 69.72999899999999,
+                    "startOffset": 575,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.72999899999999,
+                    "end": 78.97,
+                    "startOffset": 649,
+                    "endOffset": 717
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 78.97,
+                    "end": 85.04,
+                    "startOffset": 718,
+                    "endOffset": 783
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 85.04,
+                    "end": 97.15,
+                    "startOffset": 785,
+                    "endOffset": 928
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 97.15,
+                    "end": 108.89999999999999,
+                    "startOffset": 930,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 108.89999999999999,
+                    "end": 119.688,
+                    "startOffset": 1067,
+                    "endOffset": 1120
+                }
+            }
+        ]
+    }
+]

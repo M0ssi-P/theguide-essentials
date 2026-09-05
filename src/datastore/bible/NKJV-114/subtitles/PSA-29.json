@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Psalms Chapter 29 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "29-5a5431c2ed1343f9ddbaa72a7dc281eb",
+        "next": [
+            "PSA.30"
+        ],
+        "prev": [
+            "PSA.28"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.109999,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.109999,
+                    "end": 19.16,
+                    "startOffset": 78,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.16,
+                    "end": 27.37,
+                    "startOffset": 168,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.37,
+                    "end": 32.729999,
+                    "startOffset": 269,
+                    "endOffset": 346
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.729999,
+                    "end": 40.13,
+                    "startOffset": 348,
+                    "endOffset": 434
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 40.13,
+                    "end": 46.58,
+                    "startOffset": 436,
+                    "endOffset": 512
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 46.58,
+                    "end": 50.459999,
+                    "startOffset": 514,
+                    "endOffset": 562
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 50.459999,
+                    "end": 55.87,
+                    "startOffset": 564,
+                    "endOffset": 649
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 55.87,
+                    "end": 66.10000000000001,
+                    "startOffset": 651,
+                    "endOffset": 768
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 66.10000000000001,
+                    "end": 71.92,
+                    "startOffset": 771,
+                    "endOffset": 841
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 71.92,
+                    "end": 80.064,
+                    "startOffset": 843,
+                    "endOffset": 927
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 29 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "29-53df0ff55f67ccce7eebb32af3ba88c6",
+        "next": [
+            "PSA.30"
+        ],
+        "prev": [
+            "PSA.28"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.049999999999999,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.049999999999999,
+                    "end": 16.72,
+                    "startOffset": 78,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.72,
+                    "end": 26.15,
+                    "startOffset": 168,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.15,
+                    "end": 32.009999,
+                    "startOffset": 269,
+                    "endOffset": 346
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.009999,
+                    "end": 40.870000000000005,
+                    "startOffset": 348,
+                    "endOffset": 434
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 40.870000000000005,
+                    "end": 49.94,
+                    "startOffset": 436,
+                    "endOffset": 512
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 49.94,
+                    "end": 54.299999,
+                    "startOffset": 514,
+                    "endOffset": 562
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 54.299999,
+                    "end": 61.97,
+                    "startOffset": 564,
+                    "endOffset": 649
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 61.97,
+                    "end": 72.28999999999999,
+                    "startOffset": 651,
+                    "endOffset": 768
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 72.28999999999999,
+                    "end": 79.67,
+                    "startOffset": 771,
+                    "endOffset": 841
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 79.67,
+                    "end": 91.584,
+                    "startOffset": 843,
+                    "endOffset": 927
+                }
+            }
+        ]
+    }
+]

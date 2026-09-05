@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "II Chronicles Chapter 27 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "27-7362a99592f30ec5db1c29ef2f529368",
+        "next": [
+            "2CH.28"
+        ],
+        "prev": [
+            "2CH.26"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.46,
+                    "startOffset": 0,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.46,
+                    "end": 28.16,
+                    "startOffset": 151,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.16,
+                    "end": 34.95,
+                    "startOffset": 343,
+                    "endOffset": 438
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.95,
+                    "end": 42.56,
+                    "startOffset": 440,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.56,
+                    "end": 62,
+                    "startOffset": 543,
+                    "endOffset": 812
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62,
+                    "end": 68.379999,
+                    "startOffset": 814,
+                    "endOffset": 891
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.379999,
+                    "end": 78.44,
+                    "startOffset": 893,
+                    "endOffset": 1028
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.44,
+                    "end": 84.66,
+                    "startOffset": 1030,
+                    "endOffset": 1121
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.66,
+                    "end": 96,
+                    "startOffset": 1123,
+                    "endOffset": 1238
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Chronicles Chapter 27 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "27-537663461073d6eba2847649cf3980ff",
+        "next": [
+            "2CH.28"
+        ],
+        "prev": [
+            "2CH.26"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.32,
+                    "startOffset": 0,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.32,
+                    "end": 26.58,
+                    "startOffset": 151,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.58,
+                    "end": 33.759999,
+                    "startOffset": 343,
+                    "endOffset": 438
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.759999,
+                    "end": 41.11,
+                    "startOffset": 440,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.11,
+                    "end": 61.43,
+                    "startOffset": 543,
+                    "endOffset": 812
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.43,
+                    "end": 68.02,
+                    "startOffset": 814,
+                    "endOffset": 891
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.02,
+                    "end": 78.25999999999999,
+                    "startOffset": 893,
+                    "endOffset": 1028
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.25999999999999,
+                    "end": 85.14999999999999,
+                    "startOffset": 1030,
+                    "endOffset": 1121
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.14999999999999,
+                    "end": 98.952,
+                    "startOffset": 1123,
+                    "endOffset": 1238
+                }
+            }
+        ]
+    }
+]

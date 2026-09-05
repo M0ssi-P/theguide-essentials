@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Psalms Chapter 127 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "127-8d6d7862d130e3046f092a04a7ef3c90",
+        "next": [
+            "PSA.128"
+        ],
+        "prev": [
+            "PSA.126"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.930000000000003,
+                    "startOffset": 0,
+                    "endOffset": 132
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.930000000000003,
+                    "end": 26.119999999999997,
+                    "startOffset": 134,
+                    "endOffset": 250
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.119999999999997,
+                    "end": 33.300000000000004,
+                    "startOffset": 252,
+                    "endOffset": 332
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.300000000000004,
+                    "end": 38.42,
+                    "startOffset": 334,
+                    "endOffset": 406
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.42,
+                    "end": 49.176,
+                    "startOffset": 408,
+                    "endOffset": 531
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 127 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "127-3ad99cc8d8ac9867895503b3ead3bb09",
+        "next": [
+            "PSA.128"
+        ],
+        "prev": [
+            "PSA.126"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.040000000000003,
+                    "startOffset": 0,
+                    "endOffset": 132
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.040000000000003,
+                    "end": 29.73,
+                    "startOffset": 134,
+                    "endOffset": 250
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.73,
+                    "end": 38.410000000000004,
+                    "startOffset": 252,
+                    "endOffset": 332
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.410000000000004,
+                    "end": 44.12,
+                    "startOffset": 334,
+                    "endOffset": 406
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.12,
+                    "end": 57.6,
+                    "startOffset": 408,
+                    "endOffset": 531
+                }
+            }
+        ]
+    }
+]

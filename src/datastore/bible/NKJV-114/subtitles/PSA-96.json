@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Psalms Chapter 96 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "96-89bd663534e9ab9c84c2431c55713cef",
+        "next": [
+            "PSA.97"
+        ],
+        "prev": [
+            "PSA.95"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.15,
+                    "startOffset": 0,
+                    "endOffset": 64
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.15,
+                    "end": 16.829999,
+                    "startOffset": 66,
+                    "endOffset": 155
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.829999,
+                    "end": 22.709999999999997,
+                    "startOffset": 157,
+                    "endOffset": 223
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.709999999999997,
+                    "end": 29.54,
+                    "startOffset": 225,
+                    "endOffset": 308
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.54,
+                    "end": 34.57,
+                    "startOffset": 310,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 34.57,
+                    "end": 40.56,
+                    "startOffset": 384,
+                    "endOffset": 458
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.56,
+                    "end": 47.03,
+                    "startOffset": 460,
+                    "endOffset": 540
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 47.03,
+                    "end": 53.74000099999999,
+                    "startOffset": 542,
+                    "endOffset": 626
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 53.74000099999999,
+                    "end": 60.71,
+                    "startOffset": 628,
+                    "endOffset": 710
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 60.71,
+                    "end": 71.82000099999999,
+                    "startOffset": 712,
+                    "endOffset": 852
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 71.82000099999999,
+                    "end": 79.28999999999999,
+                    "startOffset": 855,
+                    "endOffset": 945
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 79.28999999999999,
+                    "end": 87.49,
+                    "startOffset": 947,
+                    "endOffset": 1055
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 87.49,
+                    "end": 97.752,
+                    "startOffset": 1057,
+                    "endOffset": 1187
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 96 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "96-ed44248e67bd582e1b1a42320c4fe420",
+        "next": [
+            "PSA.97"
+        ],
+        "prev": [
+            "PSA.95"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.43,
+                    "startOffset": 0,
+                    "endOffset": 64
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.43,
+                    "end": 14.219999999999999,
+                    "startOffset": 66,
+                    "endOffset": 155
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.219999999999999,
+                    "end": 20.14,
+                    "startOffset": 157,
+                    "endOffset": 223
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.14,
+                    "end": 27.839999,
+                    "startOffset": 225,
+                    "endOffset": 308
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 27.839999,
+                    "end": 33.77,
+                    "startOffset": 310,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 33.77,
+                    "end": 39.97,
+                    "startOffset": 384,
+                    "endOffset": 458
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 39.97,
+                    "end": 47.59,
+                    "startOffset": 460,
+                    "endOffset": 540
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 47.59,
+                    "end": 54.439999,
+                    "startOffset": 542,
+                    "endOffset": 626
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 54.439999,
+                    "end": 60.74,
+                    "startOffset": 628,
+                    "endOffset": 710
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 60.74,
+                    "end": 71.939999,
+                    "startOffset": 712,
+                    "endOffset": 852
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 71.939999,
+                    "end": 81.57000000000001,
+                    "startOffset": 855,
+                    "endOffset": 945
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 81.57000000000001,
+                    "end": 90.099999,
+                    "startOffset": 947,
+                    "endOffset": 1055
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 90.099999,
+                    "end": 105.144,
+                    "startOffset": 1057,
+                    "endOffset": 1187
+                }
+            }
+        ]
+    }
+]

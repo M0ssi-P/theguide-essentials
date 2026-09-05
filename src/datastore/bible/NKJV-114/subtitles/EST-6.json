@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Esther Chapter 6 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "6-59af7f643d2f4aaa97c0f10ae9c656b5",
+        "next": [
+            "EST.7"
+        ],
+        "prev": [
+            "EST.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.519999,
+                    "startOffset": 0,
+                    "endOffset": 144
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.519999,
+                    "end": 24.96,
+                    "startOffset": 146,
+                    "endOffset": 306
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.96,
+                    "end": 36.119999,
+                    "startOffset": 308,
+                    "endOffset": 469
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.119999,
+                    "end": 48.63,
+                    "startOffset": 472,
+                    "endOffset": 659
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.63,
+                    "end": 56.68,
+                    "startOffset": 661,
+                    "endOffset": 770
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.68,
+                    "end": 69.72,
+                    "startOffset": 773,
+                    "endOffset": 963
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 69.72,
+                    "end": 74.84,
+                    "startOffset": 966,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.84,
+                    "end": 84.02,
+                    "startOffset": 1041,
+                    "endOffset": 1178
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.02,
+                    "end": 104.59,
+                    "startOffset": 1180,
+                    "endOffset": 1478
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 104.59,
+                    "end": 119.8,
+                    "startOffset": 1483,
+                    "endOffset": 1684
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 119.8,
+                    "end": 134.29999999999998,
+                    "startOffset": 1687,
+                    "endOffset": 1884
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 134.29999999999998,
+                    "end": 142.960001,
+                    "startOffset": 1887,
+                    "endOffset": 2002
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 142.960001,
+                    "end": 164.04,
+                    "startOffset": 2004,
+                    "endOffset": 2275
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 164.04,
+                    "end": 175.08,
+                    "startOffset": 2278,
+                    "endOffset": 2411
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Esther Chapter 6 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "6-d47afa1c63710f921a87cbc57b325467",
+        "next": [
+            "EST.7"
+        ],
+        "prev": [
+            "EST.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.16,
+                    "startOffset": 0,
+                    "endOffset": 144
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.16,
+                    "end": 23.35,
+                    "startOffset": 146,
+                    "endOffset": 306
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.35,
+                    "end": 36.07,
+                    "startOffset": 308,
+                    "endOffset": 469
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.07,
+                    "end": 49.649999,
+                    "startOffset": 472,
+                    "endOffset": 659
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.649999,
+                    "end": 59.2,
+                    "startOffset": 661,
+                    "endOffset": 770
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.2,
+                    "end": 75.39,
+                    "startOffset": 773,
+                    "endOffset": 963
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 75.39,
+                    "end": 81.639999,
+                    "startOffset": 966,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 81.639999,
+                    "end": 90.83,
+                    "startOffset": 1041,
+                    "endOffset": 1178
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 90.83,
+                    "end": 111.13000000000001,
+                    "startOffset": 1180,
+                    "endOffset": 1478
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 111.13000000000001,
+                    "end": 127.59,
+                    "startOffset": 1483,
+                    "endOffset": 1684
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 127.59,
+                    "end": 142.599999,
+                    "startOffset": 1687,
+                    "endOffset": 1884
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 142.599999,
+                    "end": 153.579999,
+                    "startOffset": 1887,
+                    "endOffset": 2002
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 153.579999,
+                    "end": 173.89,
+                    "startOffset": 2004,
+                    "endOffset": 2275
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 173.89,
+                    "end": 187.44,
+                    "startOffset": 2278,
+                    "endOffset": 2411
+                }
+            }
+        ]
+    }
+]

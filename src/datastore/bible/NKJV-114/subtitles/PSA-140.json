@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Psalms Chapter 140 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "140-6bfdb7f0d9089cc25c2c8c9a68e97461",
+        "next": [
+            "PSA.141"
+        ],
+        "prev": [
+            "PSA.139"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.870000000000001,
+                    "startOffset": 0,
+                    "endOffset": 63
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.870000000000001,
+                    "end": 19.55,
+                    "startOffset": 65,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.55,
+                    "end": 26.87,
+                    "startOffset": 145,
+                    "endOffset": 233
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.87,
+                    "end": 35.99000099999999,
+                    "startOffset": 234,
+                    "endOffset": 353
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.99000099999999,
+                    "end": 45.15,
+                    "startOffset": 355,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.15,
+                    "end": 53.3,
+                    "startOffset": 477,
+                    "endOffset": 556
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.3,
+                    "end": 60.55,
+                    "startOffset": 558,
+                    "endOffset": 649
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.55,
+                    "end": 69.92,
+                    "startOffset": 651,
+                    "endOffset": 761
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 69.92,
+                    "end": 76.69,
+                    "startOffset": 763,
+                    "endOffset": 843
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 76.69,
+                    "end": 85.939999,
+                    "startOffset": 845,
+                    "endOffset": 954
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 85.939999,
+                    "end": 92.71,
+                    "startOffset": 956,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 92.71,
+                    "end": 99.23,
+                    "startOffset": 1054,
+                    "endOffset": 1141
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 99.23,
+                    "end": 107.832,
+                    "startOffset": 1143,
+                    "endOffset": 1236
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 140 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "140-d084d7763eecd110814679b684e07cc1",
+        "next": [
+            "PSA.141"
+        ],
+        "prev": [
+            "PSA.139"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.34,
+                    "startOffset": 0,
+                    "endOffset": 63
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.34,
+                    "end": 21.029999999999998,
+                    "startOffset": 65,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.029999999999998,
+                    "end": 29.29,
+                    "startOffset": 145,
+                    "endOffset": 233
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.29,
+                    "end": 40.39,
+                    "startOffset": 234,
+                    "endOffset": 353
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.39,
+                    "end": 52.719999,
+                    "startOffset": 355,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.719999,
+                    "end": 61.22,
+                    "startOffset": 477,
+                    "endOffset": 556
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.22,
+                    "end": 69.129999,
+                    "startOffset": 558,
+                    "endOffset": 649
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.129999,
+                    "end": 80.5,
+                    "startOffset": 651,
+                    "endOffset": 761
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.5,
+                    "end": 87.999999,
+                    "startOffset": 763,
+                    "endOffset": 843
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 87.999999,
+                    "end": 97.95,
+                    "startOffset": 845,
+                    "endOffset": 954
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 97.95,
+                    "end": 105.52,
+                    "startOffset": 956,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.52,
+                    "end": 113.94,
+                    "startOffset": 1054,
+                    "endOffset": 1141
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 113.94,
+                    "end": 126.408,
+                    "startOffset": 1143,
+                    "endOffset": 1236
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,340 @@
+[
+    {
+        "audioName": "Esther Chapter 8 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "8-3c479770199c331afcb1c1b7d5b36ad7",
+        "next": [
+            "EST.9"
+        ],
+        "prev": [
+            "EST.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.8,
+                    "startOffset": 0,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.8,
+                    "end": 27.67,
+                    "startOffset": 171,
+                    "endOffset": 318
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.67,
+                    "end": 41.33,
+                    "startOffset": 320,
+                    "endOffset": 504
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.33,
+                    "end": 48.339999999999996,
+                    "startOffset": 506,
+                    "endOffset": 603
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.339999999999996,
+                    "end": 69.86999999999999,
+                    "startOffset": 605,
+                    "endOffset": 914
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 69.86999999999999,
+                    "end": 78.47999999999999,
+                    "startOffset": 916,
+                    "endOffset": 1041
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 78.47999999999999,
+                    "end": 93.05,
+                    "startOffset": 1044,
+                    "endOffset": 1241
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 93.05,
+                    "end": 109.10999899999999,
+                    "startOffset": 1243,
+                    "endOffset": 1470
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 109.10999899999999,
+                    "end": 140.789999,
+                    "startOffset": 1473,
+                    "endOffset": 1927
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 140.789999,
+                    "end": 153.3,
+                    "startOffset": 1929,
+                    "endOffset": 2100
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 153.3,
+                    "end": 172.1,
+                    "startOffset": 2102,
+                    "endOffset": 2376
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 172.1,
+                    "end": 181.36999999999998,
+                    "startOffset": 2378,
+                    "endOffset": 2499
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 181.36999999999998,
+                    "end": 193.969999,
+                    "startOffset": 2501,
+                    "endOffset": 2682
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 193.969999,
+                    "end": 205.09,
+                    "startOffset": 2684,
+                    "endOffset": 2827
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 205.09,
+                    "end": 218.66000000000003,
+                    "startOffset": 2829,
+                    "endOffset": 3028
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 218.66000000000003,
+                    "end": 222.72,
+                    "startOffset": 3030,
+                    "endOffset": 3076
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 222.72,
+                    "end": 240.696,
+                    "startOffset": 3078,
+                    "endOffset": 3297
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Esther Chapter 8 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "8-e3ac4760a2c26c0f536c7a0958cc300e",
+        "next": [
+            "EST.9"
+        ],
+        "prev": [
+            "EST.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.149999,
+                    "startOffset": 0,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.149999,
+                    "end": 26.64,
+                    "startOffset": 171,
+                    "endOffset": 318
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.64,
+                    "end": 41.32,
+                    "startOffset": 320,
+                    "endOffset": 504
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.32,
+                    "end": 49.189999,
+                    "startOffset": 506,
+                    "endOffset": 603
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.189999,
+                    "end": 70.83,
+                    "startOffset": 605,
+                    "endOffset": 914
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 70.83,
+                    "end": 79.39999999999999,
+                    "startOffset": 916,
+                    "endOffset": 1041
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.39999999999999,
+                    "end": 94.9,
+                    "startOffset": 1044,
+                    "endOffset": 1241
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 94.9,
+                    "end": 111.76,
+                    "startOffset": 1243,
+                    "endOffset": 1470
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 111.76,
+                    "end": 144.019999,
+                    "startOffset": 1473,
+                    "endOffset": 1927
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 144.019999,
+                    "end": 156.64999899999998,
+                    "startOffset": 1929,
+                    "endOffset": 2100
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 156.64999899999998,
+                    "end": 177.45,
+                    "startOffset": 2102,
+                    "endOffset": 2376
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 177.45,
+                    "end": 186.36999999999998,
+                    "startOffset": 2378,
+                    "endOffset": 2499
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 186.36999999999998,
+                    "end": 200.38000000000002,
+                    "startOffset": 2501,
+                    "endOffset": 2682
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 200.38000000000002,
+                    "end": 212.43,
+                    "startOffset": 2684,
+                    "endOffset": 2827
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 212.43,
+                    "end": 228.17000000000002,
+                    "startOffset": 2829,
+                    "endOffset": 3028
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 228.17000000000002,
+                    "end": 233.16,
+                    "startOffset": 3030,
+                    "endOffset": 3076
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 233.16,
+                    "end": 254.52,
+                    "startOffset": 3078,
+                    "endOffset": 3297
+                }
+            }
+        ]
+    }
+]

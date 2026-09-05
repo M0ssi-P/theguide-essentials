@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Jonah Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-cb0dedae159b24367e9c003e0ca7800b",
+        "next": [
+            "MIC.1"
+        ],
+        "prev": [
+            "JON.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.220000000000001,
+                    "startOffset": 0,
+                    "endOffset": 56
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.220000000000001,
+                    "end": 26.080000000000002,
+                    "startOffset": 58,
+                    "endOffset": 333
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.080000000000002,
+                    "end": 33.02,
+                    "startOffset": 335,
+                    "endOffset": 431
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.02,
+                    "end": 37.08,
+                    "startOffset": 434,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.08,
+                    "end": 48.85,
+                    "startOffset": 490,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.85,
+                    "end": 60.73,
+                    "startOffset": 670,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.73,
+                    "end": 68,
+                    "startOffset": 846,
+                    "endOffset": 946
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 68,
+                    "end": 83.85,
+                    "startOffset": 948,
+                    "endOffset": 1167
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 83.85,
+                    "end": 94.19,
+                    "startOffset": 1170,
+                    "endOffset": 1306
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 94.19,
+                    "end": 103.77,
+                    "startOffset": 1309,
+                    "endOffset": 1458
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 103.77,
+                    "end": 118.032,
+                    "startOffset": 1460,
+                    "endOffset": 1648
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jonah Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-5d531555d34b8caccfe5fa9db079ab1a",
+        "next": [
+            "MIC.1"
+        ],
+        "prev": [
+            "JON.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.19,
+                    "startOffset": 0,
+                    "endOffset": 56
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.19,
+                    "end": 28.630000000000003,
+                    "startOffset": 58,
+                    "endOffset": 333
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.630000000000003,
+                    "end": 36.179999,
+                    "startOffset": 335,
+                    "endOffset": 431
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.179999,
+                    "end": 42.25,
+                    "startOffset": 434,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.25,
+                    "end": 57.23,
+                    "startOffset": 490,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 57.23,
+                    "end": 71.079999,
+                    "startOffset": 670,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.079999,
+                    "end": 79.96000000000001,
+                    "startOffset": 846,
+                    "endOffset": 946
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.96000000000001,
+                    "end": 98.479999,
+                    "startOffset": 948,
+                    "endOffset": 1167
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 98.479999,
+                    "end": 111.87,
+                    "startOffset": 1170,
+                    "endOffset": 1306
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 111.87,
+                    "end": 124.22,
+                    "startOffset": 1309,
+                    "endOffset": 1458
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 124.22,
+                    "end": 143.712,
+                    "startOffset": 1460,
+                    "endOffset": 1648
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Psalms Chapter 150 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "150-98c86d2f5a4404617cd27603510528a6",
+        "next": [
+            "PRO.1"
+        ],
+        "prev": [
+            "PSA.149"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.37,
+                    "startOffset": 0,
+                    "endOffset": 80
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.37,
+                    "end": 15.47,
+                    "startOffset": 82,
+                    "endOffset": 161
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.47,
+                    "end": 20.15,
+                    "startOffset": 163,
+                    "endOffset": 238
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.15,
+                    "end": 25.52,
+                    "startOffset": 240,
+                    "endOffset": 326
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 25.52,
+                    "end": 30.349999,
+                    "startOffset": 328,
+                    "endOffset": 390
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.349999,
+                    "end": 39.24,
+                    "startOffset": 392,
+                    "endOffset": 455
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 150 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "150-d335f19512dee7865c1f79b21d203c2d",
+        "next": [
+            "PRO.1"
+        ],
+        "prev": [
+            "PSA.149"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.430000000000001,
+                    "startOffset": 0,
+                    "endOffset": 80
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.430000000000001,
+                    "end": 15.7,
+                    "startOffset": 82,
+                    "endOffset": 161
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.7,
+                    "end": 21.580000000000002,
+                    "startOffset": 163,
+                    "endOffset": 238
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.580000000000002,
+                    "end": 28.07,
+                    "startOffset": 240,
+                    "endOffset": 326
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.07,
+                    "end": 33.39,
+                    "startOffset": 328,
+                    "endOffset": 390
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 33.39,
+                    "end": 45.12,
+                    "startOffset": 392,
+                    "endOffset": 455
+                }
+            }
+        ]
+    }
+]

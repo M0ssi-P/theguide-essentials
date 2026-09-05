@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Psalms Chapter 93 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "93-b0f70b5ea803278ff5c0a17f50ba139b",
+        "next": [
+            "PSA.94"
+        ],
+        "prev": [
+            "PSA.92"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.679999,
+                    "startOffset": 0,
+                    "endOffset": 162
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.679999,
+                    "end": 22.55,
+                    "startOffset": 164,
+                    "endOffset": 228
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.55,
+                    "end": 29.22,
+                    "startOffset": 230,
+                    "endOffset": 334
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.22,
+                    "end": 36.449999999999996,
+                    "startOffset": 336,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.449999999999996,
+                    "end": 45.744,
+                    "startOffset": 430,
+                    "endOffset": 505
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 93 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "93-d3f186f54df47206dc2ab042c6f0547f",
+        "next": [
+            "PSA.94"
+        ],
+        "prev": [
+            "PSA.92"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.28,
+                    "startOffset": 0,
+                    "endOffset": 162
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.28,
+                    "end": 20.81,
+                    "startOffset": 164,
+                    "endOffset": 228
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.81,
+                    "end": 29.62,
+                    "startOffset": 230,
+                    "endOffset": 334
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.62,
+                    "end": 37.69,
+                    "startOffset": 336,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.69,
+                    "end": 50.568,
+                    "startOffset": 430,
+                    "endOffset": 505
+                }
+            }
+        ]
+    }
+]

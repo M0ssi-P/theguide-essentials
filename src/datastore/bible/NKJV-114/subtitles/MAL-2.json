@@ -1,0 +1,340 @@
+[
+    {
+        "audioName": "Malachi Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-883cddee96045ada7f7bc56eae740980",
+        "next": [
+            "MAL.3"
+        ],
+        "prev": [
+            "MAL.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.14,
+                    "startOffset": 1,
+                    "endOffset": 48
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.14,
+                    "end": 25.29,
+                    "startOffset": 50,
+                    "endOffset": 293
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.29,
+                    "end": 36.87,
+                    "startOffset": 296,
+                    "endOffset": 436
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.87,
+                    "end": 44.9,
+                    "startOffset": 438,
+                    "endOffset": 564
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.9,
+                    "end": 56.34,
+                    "startOffset": 567,
+                    "endOffset": 711
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.34,
+                    "end": 68.7,
+                    "startOffset": 713,
+                    "endOffset": 862
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.7,
+                    "end": 78.56,
+                    "startOffset": 865,
+                    "endOffset": 1004
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.56,
+                    "end": 89.28,
+                    "startOffset": 1006,
+                    "endOffset": 1150
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.28,
+                    "end": 100.17999999999999,
+                    "startOffset": 1153,
+                    "endOffset": 1299
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 100.17999999999999,
+                    "end": 112.03,
+                    "startOffset": 1302,
+                    "endOffset": 1444
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 112.03,
+                    "end": 128.34,
+                    "startOffset": 1446,
+                    "endOffset": 1654
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 128.34,
+                    "end": 138.44,
+                    "startOffset": 1656,
+                    "endOffset": 1794
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 138.44,
+                    "end": 153.35,
+                    "startOffset": 1796,
+                    "endOffset": 1990
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 153.35,
+                    "end": 168.25,
+                    "startOffset": 1992,
+                    "endOffset": 2189
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 168.25,
+                    "end": 183.63,
+                    "startOffset": 2191,
+                    "endOffset": 2386
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 183.63,
+                    "end": 198.099999,
+                    "startOffset": 2389,
+                    "endOffset": 2583
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 198.099999,
+                    "end": 217.56,
+                    "startOffset": 2586,
+                    "endOffset": 2810
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Malachi Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-3017fdbf2d0ec9337ebb03b9bed5bfa9",
+        "next": [
+            "MAL.3"
+        ],
+        "prev": [
+            "MAL.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.2299999999999995,
+                    "startOffset": 1,
+                    "endOffset": 48
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.2299999999999995,
+                    "end": 25.330000000000002,
+                    "startOffset": 50,
+                    "endOffset": 293
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.330000000000002,
+                    "end": 37.65,
+                    "startOffset": 296,
+                    "endOffset": 436
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.65,
+                    "end": 47.27,
+                    "startOffset": 438,
+                    "endOffset": 564
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.27,
+                    "end": 60.120000000000005,
+                    "startOffset": 567,
+                    "endOffset": 711
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 60.120000000000005,
+                    "end": 73,
+                    "startOffset": 713,
+                    "endOffset": 862
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 73,
+                    "end": 84.79,
+                    "startOffset": 865,
+                    "endOffset": 1004
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 84.79,
+                    "end": 97.68,
+                    "startOffset": 1006,
+                    "endOffset": 1150
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 97.68,
+                    "end": 109.42,
+                    "startOffset": 1153,
+                    "endOffset": 1299
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 109.42,
+                    "end": 124.05,
+                    "startOffset": 1302,
+                    "endOffset": 1444
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 124.05,
+                    "end": 140.49,
+                    "startOffset": 1446,
+                    "endOffset": 1654
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 140.49,
+                    "end": 152.08,
+                    "startOffset": 1656,
+                    "endOffset": 1794
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 152.08,
+                    "end": 167.85,
+                    "startOffset": 1796,
+                    "endOffset": 1990
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 167.85,
+                    "end": 182.84,
+                    "startOffset": 1992,
+                    "endOffset": 2189
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 182.84,
+                    "end": 199.19,
+                    "startOffset": 2191,
+                    "endOffset": 2386
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 199.19,
+                    "end": 214.82999999999998,
+                    "startOffset": 2389,
+                    "endOffset": 2583
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 214.82999999999998,
+                    "end": 238.92,
+                    "startOffset": 2586,
+                    "endOffset": 2810
+                }
+            }
+        ]
+    }
+]

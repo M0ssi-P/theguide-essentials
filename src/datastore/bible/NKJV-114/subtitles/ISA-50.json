@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Isaiah Chapter 50 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "50-5e8c68c83165af310ce10343df3ea390",
+        "next": [
+            "ISA.51"
+        ],
+        "prev": [
+            "ISA.49"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.5,
+                    "startOffset": 0,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.5,
+                    "end": 42.54,
+                    "startOffset": 257,
+                    "endOffset": 557
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 42.54,
+                    "end": 47.349999000000004,
+                    "startOffset": 559,
+                    "endOffset": 631
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 47.349999000000004,
+                    "end": 61.38,
+                    "startOffset": 635,
+                    "endOffset": 835
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 61.38,
+                    "end": 68.07,
+                    "startOffset": 837,
+                    "endOffset": 915
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 68.07,
+                    "end": 77.2,
+                    "startOffset": 917,
+                    "endOffset": 1052
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 77.2,
+                    "end": 87.82,
+                    "startOffset": 1055,
+                    "endOffset": 1201
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 87.82,
+                    "end": 97.97,
+                    "startOffset": 1203,
+                    "endOffset": 1323
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 97.97,
+                    "end": 107.61999899999999,
+                    "startOffset": 1325,
+                    "endOffset": 1461
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 107.61999899999999,
+                    "end": 120.24,
+                    "startOffset": 1464,
+                    "endOffset": 1629
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 120.24,
+                    "end": 136.752,
+                    "startOffset": 1631,
+                    "endOffset": 1831
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 50 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "50-c0cae1c3aa3405ca381b9acc30152feb",
+        "next": [
+            "ISA.51"
+        ],
+        "prev": [
+            "ISA.49"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.93,
+                    "startOffset": 0,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.93,
+                    "end": 49.6,
+                    "startOffset": 257,
+                    "endOffset": 557
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 49.6,
+                    "end": 56.17,
+                    "startOffset": 559,
+                    "endOffset": 631
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 56.17,
+                    "end": 73.89,
+                    "startOffset": 635,
+                    "endOffset": 835
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 73.89,
+                    "end": 81.47999999999999,
+                    "startOffset": 837,
+                    "endOffset": 915
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 81.47999999999999,
+                    "end": 92.11,
+                    "startOffset": 917,
+                    "endOffset": 1052
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 92.11,
+                    "end": 105.3,
+                    "startOffset": 1055,
+                    "endOffset": 1201
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 105.3,
+                    "end": 117.33,
+                    "startOffset": 1203,
+                    "endOffset": 1323
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 117.33,
+                    "end": 129.45000000000002,
+                    "startOffset": 1325,
+                    "endOffset": 1461
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 129.45000000000002,
+                    "end": 145.6,
+                    "startOffset": 1464,
+                    "endOffset": 1629
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 145.6,
+                    "end": 168.48,
+                    "startOffset": 1631,
+                    "endOffset": 1831
+                }
+            }
+        ]
+    }
+]

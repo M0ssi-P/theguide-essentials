@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 61 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "61-436de78f9e018f6503aa14eb8f2430db",
+        "next": [
+            "PSA.62"
+        ],
+        "prev": [
+            "PSA.60"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.379999,
+                    "startOffset": 0,
+                    "endOffset": 39
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.379999,
+                    "end": 23.36,
+                    "startOffset": 41,
+                    "endOffset": 157
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.36,
+                    "end": 28.6,
+                    "startOffset": 159,
+                    "endOffset": 224
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.6,
+                    "end": 36.219999,
+                    "startOffset": 226,
+                    "endOffset": 315
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.219999,
+                    "end": 44.85,
+                    "startOffset": 316,
+                    "endOffset": 410
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.85,
+                    "end": 49.659999,
+                    "startOffset": 412,
+                    "endOffset": 475
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 49.659999,
+                    "end": 57.86,
+                    "startOffset": 477,
+                    "endOffset": 563
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 57.86,
+                    "end": 67.104,
+                    "startOffset": 565,
+                    "endOffset": 641
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 61 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "61-bfed94cebd01b1fd8b917d0da37a4bd0",
+        "next": [
+            "PSA.62"
+        ],
+        "prev": [
+            "PSA.60"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.83,
+                    "startOffset": 0,
+                    "endOffset": 39
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.83,
+                    "end": 21.740000000000002,
+                    "startOffset": 41,
+                    "endOffset": 157
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.740000000000002,
+                    "end": 27.879999,
+                    "startOffset": 159,
+                    "endOffset": 224
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.879999,
+                    "end": 36.239999,
+                    "startOffset": 226,
+                    "endOffset": 315
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.239999,
+                    "end": 45.32,
+                    "startOffset": 316,
+                    "endOffset": 410
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.32,
+                    "end": 51.06,
+                    "startOffset": 412,
+                    "endOffset": 475
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 51.06,
+                    "end": 58.81999900000001,
+                    "startOffset": 477,
+                    "endOffset": 563
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.81999900000001,
+                    "end": 71.136,
+                    "startOffset": 565,
+                    "endOffset": 641
+                }
+            }
+        ]
+    }
+]

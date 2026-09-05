@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 20 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "20-d5fc9749ef76cb32775d928d550083f1",
+        "next": [
+            "PSA.21"
+        ],
+        "prev": [
+            "PSA.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.52,
+                    "startOffset": 0,
+                    "endOffset": 90
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.52,
+                    "end": 18.419999,
+                    "startOffset": 92,
+                    "endOffset": 163
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.419999,
+                    "end": 25.99,
+                    "startOffset": 165,
+                    "endOffset": 239
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.99,
+                    "end": 32.94,
+                    "startOffset": 240,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.94,
+                    "end": 42.93,
+                    "startOffset": 321,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.93,
+                    "end": 52.589999999999996,
+                    "startOffset": 452,
+                    "endOffset": 579
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.589999999999996,
+                    "end": 60.92,
+                    "startOffset": 581,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.92,
+                    "end": 66.94999999999999,
+                    "startOffset": 676,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 66.94999999999999,
+                    "end": 74.064,
+                    "startOffset": 746,
+                    "endOffset": 793
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 20 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "20-8c2d86f91202482bd87b3e291867c32b",
+        "next": [
+            "PSA.21"
+        ],
+        "prev": [
+            "PSA.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.889999999999999,
+                    "startOffset": 0,
+                    "endOffset": 90
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.889999999999999,
+                    "end": 17.85,
+                    "startOffset": 92,
+                    "endOffset": 163
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.85,
+                    "end": 26.34,
+                    "startOffset": 165,
+                    "endOffset": 239
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.34,
+                    "end": 33.909999,
+                    "startOffset": 240,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.909999,
+                    "end": 44.3,
+                    "startOffset": 321,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.3,
+                    "end": 55.019999,
+                    "startOffset": 452,
+                    "endOffset": 579
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 55.019999,
+                    "end": 63.35,
+                    "startOffset": 581,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 63.35,
+                    "end": 69.84,
+                    "startOffset": 676,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 69.84,
+                    "end": 80.808,
+                    "startOffset": 746,
+                    "endOffset": 793
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Revelation Chapter 15 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "15-af2823648cee03a51024c35e56689c39",
+        "next": [
+            "REV.16"
+        ],
+        "prev": [
+            "REV.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.849999,
+                    "startOffset": 0,
+                    "endOffset": 140
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.849999,
+                    "end": 32.699999,
+                    "startOffset": 142,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 32.699999,
+                    "end": 48.29,
+                    "startOffset": 365,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 48.29,
+                    "end": 60.63999999999999,
+                    "startOffset": 555,
+                    "endOffset": 725
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 60.63999999999999,
+                    "end": 69.659999,
+                    "startOffset": 728,
+                    "endOffset": 835
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 69.659999,
+                    "end": 80.42,
+                    "startOffset": 837,
+                    "endOffset": 985
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.42,
+                    "end": 90.759999,
+                    "startOffset": 987,
+                    "endOffset": 1120
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 90.759999,
+                    "end": 105.696,
+                    "startOffset": 1122,
+                    "endOffset": 1294
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Revelation Chapter 15 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "15-6585fe89070f7a4c7b0cf621205f7bee",
+        "next": [
+            "REV.16"
+        ],
+        "prev": [
+            "REV.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.989999000000001,
+                    "startOffset": 0,
+                    "endOffset": 140
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.989999000000001,
+                    "end": 35.909999000000006,
+                    "startOffset": 142,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.909999000000006,
+                    "end": 53.71,
+                    "startOffset": 365,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 53.71,
+                    "end": 68.23,
+                    "startOffset": 555,
+                    "endOffset": 725
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 68.23,
+                    "end": 79.11,
+                    "startOffset": 728,
+                    "endOffset": 835
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 79.11,
+                    "end": 92.59,
+                    "startOffset": 837,
+                    "endOffset": 985
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 92.59,
+                    "end": 104,
+                    "startOffset": 987,
+                    "endOffset": 1120
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 104,
+                    "end": 122.952,
+                    "startOffset": 1122,
+                    "endOffset": 1294
+                }
+            }
+        ]
+    }
+]

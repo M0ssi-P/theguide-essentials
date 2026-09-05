@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Psalms Chapter 26 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "26-f24a3bc0990a1c0e8a59cc7398bb2976",
+        "next": [
+            "PSA.27"
+        ],
+        "prev": [
+            "PSA.25"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.54,
+                    "startOffset": 0,
+                    "endOffset": 106
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.54,
+                    "end": 21.55,
+                    "startOffset": 108,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.55,
+                    "end": 27.63,
+                    "startOffset": 168,
+                    "endOffset": 242
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.63,
+                    "end": 32.67,
+                    "startOffset": 244,
+                    "endOffset": 316
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.67,
+                    "end": 37.729999,
+                    "startOffset": 318,
+                    "endOffset": 390
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 37.729999,
+                    "end": 44.440000000000005,
+                    "startOffset": 392,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.440000000000005,
+                    "end": 51.010000000000005,
+                    "startOffset": 466,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 51.010000000000005,
+                    "end": 58.65,
+                    "startOffset": 555,
+                    "endOffset": 641
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 58.65,
+                    "end": 64.2,
+                    "startOffset": 643,
+                    "endOffset": 712
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 64.2,
+                    "end": 70.379999,
+                    "startOffset": 714,
+                    "endOffset": 789
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 70.379999,
+                    "end": 79.61,
+                    "startOffset": 791,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 79.61,
+                    "end": 89.304,
+                    "startOffset": 868,
+                    "endOffset": 943
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 26 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "26-472867fe347b5fdb343d07e4c74bd05f",
+        "next": [
+            "PSA.27"
+        ],
+        "prev": [
+            "PSA.25"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.03,
+                    "startOffset": 0,
+                    "endOffset": 106
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.03,
+                    "end": 21.39,
+                    "startOffset": 108,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.39,
+                    "end": 27.78,
+                    "startOffset": 168,
+                    "endOffset": 242
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.78,
+                    "end": 33.839999,
+                    "startOffset": 244,
+                    "endOffset": 316
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.839999,
+                    "end": 39.38,
+                    "startOffset": 318,
+                    "endOffset": 390
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 39.38,
+                    "end": 46.58,
+                    "startOffset": 392,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 46.58,
+                    "end": 52.11,
+                    "startOffset": 466,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 52.11,
+                    "end": 59.58,
+                    "startOffset": 555,
+                    "endOffset": 641
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 59.58,
+                    "end": 66.24999899999999,
+                    "startOffset": 643,
+                    "endOffset": 712
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 66.24999899999999,
+                    "end": 71.719999,
+                    "startOffset": 714,
+                    "endOffset": 789
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 71.719999,
+                    "end": 81.939999,
+                    "startOffset": 791,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 81.939999,
+                    "end": 94.152,
+                    "startOffset": 868,
+                    "endOffset": 943
+                }
+            }
+        ]
+    }
+]

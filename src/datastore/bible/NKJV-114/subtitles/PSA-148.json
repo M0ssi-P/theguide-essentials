@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Psalms Chapter 148 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "148-1a4b5d78f4232207e6b5a9dfb66b9a19",
+        "next": [
+            "PSA.149"
+        ],
+        "prev": [
+            "PSA.147"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.07,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.07,
+                    "end": 12.919999,
+                    "startOffset": 78,
+                    "endOffset": 131
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 12.919999,
+                    "end": 17.93,
+                    "startOffset": 133,
+                    "endOffset": 193
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 17.93,
+                    "end": 23.5,
+                    "startOffset": 195,
+                    "endOffset": 263
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 23.5,
+                    "end": 29.400000000000002,
+                    "startOffset": 265,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 29.400000000000002,
+                    "end": 35.660000000000004,
+                    "startOffset": 343,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 35.660000000000004,
+                    "end": 40.4,
+                    "startOffset": 430,
+                    "endOffset": 504
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 40.4,
+                    "end": 46.08,
+                    "startOffset": 506,
+                    "endOffset": 570
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 46.08,
+                    "end": 50.15,
+                    "startOffset": 572,
+                    "endOffset": 626
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 50.15,
+                    "end": 53.909999,
+                    "startOffset": 628,
+                    "endOffset": 682
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 53.909999,
+                    "end": 58.92,
+                    "startOffset": 684,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 58.92,
+                    "end": 63.089999999999996,
+                    "startOffset": 757,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 63.089999999999996,
+                    "end": 70.679999,
+                    "startOffset": 807,
+                    "endOffset": 915
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 70.679999,
+                    "end": 83.688,
+                    "startOffset": 917,
+                    "endOffset": 1054
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 148 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "148-e81669dd1d06ab2924410819fdebd405",
+        "next": [
+            "PSA.149"
+        ],
+        "prev": [
+            "PSA.147"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.59,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.59,
+                    "end": 12.760000000000002,
+                    "startOffset": 78,
+                    "endOffset": 131
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 12.760000000000002,
+                    "end": 17.759999999999998,
+                    "startOffset": 133,
+                    "endOffset": 193
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 17.759999999999998,
+                    "end": 22.959999999999997,
+                    "startOffset": 195,
+                    "endOffset": 263
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 22.959999999999997,
+                    "end": 29.61,
+                    "startOffset": 265,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 29.61,
+                    "end": 36.08,
+                    "startOffset": 343,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 36.08,
+                    "end": 42.580000000000005,
+                    "startOffset": 430,
+                    "endOffset": 504
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 42.580000000000005,
+                    "end": 48.62,
+                    "startOffset": 506,
+                    "endOffset": 570
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 48.62,
+                    "end": 54.059999,
+                    "startOffset": 572,
+                    "endOffset": 626
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 54.059999,
+                    "end": 59.2,
+                    "startOffset": 628,
+                    "endOffset": 682
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 59.2,
+                    "end": 64.57,
+                    "startOffset": 684,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 64.57,
+                    "end": 68.95,
+                    "startOffset": 757,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 68.95,
+                    "end": 78.5,
+                    "startOffset": 807,
+                    "endOffset": 915
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 78.5,
+                    "end": 94.752,
+                    "startOffset": 917,
+                    "endOffset": 1054
+                }
+            }
+        ]
+    }
+]

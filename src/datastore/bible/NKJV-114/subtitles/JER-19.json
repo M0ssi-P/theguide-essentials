@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "Jeremiah Chapter 19 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "19-87dfeb7b610d5347fd59043f83969c01",
+        "next": [
+            "JER.20"
+        ],
+        "prev": [
+            "JER.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.92,
+                    "startOffset": 0,
+                    "endOffset": 137
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.92,
+                    "end": 21.919999999999998,
+                    "startOffset": 139,
+                    "endOffset": 279
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.919999999999998,
+                    "end": 39.89,
+                    "startOffset": 281,
+                    "endOffset": 515
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.89,
+                    "end": 55.3,
+                    "startOffset": 518,
+                    "endOffset": 758
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.3,
+                    "end": 66.389999,
+                    "startOffset": 760,
+                    "endOffset": 926
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 66.389999,
+                    "end": 78.88,
+                    "startOffset": 929,
+                    "endOffset": 1095
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 78.88,
+                    "end": 96.55000000000001,
+                    "startOffset": 1097,
+                    "endOffset": 1373
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 96.55000000000001,
+                    "end": 105.08,
+                    "startOffset": 1375,
+                    "endOffset": 1501
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 105.08,
+                    "end": 120.41,
+                    "startOffset": 1503,
+                    "endOffset": 1756
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 120.41,
+                    "end": 125.329999,
+                    "startOffset": 1762,
+                    "endOffset": 1832
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 125.329999,
+                    "end": 141.419999,
+                    "startOffset": 1834,
+                    "endOffset": 2063
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 141.419999,
+                    "end": 147.85999999999999,
+                    "startOffset": 2065,
+                    "endOffset": 2166
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 147.85999999999999,
+                    "end": 164.17000000000002,
+                    "startOffset": 2168,
+                    "endOffset": 2413
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 164.17000000000002,
+                    "end": 173.75,
+                    "startOffset": 2420,
+                    "endOffset": 2565
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 173.75,
+                    "end": 191.136,
+                    "startOffset": 2568,
+                    "endOffset": 2793
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jeremiah Chapter 19 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "19-410cf1cf8ed86e7ca8e083746a38496c",
+        "next": [
+            "JER.20"
+        ],
+        "prev": [
+            "JER.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.5,
+                    "startOffset": 0,
+                    "endOffset": 137
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.5,
+                    "end": 21.17,
+                    "startOffset": 139,
+                    "endOffset": 279
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.17,
+                    "end": 40.37,
+                    "startOffset": 281,
+                    "endOffset": 515
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.37,
+                    "end": 57.11,
+                    "startOffset": 518,
+                    "endOffset": 758
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.11,
+                    "end": 67.89,
+                    "startOffset": 760,
+                    "endOffset": 926
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 67.89,
+                    "end": 80.44,
+                    "startOffset": 929,
+                    "endOffset": 1095
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.44,
+                    "end": 98.539999,
+                    "startOffset": 1097,
+                    "endOffset": 1373
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 98.539999,
+                    "end": 108.809999,
+                    "startOffset": 1375,
+                    "endOffset": 1501
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 108.809999,
+                    "end": 124.76999899999998,
+                    "startOffset": 1503,
+                    "endOffset": 1756
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 124.76999899999998,
+                    "end": 131.46,
+                    "startOffset": 1762,
+                    "endOffset": 1832
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 131.46,
+                    "end": 148.66,
+                    "startOffset": 1834,
+                    "endOffset": 2063
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 148.66,
+                    "end": 156.66,
+                    "startOffset": 2065,
+                    "endOffset": 2166
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 156.66,
+                    "end": 173.689999,
+                    "startOffset": 2168,
+                    "endOffset": 2413
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 173.689999,
+                    "end": 186.51999999999998,
+                    "startOffset": 2420,
+                    "endOffset": 2565
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 186.51999999999998,
+                    "end": 208.152,
+                    "startOffset": 2568,
+                    "endOffset": 2793
+                }
+            }
+        ]
+    }
+]

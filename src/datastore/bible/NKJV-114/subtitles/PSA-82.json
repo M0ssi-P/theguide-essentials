@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 82 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "82-f58c2f525ec8051233e296d75d18d492",
+        "next": [
+            "PSA.83"
+        ],
+        "prev": [
+            "PSA.81"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.6,
+                    "startOffset": 0,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.6,
+                    "end": 18.429999000000002,
+                    "startOffset": 72,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.429999000000002,
+                    "end": 25.42,
+                    "startOffset": 147,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.42,
+                    "end": 30.79,
+                    "startOffset": 218,
+                    "endOffset": 283
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 30.79,
+                    "end": 40.849999999999994,
+                    "startOffset": 285,
+                    "endOffset": 401
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 40.849999999999994,
+                    "end": 47.07,
+                    "startOffset": 403,
+                    "endOffset": 470
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 47.07,
+                    "end": 51.77,
+                    "startOffset": 472,
+                    "endOffset": 532
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 51.77,
+                    "end": 60.144,
+                    "startOffset": 535,
+                    "endOffset": 599
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 82 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "82-a10e94c2d5a51d483a5770e4cbdce5b8",
+        "next": [
+            "PSA.83"
+        ],
+        "prev": [
+            "PSA.81"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.49,
+                    "startOffset": 0,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.49,
+                    "end": 18.509998999999997,
+                    "startOffset": 72,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.509998999999997,
+                    "end": 26.23,
+                    "startOffset": 147,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.23,
+                    "end": 30.799999999999997,
+                    "startOffset": 218,
+                    "endOffset": 283
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 30.799999999999997,
+                    "end": 41.32,
+                    "startOffset": 285,
+                    "endOffset": 401
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.32,
+                    "end": 48.299999,
+                    "startOffset": 403,
+                    "endOffset": 470
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 48.299999,
+                    "end": 53.2,
+                    "startOffset": 472,
+                    "endOffset": 532
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.2,
+                    "end": 65.16,
+                    "startOffset": 535,
+                    "endOffset": 599
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 52 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "52-965912c242c50bb1761862fbfc32492f",
+        "next": [
+            "PSA.53"
+        ],
+        "prev": [
+            "PSA.51"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 21.68,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 21.68,
+                    "end": 28.709998999999996,
+                    "startOffset": 81,
+                    "endOffset": 153
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.709998999999996,
+                    "end": 35.129999000000005,
+                    "startOffset": 155,
+                    "endOffset": 232
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.129999000000005,
+                    "end": 40.17,
+                    "startOffset": 233,
+                    "endOffset": 283
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.17,
+                    "end": 52.150000000000006,
+                    "startOffset": 285,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.150000000000006,
+                    "end": 58.79,
+                    "startOffset": 441,
+                    "endOffset": 510
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 58.79,
+                    "end": 68.09,
+                    "startOffset": 513,
+                    "endOffset": 650
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 68.09,
+                    "end": 76.37,
+                    "startOffset": 653,
+                    "endOffset": 752
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 76.37,
+                    "end": 88.032,
+                    "startOffset": 754,
+                    "endOffset": 882
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 52 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "52-3e0bd4cb70e22ec5ccad02dad1589d5e",
+        "next": [
+            "PSA.53"
+        ],
+        "prev": [
+            "PSA.51"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 22.43,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 22.43,
+                    "end": 29.719998999999998,
+                    "startOffset": 81,
+                    "endOffset": 153
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.719998999999998,
+                    "end": 36.290000000000006,
+                    "startOffset": 155,
+                    "endOffset": 232
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.290000000000006,
+                    "end": 42.480000000000004,
+                    "startOffset": 233,
+                    "endOffset": 283
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.480000000000004,
+                    "end": 56.17,
+                    "startOffset": 285,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.17,
+                    "end": 63.16,
+                    "startOffset": 441,
+                    "endOffset": 510
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.16,
+                    "end": 71.289999,
+                    "startOffset": 513,
+                    "endOffset": 650
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 71.289999,
+                    "end": 81.84,
+                    "startOffset": 653,
+                    "endOffset": 752
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 81.84,
+                    "end": 96.456,
+                    "startOffset": 754,
+                    "endOffset": 882
+                }
+            }
+        ]
+    }
+]

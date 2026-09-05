@@ -1,0 +1,88 @@
+[
+    {
+        "audioName": "Psalms Chapter 134 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "134-51e22d3cb93eec873c38e465e8b52f68",
+        "next": [
+            "PSA.135"
+        ],
+        "prev": [
+            "PSA.133"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.6,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.6,
+                    "end": 17.950001,
+                    "startOffset": 99,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.950001,
+                    "end": 24.096,
+                    "startOffset": 156,
+                    "endOffset": 210
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 134 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "134-3e2a263e816415424ec1f23af4eea28f",
+        "next": [
+            "PSA.135"
+        ],
+        "prev": [
+            "PSA.133"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.97,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.97,
+                    "end": 17.35,
+                    "startOffset": 99,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.35,
+                    "end": 26.256,
+                    "startOffset": 156,
+                    "endOffset": 210
+                }
+            }
+        ]
+    }
+]

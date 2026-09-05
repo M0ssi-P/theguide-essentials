@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Ezekiel Chapter 9 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "9-440c20c3020a11d523a13c583c096b73",
+        "next": [
+            "EZK.10"
+        ],
+        "prev": [
+            "EZK.8"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.439999,
+                    "startOffset": 0,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.439999,
+                    "end": 31.38,
+                    "startOffset": 152,
+                    "endOffset": 400
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.38,
+                    "end": 43.989999999999995,
+                    "startOffset": 402,
+                    "endOffset": 602
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 43.989999999999995,
+                    "end": 56.94,
+                    "startOffset": 604,
+                    "endOffset": 806
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 56.94,
+                    "end": 66.56,
+                    "startOffset": 809,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 66.56,
+                    "end": 80.75,
+                    "startOffset": 933,
+                    "endOffset": 1137
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.75,
+                    "end": 91.44000000000001,
+                    "startOffset": 1139,
+                    "endOffset": 1266
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 91.44000000000001,
+                    "end": 106.34,
+                    "startOffset": 1268,
+                    "endOffset": 1474
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 106.34,
+                    "end": 122.42,
+                    "startOffset": 1477,
+                    "endOffset": 1706
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 122.42,
+                    "end": 131.48,
+                    "startOffset": 1709,
+                    "endOffset": 1830
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 131.48,
+                    "end": 143.136,
+                    "startOffset": 1833,
+                    "endOffset": 1961
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ezekiel Chapter 9 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "9-ac46d5af6fcd684d97abed04806b3b76",
+        "next": [
+            "EZK.10"
+        ],
+        "prev": [
+            "EZK.8"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.32,
+                    "startOffset": 0,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.32,
+                    "end": 33.599999999999994,
+                    "startOffset": 152,
+                    "endOffset": 400
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.599999999999994,
+                    "end": 48.269999999999996,
+                    "startOffset": 402,
+                    "endOffset": 602
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 48.269999999999996,
+                    "end": 62.599999,
+                    "startOffset": 604,
+                    "endOffset": 806
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 62.599999,
+                    "end": 75.48,
+                    "startOffset": 809,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 75.48,
+                    "end": 93.69,
+                    "startOffset": 933,
+                    "endOffset": 1137
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 93.69,
+                    "end": 105.53,
+                    "startOffset": 1139,
+                    "endOffset": 1266
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 105.53,
+                    "end": 122.89999999999999,
+                    "startOffset": 1268,
+                    "endOffset": 1474
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 122.89999999999999,
+                    "end": 141.35999999999999,
+                    "startOffset": 1477,
+                    "endOffset": 1706
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 141.35999999999999,
+                    "end": 151.51,
+                    "startOffset": 1709,
+                    "endOffset": 1830
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 151.51,
+                    "end": 167.832,
+                    "startOffset": 1833,
+                    "endOffset": 1961
+                }
+            }
+        ]
+    }
+]

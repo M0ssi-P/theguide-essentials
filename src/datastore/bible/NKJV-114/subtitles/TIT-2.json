@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "Titus Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-f43d38fca26407eb8150ac4b5f5e482e",
+        "next": [
+            "TIT.3"
+        ],
+        "prev": [
+            "TIT.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.36,
+                    "startOffset": 0,
+                    "endOffset": 68
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.36,
+                    "end": 16.07,
+                    "startOffset": 70,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.07,
+                    "end": 24.869999999999997,
+                    "startOffset": 158,
+                    "endOffset": 282
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.869999999999997,
+                    "end": 29.53,
+                    "startOffset": 284,
+                    "endOffset": 365
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.53,
+                    "end": 39.13,
+                    "startOffset": 367,
+                    "endOffset": 484
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 39.13,
+                    "end": 43.65,
+                    "startOffset": 486,
+                    "endOffset": 535
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 43.65,
+                    "end": 52.05,
+                    "startOffset": 537,
+                    "endOffset": 659
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 52.05,
+                    "end": 59.980000000000004,
+                    "startOffset": 661,
+                    "endOffset": 777
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 59.980000000000004,
+                    "end": 68.25,
+                    "startOffset": 779,
+                    "endOffset": 890
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 68.25,
+                    "end": 76.38,
+                    "startOffset": 892,
+                    "endOffset": 1002
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 76.38,
+                    "end": 81.969999,
+                    "startOffset": 1004,
+                    "endOffset": 1070
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 81.969999,
+                    "end": 91.27,
+                    "startOffset": 1072,
+                    "endOffset": 1194
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 91.27,
+                    "end": 97.57000000000001,
+                    "startOffset": 1196,
+                    "endOffset": 1288
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 97.57000000000001,
+                    "end": 108.89,
+                    "startOffset": 1290,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 108.89,
+                    "end": 118.368,
+                    "startOffset": 1434,
+                    "endOffset": 1515
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Titus Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-9775d3ea10e19785eb58a5778dc017ee",
+        "next": [
+            "TIT.3"
+        ],
+        "prev": [
+            "TIT.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.1,
+                    "startOffset": 0,
+                    "endOffset": 68
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.1,
+                    "end": 16.249999,
+                    "startOffset": 70,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.249999,
+                    "end": 28.220000000000002,
+                    "startOffset": 158,
+                    "endOffset": 282
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.220000000000002,
+                    "end": 34.689999,
+                    "startOffset": 284,
+                    "endOffset": 365
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.689999,
+                    "end": 48.229999,
+                    "startOffset": 367,
+                    "endOffset": 484
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.229999,
+                    "end": 52.37,
+                    "startOffset": 486,
+                    "endOffset": 535
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.37,
+                    "end": 63.44,
+                    "startOffset": 537,
+                    "endOffset": 659
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 63.44,
+                    "end": 72.27,
+                    "startOffset": 661,
+                    "endOffset": 777
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 72.27,
+                    "end": 82.93,
+                    "startOffset": 779,
+                    "endOffset": 890
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 82.93,
+                    "end": 92.2,
+                    "startOffset": 892,
+                    "endOffset": 1002
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 92.2,
+                    "end": 100.51,
+                    "startOffset": 1004,
+                    "endOffset": 1070
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 100.51,
+                    "end": 112.04,
+                    "startOffset": 1072,
+                    "endOffset": 1194
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 112.04,
+                    "end": 118.52,
+                    "startOffset": 1196,
+                    "endOffset": 1288
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 118.52,
+                    "end": 131.87,
+                    "startOffset": 1290,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 131.87,
+                    "end": 145.512,
+                    "startOffset": 1434,
+                    "endOffset": 1515
+                }
+            }
+        ]
+    }
+]

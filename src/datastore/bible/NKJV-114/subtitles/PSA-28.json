@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 28 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "28-badb3c6bd64bd7ce00dc48241c9d9b67",
+        "next": [
+            "PSA.29"
+        ],
+        "prev": [
+            "PSA.27"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.46,
+                    "startOffset": 0,
+                    "endOffset": 132
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.46,
+                    "end": 25.09,
+                    "startOffset": 134,
+                    "endOffset": 238
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.09,
+                    "end": 35.059999999999995,
+                    "startOffset": 240,
+                    "endOffset": 373
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.059999999999995,
+                    "end": 46.489999999999995,
+                    "startOffset": 375,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.489999999999995,
+                    "end": 55.86,
+                    "startOffset": 545,
+                    "endOffset": 670
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.86,
+                    "end": 61.39,
+                    "startOffset": 672,
+                    "endOffset": 743
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.39,
+                    "end": 74.5,
+                    "startOffset": 745,
+                    "endOffset": 899
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.5,
+                    "end": 81.3,
+                    "startOffset": 901,
+                    "endOffset": 973
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 81.3,
+                    "end": 90.792,
+                    "startOffset": 975,
+                    "endOffset": 1065
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 28 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "28-3debed96b323c12d6824fce0afa1dae5",
+        "next": [
+            "PSA.29"
+        ],
+        "prev": [
+            "PSA.27"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.8,
+                    "startOffset": 0,
+                    "endOffset": 132
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.8,
+                    "end": 23.689999999999998,
+                    "startOffset": 134,
+                    "endOffset": 238
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.689999999999998,
+                    "end": 34.769999000000006,
+                    "startOffset": 240,
+                    "endOffset": 373
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.769999000000006,
+                    "end": 46.469998999999994,
+                    "startOffset": 375,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.469998999999994,
+                    "end": 56.85,
+                    "startOffset": 545,
+                    "endOffset": 670
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.85,
+                    "end": 64.15,
+                    "startOffset": 672,
+                    "endOffset": 743
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.15,
+                    "end": 76.83999999999999,
+                    "startOffset": 745,
+                    "endOffset": 899
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 76.83999999999999,
+                    "end": 83.92999999999999,
+                    "startOffset": 901,
+                    "endOffset": 973
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 83.92999999999999,
+                    "end": 98.304,
+                    "startOffset": 975,
+                    "endOffset": 1065
+                }
+            }
+        ]
+    }
+]

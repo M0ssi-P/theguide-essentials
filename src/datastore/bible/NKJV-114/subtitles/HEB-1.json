@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Hebrews Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-e2e2fa1610ee0e066cdc5b1c9880d07c",
+        "next": [
+            "HEB.2"
+        ],
+        "prev": [
+            "PHM.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.509998999999999,
+                    "startOffset": 0,
+                    "endOffset": 95
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.509998999999999,
+                    "end": 22.650000000000002,
+                    "startOffset": 97,
+                    "endOffset": 223
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.650000000000002,
+                    "end": 38.73,
+                    "startOffset": 225,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.73,
+                    "end": 46.26,
+                    "startOffset": 442,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.26,
+                    "end": 59.2,
+                    "startOffset": 555,
+                    "endOffset": 710
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.2,
+                    "end": 67.419999,
+                    "startOffset": 713,
+                    "endOffset": 815
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.419999,
+                    "end": 74.53999999999999,
+                    "startOffset": 818,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.53999999999999,
+                    "end": 84.69,
+                    "startOffset": 911,
+                    "endOffset": 1035
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.69,
+                    "end": 95.28,
+                    "startOffset": 1037,
+                    "endOffset": 1181
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 95.28,
+                    "end": 104.019999,
+                    "startOffset": 1184,
+                    "endOffset": 1294
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 104.019999,
+                    "end": 109.66,
+                    "startOffset": 1296,
+                    "endOffset": 1371
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 109.66,
+                    "end": 117.34,
+                    "startOffset": 1373,
+                    "endOffset": 1485
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 117.34,
+                    "end": 124.45,
+                    "startOffset": 1488,
+                    "endOffset": 1595
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 124.45,
+                    "end": 133.128,
+                    "startOffset": 1598,
+                    "endOffset": 1694
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Hebrews Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-4991bbe8d892651575abaf778d6018a6",
+        "next": [
+            "HEB.2"
+        ],
+        "prev": [
+            "PHM.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.689999,
+                    "startOffset": 0,
+                    "endOffset": 95
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.689999,
+                    "end": 26.84,
+                    "startOffset": 97,
+                    "endOffset": 223
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.84,
+                    "end": 47.71,
+                    "startOffset": 225,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 47.71,
+                    "end": 57.370000000000005,
+                    "startOffset": 442,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.370000000000005,
+                    "end": 75.17999999999999,
+                    "startOffset": 555,
+                    "endOffset": 710
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 75.17999999999999,
+                    "end": 85.829999,
+                    "startOffset": 713,
+                    "endOffset": 815
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 85.829999,
+                    "end": 95.96,
+                    "startOffset": 818,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 95.96,
+                    "end": 109.14,
+                    "startOffset": 911,
+                    "endOffset": 1035
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 109.14,
+                    "end": 121.97,
+                    "startOffset": 1037,
+                    "endOffset": 1181
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 121.97,
+                    "end": 133.67999999999998,
+                    "startOffset": 1184,
+                    "endOffset": 1294
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 133.67999999999998,
+                    "end": 141.08,
+                    "startOffset": 1296,
+                    "endOffset": 1371
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 141.08,
+                    "end": 151.26,
+                    "startOffset": 1373,
+                    "endOffset": 1485
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 151.26,
+                    "end": 162.01999999999998,
+                    "startOffset": 1488,
+                    "endOffset": 1595
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 162.01999999999998,
+                    "end": 175.176,
+                    "startOffset": 1598,
+                    "endOffset": 1694
+                }
+            }
+        ]
+    }
+]

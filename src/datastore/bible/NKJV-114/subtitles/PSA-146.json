@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 146 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "146-337d747d7285766bca5fc4ca1abfd928",
+        "next": [
+            "PSA.147"
+        ],
+        "prev": [
+            "PSA.145"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.69,
+                    "startOffset": 0,
+                    "endOffset": 43
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.69,
+                    "end": 15.929999,
+                    "startOffset": 45,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.929999,
+                    "end": 21.789999,
+                    "startOffset": 135,
+                    "endOffset": 215
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.789999,
+                    "end": 28.54,
+                    "startOffset": 217,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.54,
+                    "end": 34.510000000000005,
+                    "startOffset": 297,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 34.510000000000005,
+                    "end": 40.77,
+                    "startOffset": 384,
+                    "endOffset": 468
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.77,
+                    "end": 48.209999999999994,
+                    "startOffset": 470,
+                    "endOffset": 579
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 48.209999999999994,
+                    "end": 55.949999999999996,
+                    "startOffset": 581,
+                    "endOffset": 691
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 55.949999999999996,
+                    "end": 64.84999900000001,
+                    "startOffset": 693,
+                    "endOffset": 814
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 64.84999900000001,
+                    "end": 75.288,
+                    "startOffset": 816,
+                    "endOffset": 899
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 146 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "146-f4c54b6d7faac349d7db706895e95559",
+        "next": [
+            "PSA.147"
+        ],
+        "prev": [
+            "PSA.145"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.35,
+                    "startOffset": 0,
+                    "endOffset": 43
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.35,
+                    "end": 13.930000000000001,
+                    "startOffset": 45,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 13.930000000000001,
+                    "end": 20.839999000000002,
+                    "startOffset": 135,
+                    "endOffset": 215
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.839999000000002,
+                    "end": 28.99,
+                    "startOffset": 217,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.99,
+                    "end": 37.370000000000005,
+                    "startOffset": 297,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 37.370000000000005,
+                    "end": 44.34,
+                    "startOffset": 384,
+                    "endOffset": 468
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.34,
+                    "end": 52.399998999999994,
+                    "startOffset": 470,
+                    "endOffset": 579
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 52.399998999999994,
+                    "end": 62.86,
+                    "startOffset": 581,
+                    "endOffset": 691
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 62.86,
+                    "end": 72.849999,
+                    "startOffset": 693,
+                    "endOffset": 814
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 72.849999,
+                    "end": 86.952,
+                    "startOffset": 816,
+                    "endOffset": 899
+                }
+            }
+        ]
+    }
+]

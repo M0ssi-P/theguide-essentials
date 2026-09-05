@@ -1,0 +1,340 @@
+[
+    {
+        "audioName": "Habakkuk Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-d95a2de385dcb35309a42a6796d138f9",
+        "next": [
+            "HAB.2"
+        ],
+        "prev": [
+            "NAM.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.2,
+                    "startOffset": 0,
+                    "endOffset": 41
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.2,
+                    "end": 15.23,
+                    "startOffset": 43,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.23,
+                    "end": 25.130000000000003,
+                    "startOffset": 152,
+                    "endOffset": 291
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.130000000000003,
+                    "end": 35.239999999999995,
+                    "startOffset": 293,
+                    "endOffset": 430
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.239999999999995,
+                    "end": 45.52,
+                    "startOffset": 433,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.52,
+                    "end": 56.34,
+                    "startOffset": 580,
+                    "endOffset": 743
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 56.34,
+                    "end": 61.949999999999996,
+                    "startOffset": 745,
+                    "endOffset": 833
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 61.949999999999996,
+                    "end": 75.2,
+                    "startOffset": 835,
+                    "endOffset": 1018
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 75.2,
+                    "end": 83.03,
+                    "startOffset": 1021,
+                    "endOffset": 1119
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 83.03,
+                    "end": 92.34,
+                    "startOffset": 1121,
+                    "endOffset": 1249
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 92.34,
+                    "end": 100.45,
+                    "startOffset": 1251,
+                    "endOffset": 1346
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 100.45,
+                    "end": 113.06,
+                    "startOffset": 1349,
+                    "endOffset": 1514
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 113.06,
+                    "end": 126.189999,
+                    "startOffset": 1516,
+                    "endOffset": 1716
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 126.189999,
+                    "end": 132.64,
+                    "startOffset": 1718,
+                    "endOffset": 1810
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 132.64,
+                    "end": 141.69,
+                    "startOffset": 1812,
+                    "endOffset": 1949
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 141.69,
+                    "end": 150.76,
+                    "startOffset": 1951,
+                    "endOffset": 2090
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 150.76,
+                    "end": 158.232,
+                    "startOffset": 2092,
+                    "endOffset": 2171
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Habakkuk Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-6741ef0149542aad5d9cf4081559044d",
+        "next": [
+            "HAB.2"
+        ],
+        "prev": [
+            "NAM.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.34,
+                    "startOffset": 0,
+                    "endOffset": 41
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.34,
+                    "end": 18.779999,
+                    "startOffset": 43,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.779999,
+                    "end": 31.209998999999996,
+                    "startOffset": 152,
+                    "endOffset": 291
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.209998999999996,
+                    "end": 43.32,
+                    "startOffset": 293,
+                    "endOffset": 430
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.32,
+                    "end": 57.34,
+                    "startOffset": 433,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 57.34,
+                    "end": 70.89,
+                    "startOffset": 580,
+                    "endOffset": 743
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 70.89,
+                    "end": 77.73,
+                    "startOffset": 745,
+                    "endOffset": 833
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 77.73,
+                    "end": 94.22999999999999,
+                    "startOffset": 835,
+                    "endOffset": 1018
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 94.22999999999999,
+                    "end": 102.88,
+                    "startOffset": 1021,
+                    "endOffset": 1119
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 102.88,
+                    "end": 114.69,
+                    "startOffset": 1121,
+                    "endOffset": 1249
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 114.69,
+                    "end": 124.849999,
+                    "startOffset": 1251,
+                    "endOffset": 1346
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 124.849999,
+                    "end": 143.51999899999998,
+                    "startOffset": 1349,
+                    "endOffset": 1514
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 143.51999899999998,
+                    "end": 158.949999,
+                    "startOffset": 1516,
+                    "endOffset": 1716
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 158.949999,
+                    "end": 166.05,
+                    "startOffset": 1718,
+                    "endOffset": 1810
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 166.05,
+                    "end": 176.72,
+                    "startOffset": 1812,
+                    "endOffset": 1949
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 176.72,
+                    "end": 188.06,
+                    "startOffset": 1951,
+                    "endOffset": 2090
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 188.06,
+                    "end": 199.008,
+                    "startOffset": 2092,
+                    "endOffset": 2171
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Psalms Chapter 32 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "32-892826ab7daf0b1c9d0118ca0817f329",
+        "next": [
+            "PSA.33"
+        ],
+        "prev": [
+            "PSA.31"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.98,
+                    "startOffset": 0,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.98,
+                    "end": 20.740000000000002,
+                    "startOffset": 72,
+                    "endOffset": 174
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.740000000000002,
+                    "end": 27.45,
+                    "startOffset": 176,
+                    "endOffset": 250
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.45,
+                    "end": 36.249999,
+                    "startOffset": 252,
+                    "endOffset": 355
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.249999,
+                    "end": 52.33,
+                    "startOffset": 356,
+                    "endOffset": 522
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.33,
+                    "end": 64.99,
+                    "startOffset": 523,
+                    "endOffset": 673
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.99,
+                    "end": 75.95,
+                    "startOffset": 675,
+                    "endOffset": 790
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 75.95,
+                    "end": 84.15,
+                    "startOffset": 791,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.15,
+                    "end": 93.44,
+                    "startOffset": 881,
+                    "endOffset": 1030
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 93.44,
+                    "end": 102.46,
+                    "startOffset": 1032,
+                    "endOffset": 1125
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 102.46,
+                    "end": 112.776,
+                    "startOffset": 1127,
+                    "endOffset": 1218
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 32 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "32-a5c77dbd56f1d6ff636ce6bf68adbde2",
+        "next": [
+            "PSA.33"
+        ],
+        "prev": [
+            "PSA.31"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.63,
+                    "startOffset": 0,
+                    "endOffset": 70
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.63,
+                    "end": 18.439999,
+                    "startOffset": 72,
+                    "endOffset": 174
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.439999,
+                    "end": 26.39,
+                    "startOffset": 176,
+                    "endOffset": 250
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.39,
+                    "end": 37.239999,
+                    "startOffset": 252,
+                    "endOffset": 355
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.239999,
+                    "end": 54.75999899999999,
+                    "startOffset": 356,
+                    "endOffset": 522
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 54.75999899999999,
+                    "end": 67.67,
+                    "startOffset": 523,
+                    "endOffset": 673
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.67,
+                    "end": 78.32000000000001,
+                    "startOffset": 675,
+                    "endOffset": 790
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.32000000000001,
+                    "end": 87.11,
+                    "startOffset": 791,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 87.11,
+                    "end": 97.07,
+                    "startOffset": 881,
+                    "endOffset": 1030
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 97.07,
+                    "end": 107.04,
+                    "startOffset": 1032,
+                    "endOffset": 1125
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.04,
+                    "end": 121.176,
+                    "startOffset": 1127,
+                    "endOffset": 1218
+                }
+            }
+        ]
+    }
+]

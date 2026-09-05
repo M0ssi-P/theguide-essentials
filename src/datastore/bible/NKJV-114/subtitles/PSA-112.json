@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 112 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "112-1f3f3580e3ad72d145291b7168a48f5a",
+        "next": [
+            "PSA.113"
+        ],
+        "prev": [
+            "PSA.111"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.549999999999999,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.549999999999999,
+                    "end": 15.91,
+                    "startOffset": 99,
+                    "endOffset": 185
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.91,
+                    "end": 21.19,
+                    "startOffset": 187,
+                    "endOffset": 265
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.19,
+                    "end": 29.39,
+                    "startOffset": 267,
+                    "endOffset": 374
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.39,
+                    "end": 34.879999,
+                    "startOffset": 376,
+                    "endOffset": 456
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 34.879999,
+                    "end": 40.14,
+                    "startOffset": 458,
+                    "endOffset": 538
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.14,
+                    "end": 46.9,
+                    "startOffset": 540,
+                    "endOffset": 623
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 46.9,
+                    "end": 54.02,
+                    "startOffset": 625,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 54.02,
+                    "end": 63.15,
+                    "startOffset": 718,
+                    "endOffset": 839
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 63.15,
+                    "end": 73.464,
+                    "startOffset": 841,
+                    "endOffset": 956
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 112 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "112-2573511df51c08016f15d93d6e85905c",
+        "next": [
+            "PSA.113"
+        ],
+        "prev": [
+            "PSA.111"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.309999999999999,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.309999999999999,
+                    "end": 17.750000999999997,
+                    "startOffset": 99,
+                    "endOffset": 185
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.750000999999997,
+                    "end": 24.68,
+                    "startOffset": 187,
+                    "endOffset": 265
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.68,
+                    "end": 33.97,
+                    "startOffset": 267,
+                    "endOffset": 374
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.97,
+                    "end": 41.879999999999995,
+                    "startOffset": 376,
+                    "endOffset": 456
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.879999999999995,
+                    "end": 49.25,
+                    "startOffset": 458,
+                    "endOffset": 538
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 49.25,
+                    "end": 57.36,
+                    "startOffset": 540,
+                    "endOffset": 623
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 57.36,
+                    "end": 66.50999900000001,
+                    "startOffset": 625,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 66.50999900000001,
+                    "end": 80.39999999999999,
+                    "startOffset": 718,
+                    "endOffset": 839
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 80.39999999999999,
+                    "end": 95.136,
+                    "startOffset": 841,
+                    "endOffset": 956
+                }
+            }
+        ]
+    }
+]

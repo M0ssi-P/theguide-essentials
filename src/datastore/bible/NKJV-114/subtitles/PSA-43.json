@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Psalms Chapter 43 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "43-6a6a909c2d8549c27f5b8bf034b26026",
+        "next": [
+            "PSA.44"
+        ],
+        "prev": [
+            "PSA.42"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.91,
+                    "startOffset": 0,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.91,
+                    "end": 22.759999999999998,
+                    "startOffset": 117,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.759999999999998,
+                    "end": 32.69,
+                    "startOffset": 238,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.69,
+                    "end": 44.21,
+                    "startOffset": 356,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.21,
+                    "end": 61.152,
+                    "startOffset": 467,
+                    "endOffset": 617
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 43 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "43-7a1704c953fbfe4a5a26eb9f4258bb39",
+        "next": [
+            "PSA.44"
+        ],
+        "prev": [
+            "PSA.42"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.709999999999999,
+                    "startOffset": 0,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.709999999999999,
+                    "end": 21.580000000000002,
+                    "startOffset": 117,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.580000000000002,
+                    "end": 31.369999999999997,
+                    "startOffset": 238,
+                    "endOffset": 354
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.369999999999997,
+                    "end": 41.46,
+                    "startOffset": 356,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.46,
+                    "end": 62.16,
+                    "startOffset": 467,
+                    "endOffset": 617
+                }
+            }
+        ]
+    }
+]

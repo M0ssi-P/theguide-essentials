@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Zechariah Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-0e98203a3579cd7a18013ebe4089357a",
+        "next": [
+            "ZEC.5"
+        ],
+        "prev": [
+            "ZEC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.069999999999999,
+                    "startOffset": 0,
+                    "endOffset": 99
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.069999999999999,
+                    "end": 26.26,
+                    "startOffset": 101,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.26,
+                    "end": 32.28,
+                    "startOffset": 297,
+                    "endOffset": 378
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.28,
+                    "end": 37.93,
+                    "startOffset": 381,
+                    "endOffset": 470
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.93,
+                    "end": 46.039999,
+                    "startOffset": 473,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.039999,
+                    "end": 57.940000000000005,
+                    "startOffset": 593,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 57.940000000000005,
+                    "end": 71.02,
+                    "startOffset": 741,
+                    "endOffset": 890
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 71.02,
+                    "end": 75.37,
+                    "startOffset": 897,
+                    "endOffset": 945
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 75.37,
+                    "end": 87.84,
+                    "startOffset": 948,
+                    "endOffset": 1105
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 87.84,
+                    "end": 102.15,
+                    "startOffset": 1107,
+                    "endOffset": 1305
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 102.15,
+                    "end": 110.03,
+                    "startOffset": 1308,
+                    "endOffset": 1418
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 110.03,
+                    "end": 120.58000000000001,
+                    "startOffset": 1421,
+                    "endOffset": 1582
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 120.58000000000001,
+                    "end": 127.17,
+                    "startOffset": 1585,
+                    "endOffset": 1673
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 127.17,
+                    "end": 136.104,
+                    "startOffset": 1676,
+                    "endOffset": 1766
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Zechariah Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-f92ab19b994a09a642d77bfb2d4abbf8",
+        "next": [
+            "ZEC.5"
+        ],
+        "prev": [
+            "ZEC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.71,
+                    "startOffset": 0,
+                    "endOffset": 99
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.71,
+                    "end": 25.44,
+                    "startOffset": 101,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.44,
+                    "end": 31.85,
+                    "startOffset": 297,
+                    "endOffset": 378
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.85,
+                    "end": 39.19,
+                    "startOffset": 381,
+                    "endOffset": 470
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 39.19,
+                    "end": 48.489999999999995,
+                    "startOffset": 473,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.489999999999995,
+                    "end": 63.369999,
+                    "startOffset": 593,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.369999,
+                    "end": 76.75999999999999,
+                    "startOffset": 741,
+                    "endOffset": 890
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 76.75999999999999,
+                    "end": 80.39,
+                    "startOffset": 897,
+                    "endOffset": 945
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.39,
+                    "end": 93.45,
+                    "startOffset": 948,
+                    "endOffset": 1105
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 93.45,
+                    "end": 109.34,
+                    "startOffset": 1107,
+                    "endOffset": 1305
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 109.34,
+                    "end": 118.93999900000001,
+                    "startOffset": 1308,
+                    "endOffset": 1418
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 118.93999900000001,
+                    "end": 130.51000000000002,
+                    "startOffset": 1421,
+                    "endOffset": 1582
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 130.51000000000002,
+                    "end": 138.699999,
+                    "startOffset": 1585,
+                    "endOffset": 1673
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 138.699999,
+                    "end": 151.032,
+                    "startOffset": 1676,
+                    "endOffset": 1766
+                }
+            }
+        ]
+    }
+]

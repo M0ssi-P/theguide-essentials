@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "I Chronicles Chapter 20 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "20-f38920d76e6de2763362d27b3fd79c7b",
+        "next": [
+            "1CH.21"
+        ],
+        "prev": [
+            "1CH.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 23.39,
+                    "startOffset": 0,
+                    "endOffset": 261
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 23.39,
+                    "end": 38.51,
+                    "startOffset": 263,
+                    "endOffset": 484
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 38.51,
+                    "end": 53.00999900000001,
+                    "startOffset": 486,
+                    "endOffset": 702
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 53.00999900000001,
+                    "end": 66.48,
+                    "startOffset": 704,
+                    "endOffset": 895
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 66.48,
+                    "end": 78.47999999999999,
+                    "startOffset": 897,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 78.47999999999999,
+                    "end": 92.23,
+                    "startOffset": 1067,
+                    "endOffset": 1251
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 92.23,
+                    "end": 98.92,
+                    "startOffset": 1253,
+                    "endOffset": 1334
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 98.92,
+                    "end": 108.192,
+                    "startOffset": 1336,
+                    "endOffset": 1440
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I Chronicles Chapter 20 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "20-7a41097c43f93a8500fa06756afd4d09",
+        "next": [
+            "1CH.21"
+        ],
+        "prev": [
+            "1CH.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.849999999999998,
+                    "startOffset": 0,
+                    "endOffset": 261
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.849999999999998,
+                    "end": 36.059999999999995,
+                    "startOffset": 263,
+                    "endOffset": 484
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 36.059999999999995,
+                    "end": 51.879999,
+                    "startOffset": 486,
+                    "endOffset": 702
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 51.879999,
+                    "end": 66.44,
+                    "startOffset": 704,
+                    "endOffset": 895
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 66.44,
+                    "end": 77.86999999999999,
+                    "startOffset": 897,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 77.86999999999999,
+                    "end": 91.71,
+                    "startOffset": 1067,
+                    "endOffset": 1251
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 91.71,
+                    "end": 98.13,
+                    "startOffset": 1253,
+                    "endOffset": 1334
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 98.13,
+                    "end": 109.992,
+                    "startOffset": 1336,
+                    "endOffset": 1440
+                }
+            }
+        ]
+    }
+]

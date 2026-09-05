@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 54 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "54-dffc426a04fa78a8b1115518f401f8c2",
+        "next": [
+            "PSA.55"
+        ],
+        "prev": [
+            "PSA.53"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.449999000000002,
+                    "startOffset": 0,
+                    "endOffset": 63
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.449999000000002,
+                    "end": 24.37,
+                    "startOffset": 65,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.37,
+                    "end": 33.429999,
+                    "startOffset": 123,
+                    "endOffset": 245
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.429999,
+                    "end": 40.199999999999996,
+                    "startOffset": 246,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.199999999999996,
+                    "end": 45.39,
+                    "startOffset": 315,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.39,
+                    "end": 52.57,
+                    "startOffset": 384,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.57,
+                    "end": 61.56,
+                    "startOffset": 466,
+                    "endOffset": 557
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 54 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "54-bc5c345ce06c3b48fb67134c4cbe6da5",
+        "next": [
+            "PSA.55"
+        ],
+        "prev": [
+            "PSA.53"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.109999000000002,
+                    "startOffset": 0,
+                    "endOffset": 63
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.109999000000002,
+                    "end": 24.67,
+                    "startOffset": 65,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.67,
+                    "end": 35.449999000000005,
+                    "startOffset": 123,
+                    "endOffset": 245
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.449999000000005,
+                    "end": 42.43,
+                    "startOffset": 246,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.43,
+                    "end": 47.929999,
+                    "startOffset": 315,
+                    "endOffset": 382
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 47.929999,
+                    "end": 54.679999,
+                    "startOffset": 384,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 54.679999,
+                    "end": 66.144,
+                    "startOffset": 466,
+                    "endOffset": 557
+                }
+            }
+        ]
+    }
+]

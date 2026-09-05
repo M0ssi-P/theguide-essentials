@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Psalms Chapter 100 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "100-178b0a8d785196e55f10fc553a71c7be",
+        "next": [
+            "PSA.101"
+        ],
+        "prev": [
+            "PSA.99"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.499998999999999,
+                    "startOffset": 0,
+                    "endOffset": 46
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.499998999999999,
+                    "end": 14.26,
+                    "startOffset": 48,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.26,
+                    "end": 24.88,
+                    "startOffset": 117,
+                    "endOffset": 244
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.88,
+                    "end": 33.12,
+                    "startOffset": 246,
+                    "endOffset": 357
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.12,
+                    "end": 41.928,
+                    "startOffset": 359,
+                    "endOffset": 448
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 100 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "100-d311b1c625496fe4a4336c2cbd245d89",
+        "next": [
+            "PSA.101"
+        ],
+        "prev": [
+            "PSA.99"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.540000000000001,
+                    "startOffset": 0,
+                    "endOffset": 46
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.540000000000001,
+                    "end": 14.83,
+                    "startOffset": 48,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.83,
+                    "end": 26.02,
+                    "startOffset": 117,
+                    "endOffset": 244
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.02,
+                    "end": 36.339999999999996,
+                    "startOffset": 246,
+                    "endOffset": 357
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.339999999999996,
+                    "end": 50.496,
+                    "startOffset": 359,
+                    "endOffset": 448
+                }
+            }
+        ]
+    }
+]

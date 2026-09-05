@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "II Corinthians Chapter 13 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "13-dab108459e42af4228769ea2778e3614",
+        "next": [
+            "GAL.1"
+        ],
+        "prev": [
+            "2CO.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.18,
+                    "startOffset": 0,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.18,
+                    "end": 25.13,
+                    "startOffset": 124,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.13,
+                    "end": 31.269999,
+                    "startOffset": 321,
+                    "endOffset": 415
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.269999,
+                    "end": 42.43,
+                    "startOffset": 417,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.43,
+                    "end": 54.359998999999995,
+                    "startOffset": 580,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 54.359998999999995,
+                    "end": 58.720000000000006,
+                    "startOffset": 746,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 58.720000000000006,
+                    "end": 69.579999,
+                    "startOffset": 807,
+                    "endOffset": 955
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.579999,
+                    "end": 73.35,
+                    "startOffset": 957,
+                    "endOffset": 1015
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 73.35,
+                    "end": 80.78,
+                    "startOffset": 1017,
+                    "endOffset": 1122
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 80.78,
+                    "end": 92.24000000000001,
+                    "startOffset": 1124,
+                    "endOffset": 1306
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 92.24000000000001,
+                    "end": 105.879999,
+                    "startOffset": 1308,
+                    "endOffset": 1451
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.879999,
+                    "end": 108.140001,
+                    "startOffset": 1453,
+                    "endOffset": 1487
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 108.140001,
+                    "end": 110.22,
+                    "startOffset": 1489,
+                    "endOffset": 1513
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 110.22,
+                    "end": 120.528,
+                    "startOffset": 1515,
+                    "endOffset": 1630
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Corinthians Chapter 13 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "13-2402ec1605ccbca46ccbc603ee3165b0",
+        "next": [
+            "GAL.1"
+        ],
+        "prev": [
+            "2CO.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.7,
+                    "startOffset": 0,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.7,
+                    "end": 25.82,
+                    "startOffset": 124,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.82,
+                    "end": 33.43,
+                    "startOffset": 321,
+                    "endOffset": 415
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.43,
+                    "end": 48.52,
+                    "startOffset": 417,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.52,
+                    "end": 62.379999999999995,
+                    "startOffset": 580,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.379999999999995,
+                    "end": 66.91,
+                    "startOffset": 746,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 66.91,
+                    "end": 79.24,
+                    "startOffset": 807,
+                    "endOffset": 955
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.24,
+                    "end": 83.7,
+                    "startOffset": 957,
+                    "endOffset": 1015
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 83.7,
+                    "end": 92.98,
+                    "startOffset": 1017,
+                    "endOffset": 1122
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 92.98,
+                    "end": 107.130001,
+                    "startOffset": 1124,
+                    "endOffset": 1306
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.130001,
+                    "end": 124.61999899999999,
+                    "startOffset": 1308,
+                    "endOffset": 1451
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 124.61999899999999,
+                    "end": 128.43,
+                    "startOffset": 1453,
+                    "endOffset": 1487
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 128.43,
+                    "end": 130.83,
+                    "startOffset": 1489,
+                    "endOffset": 1513
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 130.83,
+                    "end": 146.352,
+                    "startOffset": 1515,
+                    "endOffset": 1630
+                }
+            }
+        ]
+    }
+]

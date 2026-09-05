@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Hosea Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-bd449222fb782f154b48be334ccec6e8",
+        "next": [
+            "HOS.4"
+        ],
+        "prev": [
+            "HOS.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.93,
+                    "startOffset": 0,
+                    "endOffset": 226
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.93,
+                    "end": 26.549999999999997,
+                    "startOffset": 229,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.549999999999997,
+                    "end": 37.160000000000004,
+                    "startOffset": 326,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.160000000000004,
+                    "end": 47.14,
+                    "startOffset": 468,
+                    "endOffset": 602
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.14,
+                    "end": 59.688,
+                    "startOffset": 604,
+                    "endOffset": 760
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Hosea Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-ac169b8c414d7a98e633b183074c05b7",
+        "next": [
+            "HOS.4"
+        ],
+        "prev": [
+            "HOS.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.739999,
+                    "startOffset": 0,
+                    "endOffset": 226
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.739999,
+                    "end": 27.529998999999997,
+                    "startOffset": 229,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.529998999999997,
+                    "end": 38.89,
+                    "startOffset": 326,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.89,
+                    "end": 49.95,
+                    "startOffset": 468,
+                    "endOffset": 602
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.95,
+                    "end": 64.512,
+                    "startOffset": 604,
+                    "endOffset": 760
+                }
+            }
+        ]
+    }
+]

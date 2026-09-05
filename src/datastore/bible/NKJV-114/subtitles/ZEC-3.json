@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Zechariah Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-eba25eb36a746f6f57d843f41f76fe73",
+        "next": [
+            "ZEC.4"
+        ],
+        "prev": [
+            "ZEC.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.200000000000001,
+                    "startOffset": 0,
+                    "endOffset": 130
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.200000000000001,
+                    "end": 24.009999999999998,
+                    "startOffset": 132,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.009999999999998,
+                    "end": 29.669999999999998,
+                    "startOffset": 279,
+                    "endOffset": 357
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.669999999999998,
+                    "end": 43.63,
+                    "startOffset": 359,
+                    "endOffset": 569
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.63,
+                    "end": 55.159999,
+                    "startOffset": 572,
+                    "endOffset": 734
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.159999,
+                    "end": 59.26,
+                    "startOffset": 736,
+                    "endOffset": 788
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.26,
+                    "end": 75.61,
+                    "startOffset": 791,
+                    "endOffset": 1015
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 75.61,
+                    "end": 89.26,
+                    "startOffset": 1018,
+                    "endOffset": 1178
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.26,
+                    "end": 104.439999,
+                    "startOffset": 1180,
+                    "endOffset": 1386
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 104.439999,
+                    "end": 113.928,
+                    "startOffset": 1388,
+                    "endOffset": 1498
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Zechariah Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-951dc755ab9fd4e4dd358c784d50ecc2",
+        "next": [
+            "ZEC.4"
+        ],
+        "prev": [
+            "ZEC.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.05,
+                    "startOffset": 0,
+                    "endOffset": 130
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.05,
+                    "end": 24.060000000000002,
+                    "startOffset": 132,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.060000000000002,
+                    "end": 31.509999999999998,
+                    "startOffset": 279,
+                    "endOffset": 357
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.509999999999998,
+                    "end": 50.249999,
+                    "startOffset": 359,
+                    "endOffset": 569
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.249999,
+                    "end": 64.699999,
+                    "startOffset": 572,
+                    "endOffset": 734
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.699999,
+                    "end": 69.67,
+                    "startOffset": 736,
+                    "endOffset": 788
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 69.67,
+                    "end": 87.98,
+                    "startOffset": 791,
+                    "endOffset": 1015
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 87.98,
+                    "end": 103.089999,
+                    "startOffset": 1018,
+                    "endOffset": 1178
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 103.089999,
+                    "end": 121.359999,
+                    "startOffset": 1180,
+                    "endOffset": 1386
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 121.359999,
+                    "end": 134.688,
+                    "startOffset": 1388,
+                    "endOffset": 1498
+                }
+            }
+        ]
+    }
+]

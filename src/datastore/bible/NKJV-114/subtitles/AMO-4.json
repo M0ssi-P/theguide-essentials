@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Amos Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-e9206efd4a8e804747d2504a70b3cdf7",
+        "next": [
+            "AMO.5"
+        ],
+        "prev": [
+            "AMO.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.489999,
+                    "startOffset": 0,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.489999,
+                    "end": 30.429999000000002,
+                    "startOffset": 169,
+                    "endOffset": 323
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.429999000000002,
+                    "end": 39.43,
+                    "startOffset": 325,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.43,
+                    "end": 51.249999,
+                    "startOffset": 446,
+                    "endOffset": 576
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 51.249999,
+                    "end": 62.579999,
+                    "startOffset": 578,
+                    "endOffset": 732
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.579999,
+                    "end": 74.06,
+                    "startOffset": 735,
+                    "endOffset": 875
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 74.06,
+                    "end": 89.99000000000001,
+                    "startOffset": 878,
+                    "endOffset": 1093
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 89.99000000000001,
+                    "end": 101.1,
+                    "startOffset": 1095,
+                    "endOffset": 1235
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 101.1,
+                    "end": 116.41,
+                    "startOffset": 1238,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 116.41,
+                    "end": 134.41,
+                    "startOffset": 1435,
+                    "endOffset": 1665
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 134.41,
+                    "end": 147.53,
+                    "startOffset": 1668,
+                    "endOffset": 1833
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 147.53,
+                    "end": 158.8,
+                    "startOffset": 1836,
+                    "endOffset": 1944
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 158.8,
+                    "end": 178.128,
+                    "startOffset": 1947,
+                    "endOffset": 2152
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Amos Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-e781a67d5ef88988ea960c74ad6dfe53",
+        "next": [
+            "AMO.5"
+        ],
+        "prev": [
+            "AMO.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.089999,
+                    "startOffset": 0,
+                    "endOffset": 166
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.089999,
+                    "end": 26.81,
+                    "startOffset": 169,
+                    "endOffset": 323
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.81,
+                    "end": 35.559999999999995,
+                    "startOffset": 325,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.559999999999995,
+                    "end": 48.99,
+                    "startOffset": 446,
+                    "endOffset": 576
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.99,
+                    "end": 60.16,
+                    "startOffset": 578,
+                    "endOffset": 732
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 60.16,
+                    "end": 73.64,
+                    "startOffset": 735,
+                    "endOffset": 875
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 73.64,
+                    "end": 90.429999,
+                    "startOffset": 878,
+                    "endOffset": 1093
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 90.429999,
+                    "end": 102.38000000000001,
+                    "startOffset": 1095,
+                    "endOffset": 1235
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 102.38000000000001,
+                    "end": 118.49000000000001,
+                    "startOffset": 1238,
+                    "endOffset": 1432
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 118.49000000000001,
+                    "end": 136.359999,
+                    "startOffset": 1435,
+                    "endOffset": 1665
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 136.359999,
+                    "end": 149.89000000000001,
+                    "startOffset": 1668,
+                    "endOffset": 1833
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 149.89000000000001,
+                    "end": 158.63,
+                    "startOffset": 1836,
+                    "endOffset": 1944
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 158.63,
+                    "end": 180.144,
+                    "startOffset": 1947,
+                    "endOffset": 2152
+                }
+            }
+        ]
+    }
+]

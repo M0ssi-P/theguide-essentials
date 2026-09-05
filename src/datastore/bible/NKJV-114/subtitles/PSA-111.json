@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 111 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "111-4d95eced9de3bf78ef3bb77a7559c91b",
+        "next": [
+            "PSA.112"
+        ],
+        "prev": [
+            "PSA.110"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.760000000000002,
+                    "startOffset": 0,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.760000000000002,
+                    "end": 16.599999999999998,
+                    "startOffset": 117,
+                    "endOffset": 191
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.599999999999998,
+                    "end": 22.1,
+                    "startOffset": 193,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.1,
+                    "end": 29.109999000000002,
+                    "startOffset": 269,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.109999000000002,
+                    "end": 34.52,
+                    "startOffset": 365,
+                    "endOffset": 445
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 34.52,
+                    "end": 40.97,
+                    "startOffset": 447,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.97,
+                    "end": 47.099999000000004,
+                    "startOffset": 545,
+                    "endOffset": 618
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 47.099999000000004,
+                    "end": 52.619999,
+                    "startOffset": 620,
+                    "endOffset": 693
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 52.619999,
+                    "end": 61.16,
+                    "startOffset": 695,
+                    "endOffset": 800
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 61.16,
+                    "end": 74.952,
+                    "startOffset": 802,
+                    "endOffset": 940
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 111 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "111-891b1cbc8e611739c4467bb24b3b24f9",
+        "next": [
+            "PSA.112"
+        ],
+        "prev": [
+            "PSA.110"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.430000000000001,
+                    "startOffset": 0,
+                    "endOffset": 115
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.430000000000001,
+                    "end": 17.55,
+                    "startOffset": 117,
+                    "endOffset": 191
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.55,
+                    "end": 23.25,
+                    "startOffset": 193,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.25,
+                    "end": 31.259999999999998,
+                    "startOffset": 269,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 31.259999999999998,
+                    "end": 38.64,
+                    "startOffset": 365,
+                    "endOffset": 445
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.64,
+                    "end": 45.549999,
+                    "startOffset": 447,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 45.549999,
+                    "end": 54.04,
+                    "startOffset": 545,
+                    "endOffset": 618
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 54.04,
+                    "end": 60.99,
+                    "startOffset": 620,
+                    "endOffset": 693
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 60.99,
+                    "end": 70.08,
+                    "startOffset": 695,
+                    "endOffset": 800
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 70.08,
+                    "end": 87.744,
+                    "startOffset": 802,
+                    "endOffset": 940
+                }
+            }
+        ]
+    }
+]

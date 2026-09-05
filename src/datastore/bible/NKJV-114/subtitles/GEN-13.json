@@ -1,0 +1,358 @@
+[
+    {
+        "audioName": "Genesis Chapter 13 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "13-9a03f8ff2b87a08fe7121806e2cdea04",
+        "next": [
+            "GEN.14"
+        ],
+        "prev": [
+            "GEN.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.88,
+                    "startOffset": 0,
+                    "endOffset": 98
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.88,
+                    "end": 14.6,
+                    "startOffset": 100,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.6,
+                    "end": 23.180000000000003,
+                    "startOffset": 158,
+                    "endOffset": 294
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.180000000000003,
+                    "end": 29.830000000000002,
+                    "startOffset": 296,
+                    "endOffset": 402
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.830000000000002,
+                    "end": 35.64,
+                    "startOffset": 404,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 35.64,
+                    "end": 44.43,
+                    "startOffset": 467,
+                    "endOffset": 612
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.43,
+                    "end": 53.919999999999995,
+                    "startOffset": 614,
+                    "endOffset": 770
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.919999999999995,
+                    "end": 63.919999999999995,
+                    "startOffset": 772,
+                    "endOffset": 907
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 63.919999999999995,
+                    "end": 74.80000000000001,
+                    "startOffset": 909,
+                    "endOffset": 1075
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 74.80000000000001,
+                    "end": 90.059999,
+                    "startOffset": 1078,
+                    "endOffset": 1292
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 90.059999,
+                    "end": 98.689999,
+                    "startOffset": 1294,
+                    "endOffset": 1404
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 98.689999,
+                    "end": 107.36999899999999,
+                    "startOffset": 1406,
+                    "endOffset": 1523
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 107.36999899999999,
+                    "end": 112.44,
+                    "startOffset": 1525,
+                    "endOffset": 1597
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 112.44,
+                    "end": 124.69999899999999,
+                    "startOffset": 1599,
+                    "endOffset": 1763
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 124.69999899999999,
+                    "end": 130.16000000000003,
+                    "startOffset": 1765,
+                    "endOffset": 1838
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 130.16000000000003,
+                    "end": 139.939999,
+                    "startOffset": 1840,
+                    "endOffset": 1996
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 139.939999,
+                    "end": 146.06,
+                    "startOffset": 1998,
+                    "endOffset": 2076
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 146.06,
+                    "end": 157.128,
+                    "startOffset": 2079,
+                    "endOffset": 2215
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Genesis Chapter 13 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "13-b789f5be4f67cf8c853c081f844935f4",
+        "next": [
+            "GEN.14"
+        ],
+        "prev": [
+            "GEN.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.559999999999999,
+                    "startOffset": 0,
+                    "endOffset": 98
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.559999999999999,
+                    "end": 14.94,
+                    "startOffset": 100,
+                    "endOffset": 156
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.94,
+                    "end": 23.810000000000002,
+                    "startOffset": 158,
+                    "endOffset": 294
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.810000000000002,
+                    "end": 30.739998999999997,
+                    "startOffset": 296,
+                    "endOffset": 402
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 30.739998999999997,
+                    "end": 37.199999,
+                    "startOffset": 404,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 37.199999,
+                    "end": 46.38999999999999,
+                    "startOffset": 467,
+                    "endOffset": 612
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 46.38999999999999,
+                    "end": 57.12,
+                    "startOffset": 614,
+                    "endOffset": 770
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 57.12,
+                    "end": 67.02,
+                    "startOffset": 772,
+                    "endOffset": 907
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 67.02,
+                    "end": 78.36,
+                    "startOffset": 909,
+                    "endOffset": 1075
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 78.36,
+                    "end": 93.28999999999999,
+                    "startOffset": 1078,
+                    "endOffset": 1292
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 93.28999999999999,
+                    "end": 102.28,
+                    "startOffset": 1294,
+                    "endOffset": 1404
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 102.28,
+                    "end": 110.63000000000001,
+                    "startOffset": 1406,
+                    "endOffset": 1523
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 110.63000000000001,
+                    "end": 116.83,
+                    "startOffset": 1525,
+                    "endOffset": 1597
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 116.83,
+                    "end": 130.77,
+                    "startOffset": 1599,
+                    "endOffset": 1763
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 130.77,
+                    "end": 135.98000000000002,
+                    "startOffset": 1765,
+                    "endOffset": 1838
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 135.98000000000002,
+                    "end": 146.33999999999997,
+                    "startOffset": 1840,
+                    "endOffset": 1996
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 146.33999999999997,
+                    "end": 153.95,
+                    "startOffset": 1998,
+                    "endOffset": 2076
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 153.95,
+                    "end": 169.224,
+                    "startOffset": 2079,
+                    "endOffset": 2215
+                }
+            }
+        ]
+    }
+]

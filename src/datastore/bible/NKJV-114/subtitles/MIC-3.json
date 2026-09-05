@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Micah Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-1a3d89b6aab8da216296884b78aff695",
+        "next": [
+            "MIC.4"
+        ],
+        "prev": [
+            "MIC.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.72,
+                    "startOffset": 0,
+                    "endOffset": 114
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.72,
+                    "end": 20.400000000000002,
+                    "startOffset": 116,
+                    "endOffset": 214
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.400000000000002,
+                    "end": 32.6,
+                    "startOffset": 216,
+                    "endOffset": 371
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.6,
+                    "end": 44.26,
+                    "startOffset": 374,
+                    "endOffset": 526
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.26,
+                    "end": 58.26,
+                    "startOffset": 528,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 58.26,
+                    "end": 69.94,
+                    "startOffset": 719,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 69.94,
+                    "end": 80.32,
+                    "startOffset": 889,
+                    "endOffset": 1018
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 80.32,
+                    "end": 92.13000000000001,
+                    "startOffset": 1021,
+                    "endOffset": 1162
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 92.13000000000001,
+                    "end": 102.29,
+                    "startOffset": 1164,
+                    "endOffset": 1286
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 102.29,
+                    "end": 107.049999,
+                    "startOffset": 1288,
+                    "endOffset": 1348
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.049999,
+                    "end": 122.59,
+                    "startOffset": 1350,
+                    "endOffset": 1528
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 122.59,
+                    "end": 136.32,
+                    "startOffset": 1531,
+                    "endOffset": 1694
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Micah Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-a0862cc6cc6c40c2ff82e1e345505c78",
+        "next": [
+            "MIC.4"
+        ],
+        "prev": [
+            "MIC.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.1,
+                    "startOffset": 0,
+                    "endOffset": 114
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.1,
+                    "end": 19.49,
+                    "startOffset": 116,
+                    "endOffset": 214
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.49,
+                    "end": 30.889999999999997,
+                    "startOffset": 216,
+                    "endOffset": 371
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.889999999999997,
+                    "end": 42.67,
+                    "startOffset": 374,
+                    "endOffset": 526
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.67,
+                    "end": 55.93,
+                    "startOffset": 528,
+                    "endOffset": 716
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.93,
+                    "end": 68.96,
+                    "startOffset": 719,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.96,
+                    "end": 79.2,
+                    "startOffset": 889,
+                    "endOffset": 1018
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.2,
+                    "end": 93.05,
+                    "startOffset": 1021,
+                    "endOffset": 1162
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 93.05,
+                    "end": 103.88000000000001,
+                    "startOffset": 1164,
+                    "endOffset": 1286
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 103.88000000000001,
+                    "end": 108.34,
+                    "startOffset": 1288,
+                    "endOffset": 1348
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.34,
+                    "end": 124.74999899999999,
+                    "startOffset": 1350,
+                    "endOffset": 1528
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 124.74999899999999,
+                    "end": 142.368,
+                    "startOffset": 1531,
+                    "endOffset": 1694
+                }
+            }
+        ]
+    }
+]

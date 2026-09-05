@@ -1,0 +1,70 @@
+[
+    {
+        "audioName": "Psalms Chapter 117 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "117-1a0a303da5abfa17d4c0f77b4e4303e4",
+        "next": [
+            "PSA.118"
+        ],
+        "prev": [
+            "PSA.116"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.04,
+                    "startOffset": 0,
+                    "endOffset": 60
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.04,
+                    "end": 19.2,
+                    "startOffset": 62,
+                    "endOffset": 167
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 117 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "117-c927b8030d44237779f2b003fe6c0f06",
+        "next": [
+            "PSA.118"
+        ],
+        "prev": [
+            "PSA.116"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.39,
+                    "startOffset": 0,
+                    "endOffset": 60
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.39,
+                    "end": 24.144,
+                    "startOffset": 62,
+                    "endOffset": 167
+                }
+            }
+        ]
+    }
+]

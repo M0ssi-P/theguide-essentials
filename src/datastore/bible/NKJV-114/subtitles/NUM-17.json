@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Numbers Chapter 17 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "17-2e3b029924f7d666f1515ca1cb972e75",
+        "next": [
+            "NUM.18"
+        ],
+        "prev": [
+            "NUM.16"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.260000000000001,
+                    "startOffset": 0,
+                    "endOffset": 35
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.260000000000001,
+                    "end": 20.19,
+                    "startOffset": 38,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.19,
+                    "end": 28.029999999999998,
+                    "startOffset": 221,
+                    "endOffset": 336
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.029999999999998,
+                    "end": 34.74999999999999,
+                    "startOffset": 338,
+                    "endOffset": 436
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.74999999999999,
+                    "end": 46.7,
+                    "startOffset": 438,
+                    "endOffset": 601
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.7,
+                    "end": 60.27,
+                    "startOffset": 604,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.27,
+                    "end": 65.39999999999999,
+                    "startOffset": 803,
+                    "endOffset": 873
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 65.39999999999999,
+                    "end": 82.439999,
+                    "startOffset": 875,
+                    "endOffset": 1090
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 82.439999,
+                    "end": 91.9,
+                    "startOffset": 1092,
+                    "endOffset": 1222
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 91.9,
+                    "end": 104.78999999999999,
+                    "startOffset": 1224,
+                    "endOffset": 1400
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 104.78999999999999,
+                    "end": 110.61,
+                    "startOffset": 1403,
+                    "endOffset": 1464
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 110.61,
+                    "end": 119.3,
+                    "startOffset": 1466,
+                    "endOffset": 1556
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 119.3,
+                    "end": 128.112,
+                    "startOffset": 1558,
+                    "endOffset": 1643
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Numbers Chapter 17 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "17-2b623a2a3b889fe7c478563dafa80e03",
+        "next": [
+            "NUM.18"
+        ],
+        "prev": [
+            "NUM.16"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 5.3,
+                    "startOffset": 0,
+                    "endOffset": 35
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 5.3,
+                    "end": 19.3,
+                    "startOffset": 38,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.3,
+                    "end": 27.579999,
+                    "startOffset": 221,
+                    "endOffset": 336
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.579999,
+                    "end": 33.83,
+                    "startOffset": 338,
+                    "endOffset": 436
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.83,
+                    "end": 45.099999000000004,
+                    "startOffset": 438,
+                    "endOffset": 601
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.099999000000004,
+                    "end": 60.5,
+                    "startOffset": 604,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.5,
+                    "end": 66.149999,
+                    "startOffset": 803,
+                    "endOffset": 873
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 66.149999,
+                    "end": 82.499999,
+                    "startOffset": 875,
+                    "endOffset": 1090
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 82.499999,
+                    "end": 92.06,
+                    "startOffset": 1092,
+                    "endOffset": 1222
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 92.06,
+                    "end": 105.48999900000001,
+                    "startOffset": 1224,
+                    "endOffset": 1400
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 105.48999900000001,
+                    "end": 111.63,
+                    "startOffset": 1403,
+                    "endOffset": 1464
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 111.63,
+                    "end": 119.6,
+                    "startOffset": 1466,
+                    "endOffset": 1556
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 119.6,
+                    "end": 130.152,
+                    "startOffset": 1558,
+                    "endOffset": 1643
+                }
+            }
+        ]
+    }
+]

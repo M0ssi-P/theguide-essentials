@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Isaiah Chapter 61 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "61-31929209fbf4a29f62014c9ead0e61cf",
+        "next": [
+            "ISA.62"
+        ],
+        "prev": [
+            "ISA.60"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 21.520000000000003,
+                    "startOffset": 1,
+                    "endOffset": 244
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 21.520000000000003,
+                    "end": 29.15,
+                    "startOffset": 246,
+                    "endOffset": 352
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.15,
+                    "end": 46.41,
+                    "startOffset": 354,
+                    "endOffset": 599
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 46.41,
+                    "end": 57.85,
+                    "startOffset": 602,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.85,
+                    "end": 65.78,
+                    "startOffset": 762,
+                    "endOffset": 880
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.78,
+                    "end": 76.8,
+                    "startOffset": 882,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 76.8,
+                    "end": 91.64,
+                    "startOffset": 1053,
+                    "endOffset": 1251
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 91.64,
+                    "end": 103.769999,
+                    "startOffset": 1254,
+                    "endOffset": 1402
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 103.769999,
+                    "end": 116.88000000000001,
+                    "startOffset": 1404,
+                    "endOffset": 1589
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 116.88000000000001,
+                    "end": 135.64000000000001,
+                    "startOffset": 1592,
+                    "endOffset": 1858
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 135.64000000000001,
+                    "end": 151.344,
+                    "startOffset": 1860,
+                    "endOffset": 2058
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 61 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "61-5a75778205f10eb9c94082a0cc17bd36",
+        "next": [
+            "ISA.62"
+        ],
+        "prev": [
+            "ISA.60"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.190001,
+                    "startOffset": 1,
+                    "endOffset": 244
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.190001,
+                    "end": 28.02,
+                    "startOffset": 246,
+                    "endOffset": 352
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.02,
+                    "end": 48.18,
+                    "startOffset": 354,
+                    "endOffset": 599
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 48.18,
+                    "end": 62.42,
+                    "startOffset": 602,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 62.42,
+                    "end": 70.95999900000001,
+                    "startOffset": 762,
+                    "endOffset": 880
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 70.95999900000001,
+                    "end": 83.39999900000001,
+                    "startOffset": 882,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 83.39999900000001,
+                    "end": 99.71,
+                    "startOffset": 1053,
+                    "endOffset": 1251
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 99.71,
+                    "end": 114.13,
+                    "startOffset": 1254,
+                    "endOffset": 1402
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 114.13,
+                    "end": 126.62,
+                    "startOffset": 1404,
+                    "endOffset": 1589
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 126.62,
+                    "end": 149.25,
+                    "startOffset": 1592,
+                    "endOffset": 1858
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 149.25,
+                    "end": 170.136,
+                    "startOffset": 1860,
+                    "endOffset": 2058
+                }
+            }
+        ]
+    }
+]

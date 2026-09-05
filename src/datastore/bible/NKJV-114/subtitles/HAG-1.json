@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "Haggai Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-6574afef98f1afcbb59c66b9aadbfc88",
+        "next": [
+            "HAG.2"
+        ],
+        "prev": [
+            "ZEP.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 22.09,
+                    "startOffset": 0,
+                    "endOffset": 248
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 22.09,
+                    "end": 31.98,
+                    "startOffset": 251,
+                    "endOffset": 379
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.98,
+                    "end": 36.659999000000006,
+                    "startOffset": 386,
+                    "endOffset": 447
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.659999000000006,
+                    "end": 43.480000000000004,
+                    "startOffset": 450,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.480000000000004,
+                    "end": 48.82,
+                    "startOffset": 550,
+                    "endOffset": 613
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.82,
+                    "end": 67.71,
+                    "startOffset": 616,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.71,
+                    "end": 72.46000000000001,
+                    "startOffset": 847,
+                    "endOffset": 895
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 72.46000000000001,
+                    "end": 81.07000000000001,
+                    "startOffset": 897,
+                    "endOffset": 1020
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 81.07000000000001,
+                    "end": 96.89999999999999,
+                    "startOffset": 1023,
+                    "endOffset": 1236
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 96.89999999999999,
+                    "end": 102.739999,
+                    "startOffset": 1238,
+                    "endOffset": 1321
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 102.739999,
+                    "end": 116.75999999999999,
+                    "startOffset": 1323,
+                    "endOffset": 1517
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 116.75999999999999,
+                    "end": 137.20999999999998,
+                    "startOffset": 1520,
+                    "endOffset": 1803
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 137.20999999999998,
+                    "end": 146.92000000000002,
+                    "startOffset": 1805,
+                    "endOffset": 1917
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 146.92000000000002,
+                    "end": 167.04,
+                    "startOffset": 1920,
+                    "endOffset": 2191
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 167.04,
+                    "end": 174.576,
+                    "startOffset": 2193,
+                    "endOffset": 2271
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Haggai Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-6334a5e42ada595eddd0f9f6b515319b",
+        "next": [
+            "HAG.2"
+        ],
+        "prev": [
+            "ZEP.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 23.889999999999997,
+                    "startOffset": 0,
+                    "endOffset": 248
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 23.889999999999997,
+                    "end": 35.10999999999999,
+                    "startOffset": 251,
+                    "endOffset": 379
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.10999999999999,
+                    "end": 40.7,
+                    "startOffset": 386,
+                    "endOffset": 447
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.7,
+                    "end": 49.17,
+                    "startOffset": 450,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.17,
+                    "end": 55.08,
+                    "startOffset": 550,
+                    "endOffset": 613
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.08,
+                    "end": 73.24,
+                    "startOffset": 616,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 73.24,
+                    "end": 79.06,
+                    "startOffset": 847,
+                    "endOffset": 895
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.06,
+                    "end": 89.53999900000001,
+                    "startOffset": 897,
+                    "endOffset": 1020
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.53999900000001,
+                    "end": 107.91000000000001,
+                    "startOffset": 1023,
+                    "endOffset": 1236
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 107.91000000000001,
+                    "end": 115.45,
+                    "startOffset": 1238,
+                    "endOffset": 1321
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 115.45,
+                    "end": 129.78,
+                    "startOffset": 1323,
+                    "endOffset": 1517
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 129.78,
+                    "end": 152.4,
+                    "startOffset": 1520,
+                    "endOffset": 1803
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 152.4,
+                    "end": 162.28,
+                    "startOffset": 1805,
+                    "endOffset": 1917
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 162.28,
+                    "end": 180.969999,
+                    "startOffset": 1920,
+                    "endOffset": 2191
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 180.969999,
+                    "end": 191.328,
+                    "startOffset": 2193,
+                    "endOffset": 2271
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 149 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "149-219f5625678bb3437b287b3b1a4e0936",
+        "next": [
+            "PSA.150"
+        ],
+        "prev": [
+            "PSA.148"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.86,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.86,
+                    "end": 16.479999,
+                    "startOffset": 88,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.479999,
+                    "end": 22.400000000000002,
+                    "startOffset": 173,
+                    "endOffset": 268
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.400000000000002,
+                    "end": 27.63,
+                    "startOffset": 270,
+                    "endOffset": 355
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 27.63,
+                    "end": 32.99,
+                    "startOffset": 357,
+                    "endOffset": 425
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 32.99,
+                    "end": 39.18,
+                    "startOffset": 427,
+                    "endOffset": 509
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 39.18,
+                    "end": 43.65,
+                    "startOffset": 511,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 43.65,
+                    "end": 48.699999000000005,
+                    "startOffset": 580,
+                    "endOffset": 650
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 48.699999000000005,
+                    "end": 58.032,
+                    "startOffset": 652,
+                    "endOffset": 740
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 149 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "149-2053ed9da03479c72d50f9085f720dc7",
+        "next": [
+            "PSA.150"
+        ],
+        "prev": [
+            "PSA.148"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.939999,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.939999,
+                    "end": 16.45,
+                    "startOffset": 88,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.45,
+                    "end": 23.830000000000002,
+                    "startOffset": 173,
+                    "endOffset": 268
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.830000000000002,
+                    "end": 31.81,
+                    "startOffset": 270,
+                    "endOffset": 355
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 31.81,
+                    "end": 38.78,
+                    "startOffset": 357,
+                    "endOffset": 425
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.78,
+                    "end": 44.83,
+                    "startOffset": 427,
+                    "endOffset": 509
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.83,
+                    "end": 50.58,
+                    "startOffset": 511,
+                    "endOffset": 578
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 50.58,
+                    "end": 56.1,
+                    "startOffset": 580,
+                    "endOffset": 650
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 56.1,
+                    "end": 69.48,
+                    "startOffset": 652,
+                    "endOffset": 740
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Psalms Chapter 63 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "63-a48d11c4061db32f03e047f2d61b7875",
+        "next": [
+            "PSA.64"
+        ],
+        "prev": [
+            "PSA.62"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 23.16,
+                    "startOffset": 0,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 23.16,
+                    "end": 29.009999999999998,
+                    "startOffset": 145,
+                    "endOffset": 220
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.009999999999998,
+                    "end": 34.5,
+                    "startOffset": 222,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.5,
+                    "end": 40.16,
+                    "startOffset": 297,
+                    "endOffset": 369
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.16,
+                    "end": 48.29,
+                    "startOffset": 371,
+                    "endOffset": 472
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.29,
+                    "end": 53.419999000000004,
+                    "startOffset": 474,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.419999000000004,
+                    "end": 59.519999999999996,
+                    "startOffset": 545,
+                    "endOffset": 628
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 59.519999999999996,
+                    "end": 65.06,
+                    "startOffset": 630,
+                    "endOffset": 690
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 65.06,
+                    "end": 71.32000000000001,
+                    "startOffset": 692,
+                    "endOffset": 777
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 71.32000000000001,
+                    "end": 76.03,
+                    "startOffset": 779,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 76.03,
+                    "end": 88.224,
+                    "startOffset": 846,
+                    "endOffset": 975
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 63 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "63-6a215af95ce3621c23864e56e4286146",
+        "next": [
+            "PSA.64"
+        ],
+        "prev": [
+            "PSA.62"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.98,
+                    "startOffset": 0,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.98,
+                    "end": 25.67,
+                    "startOffset": 145,
+                    "endOffset": 220
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.67,
+                    "end": 32.78,
+                    "startOffset": 222,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.78,
+                    "end": 38.339999999999996,
+                    "startOffset": 297,
+                    "endOffset": 369
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.339999999999996,
+                    "end": 46.79,
+                    "startOffset": 371,
+                    "endOffset": 472
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.79,
+                    "end": 52.8,
+                    "startOffset": 474,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.8,
+                    "end": 58.470000000000006,
+                    "startOffset": 545,
+                    "endOffset": 628
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.470000000000006,
+                    "end": 64.319999,
+                    "startOffset": 630,
+                    "endOffset": 690
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 64.319999,
+                    "end": 72.539999,
+                    "startOffset": 692,
+                    "endOffset": 777
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 72.539999,
+                    "end": 77.41,
+                    "startOffset": 779,
+                    "endOffset": 844
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 77.41,
+                    "end": 93.168,
+                    "startOffset": 846,
+                    "endOffset": 975
+                }
+            }
+        ]
+    }
+]

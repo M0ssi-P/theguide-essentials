@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Psalms Chapter 62 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "62-859eb697a016b6337276126500914016",
+        "next": [
+            "PSA.63"
+        ],
+        "prev": [
+            "PSA.61"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.659999,
+                    "startOffset": 0,
+                    "endOffset": 65
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.659999,
+                    "end": 23.66,
+                    "startOffset": 67,
+                    "endOffset": 151
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.66,
+                    "end": 33.019999999999996,
+                    "startOffset": 153,
+                    "endOffset": 258
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.019999999999996,
+                    "end": 44.77,
+                    "startOffset": 260,
+                    "endOffset": 400
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.77,
+                    "end": 52.610001,
+                    "startOffset": 401,
+                    "endOffset": 469
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.610001,
+                    "end": 58.98,
+                    "startOffset": 471,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 58.98,
+                    "end": 67.91,
+                    "startOffset": 549,
+                    "endOffset": 635
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 67.91,
+                    "end": 77.67,
+                    "startOffset": 637,
+                    "endOffset": 737
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 77.67,
+                    "end": 89.35,
+                    "startOffset": 738,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 89.35,
+                    "end": 98.44,
+                    "startOffset": 881,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 98.44,
+                    "end": 105.23,
+                    "startOffset": 989,
+                    "endOffset": 1060
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.23,
+                    "end": 114.6,
+                    "startOffset": 1062,
+                    "endOffset": 1146
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 62 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "62-4abef976de2586f335bdefbb63ef56c5",
+        "next": [
+            "PSA.63"
+        ],
+        "prev": [
+            "PSA.61"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.69,
+                    "startOffset": 0,
+                    "endOffset": 65
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.69,
+                    "end": 22.81,
+                    "startOffset": 67,
+                    "endOffset": 151
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.81,
+                    "end": 32.220000000000006,
+                    "startOffset": 153,
+                    "endOffset": 258
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.220000000000006,
+                    "end": 45.07,
+                    "startOffset": 260,
+                    "endOffset": 400
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.07,
+                    "end": 53.959999,
+                    "startOffset": 401,
+                    "endOffset": 469
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 53.959999,
+                    "end": 61.01,
+                    "startOffset": 471,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.01,
+                    "end": 69.20999900000001,
+                    "startOffset": 549,
+                    "endOffset": 635
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.20999900000001,
+                    "end": 80.8,
+                    "startOffset": 637,
+                    "endOffset": 737
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.8,
+                    "end": 94.22,
+                    "startOffset": 738,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 94.22,
+                    "end": 103.99,
+                    "startOffset": 881,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 103.99,
+                    "end": 112.67,
+                    "startOffset": 989,
+                    "endOffset": 1060
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 112.67,
+                    "end": 126.144,
+                    "startOffset": 1062,
+                    "endOffset": 1146
+                }
+            }
+        ]
+    }
+]

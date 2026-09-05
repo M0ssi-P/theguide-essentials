@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 141 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "141-6f62244c72c6e335180686c100cd7a6e",
+        "next": [
+            "PSA.142"
+        ],
+        "prev": [
+            "PSA.140"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.18,
+                    "startOffset": 0,
+                    "endOffset": 84
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.18,
+                    "end": 21.55,
+                    "startOffset": 86,
+                    "endOffset": 182
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.55,
+                    "end": 27.450000000000003,
+                    "startOffset": 184,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.450000000000003,
+                    "end": 37.519999,
+                    "startOffset": 257,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.519999,
+                    "end": 52.64,
+                    "startOffset": 396,
+                    "endOffset": 587
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.64,
+                    "end": 59.239999999999995,
+                    "startOffset": 589,
+                    "endOffset": 686
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.239999999999995,
+                    "end": 64.86000000000001,
+                    "startOffset": 688,
+                    "endOffset": 780
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 64.86000000000001,
+                    "end": 75.66,
+                    "startOffset": 782,
+                    "endOffset": 876
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 75.66,
+                    "end": 81.45,
+                    "startOffset": 878,
+                    "endOffset": 970
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 81.45,
+                    "end": 88.584,
+                    "startOffset": 972,
+                    "endOffset": 1034
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 141 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "141-1466b268ad8e7020d73fa84c9dd536ef",
+        "next": [
+            "PSA.142"
+        ],
+        "prev": [
+            "PSA.140"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.579998999999999,
+                    "startOffset": 0,
+                    "endOffset": 84
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.579998999999999,
+                    "end": 20.13,
+                    "startOffset": 86,
+                    "endOffset": 182
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.13,
+                    "end": 27.78,
+                    "startOffset": 184,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.78,
+                    "end": 38.76,
+                    "startOffset": 257,
+                    "endOffset": 394
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.76,
+                    "end": 55.47,
+                    "startOffset": 396,
+                    "endOffset": 587
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.47,
+                    "end": 62.779999,
+                    "startOffset": 589,
+                    "endOffset": 686
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 62.779999,
+                    "end": 69.71,
+                    "startOffset": 688,
+                    "endOffset": 780
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.71,
+                    "end": 79.89,
+                    "startOffset": 782,
+                    "endOffset": 876
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 79.89,
+                    "end": 86.049999,
+                    "startOffset": 878,
+                    "endOffset": 970
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 86.049999,
+                    "end": 96.864,
+                    "startOffset": 972,
+                    "endOffset": 1034
+                }
+            }
+        ]
+    }
+]

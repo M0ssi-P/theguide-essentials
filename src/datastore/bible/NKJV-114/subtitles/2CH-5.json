@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "II Chronicles Chapter 5 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "5-299ca005542895ac0699164c5ce53e27",
+        "next": [
+            "2CH.6"
+        ],
+        "prev": [
+            "2CH.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.54,
+                    "startOffset": 0,
+                    "endOffset": 252
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.54,
+                    "end": 35.559999000000005,
+                    "startOffset": 254,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.559999000000005,
+                    "end": 43.3,
+                    "startOffset": 489,
+                    "endOffset": 589
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 43.3,
+                    "end": 47.409999,
+                    "startOffset": 591,
+                    "endOffset": 656
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.409999,
+                    "end": 57.13,
+                    "startOffset": 658,
+                    "endOffset": 816
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 57.13,
+                    "end": 70.46000000000001,
+                    "startOffset": 818,
+                    "endOffset": 999
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 70.46000000000001,
+                    "end": 83.22,
+                    "startOffset": 1001,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 83.22,
+                    "end": 91.11,
+                    "startOffset": 1176,
+                    "endOffset": 1290
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 91.11,
+                    "end": 104.94,
+                    "startOffset": 1292,
+                    "endOffset": 1493
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 104.94,
+                    "end": 116.06,
+                    "startOffset": 1495,
+                    "endOffset": 1664
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 116.06,
+                    "end": 127.23,
+                    "startOffset": 1666,
+                    "endOffset": 1834
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 127.23,
+                    "end": 148.8,
+                    "startOffset": 1837,
+                    "endOffset": 2130
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 148.8,
+                    "end": 177.01,
+                    "startOffset": 2132,
+                    "endOffset": 2499
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 177.01,
+                    "end": 187.92,
+                    "startOffset": 2501,
+                    "endOffset": 2623
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Chronicles Chapter 5 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "5-babef079b3294d8f611f65c5031b7668",
+        "next": [
+            "2CH.6"
+        ],
+        "prev": [
+            "2CH.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.78,
+                    "startOffset": 0,
+                    "endOffset": 252
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.78,
+                    "end": 35.5,
+                    "startOffset": 254,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 35.5,
+                    "end": 42.56,
+                    "startOffset": 489,
+                    "endOffset": 589
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 42.56,
+                    "end": 48.47,
+                    "startOffset": 591,
+                    "endOffset": 656
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.47,
+                    "end": 59.78,
+                    "startOffset": 658,
+                    "endOffset": 816
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.78,
+                    "end": 71.91,
+                    "startOffset": 818,
+                    "endOffset": 999
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.91,
+                    "end": 84.179999,
+                    "startOffset": 1001,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 84.179999,
+                    "end": 92.73,
+                    "startOffset": 1176,
+                    "endOffset": 1290
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 92.73,
+                    "end": 107.999999,
+                    "startOffset": 1292,
+                    "endOffset": 1493
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 107.999999,
+                    "end": 119.16,
+                    "startOffset": 1495,
+                    "endOffset": 1664
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 119.16,
+                    "end": 130.53,
+                    "startOffset": 1666,
+                    "endOffset": 1834
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 130.53,
+                    "end": 152.68,
+                    "startOffset": 1837,
+                    "endOffset": 2130
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 152.68,
+                    "end": 179.759999,
+                    "startOffset": 2132,
+                    "endOffset": 2499
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 179.759999,
+                    "end": 192.984,
+                    "startOffset": 2501,
+                    "endOffset": 2623
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 87 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "87-892192e739bc919ad132c532c34df77d",
+        "next": [
+            "PSA.88"
+        ],
+        "prev": [
+            "PSA.86"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.34,
+                    "startOffset": 0,
+                    "endOffset": 39
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.34,
+                    "end": 15.61,
+                    "startOffset": 41,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.61,
+                    "end": 21.12,
+                    "startOffset": 112,
+                    "endOffset": 167
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.12,
+                    "end": 33.34,
+                    "startOffset": 169,
+                    "endOffset": 301
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.34,
+                    "end": 42.800000000000004,
+                    "startOffset": 306,
+                    "endOffset": 421
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.800000000000004,
+                    "end": 50.669999999999995,
+                    "startOffset": 424,
+                    "endOffset": 509
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 50.669999999999995,
+                    "end": 59.928,
+                    "startOffset": 510,
+                    "endOffset": 589
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 87 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "87-71b23699a923989cdc4882cc282caffe",
+        "next": [
+            "PSA.88"
+        ],
+        "prev": [
+            "PSA.86"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.74,
+                    "startOffset": 0,
+                    "endOffset": 39
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.74,
+                    "end": 15.8,
+                    "startOffset": 41,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.8,
+                    "end": 21.69,
+                    "startOffset": 112,
+                    "endOffset": 167
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.69,
+                    "end": 35.37,
+                    "startOffset": 169,
+                    "endOffset": 301
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.37,
+                    "end": 45.470000000000006,
+                    "startOffset": 306,
+                    "endOffset": 421
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 45.470000000000006,
+                    "end": 53.82999900000001,
+                    "startOffset": 424,
+                    "endOffset": 509
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.82999900000001,
+                    "end": 66.624,
+                    "startOffset": 510,
+                    "endOffset": 589
+                }
+            }
+        ]
+    }
+]

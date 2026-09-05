@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Hosea Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-81c834e797dd72114008a86b389eff54",
+        "next": [
+            "HOS.2"
+        ],
+        "prev": [
+            "DAN.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.919999999999998,
+                    "startOffset": 0,
+                    "endOffset": 186
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.919999999999998,
+                    "end": 34.669999,
+                    "startOffset": 188,
+                    "endOffset": 384
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 34.669999,
+                    "end": 41.949999999999996,
+                    "startOffset": 387,
+                    "endOffset": 474
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.949999999999996,
+                    "end": 55.48,
+                    "startOffset": 476,
+                    "endOffset": 664
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.48,
+                    "end": 62.05,
+                    "startOffset": 666,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.05,
+                    "end": 78.16000000000001,
+                    "startOffset": 763,
+                    "endOffset": 946
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 78.16000000000001,
+                    "end": 89.49000000000001,
+                    "startOffset": 948,
+                    "endOffset": 1107
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 89.49000000000001,
+                    "end": 94.88000000000001,
+                    "startOffset": 1110,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 94.88000000000001,
+                    "end": 102.66000000000001,
+                    "startOffset": 1176,
+                    "endOffset": 1268
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 102.66000000000001,
+                    "end": 120.85,
+                    "startOffset": 1271,
+                    "endOffset": 1539
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 120.85,
+                    "end": 135.984,
+                    "startOffset": 1542,
+                    "endOffset": 1738
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Hosea Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-aa982006fdb29dfea0a34cd4e3376995",
+        "next": [
+            "HOS.2"
+        ],
+        "prev": [
+            "DAN.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.07,
+                    "startOffset": 0,
+                    "endOffset": 186
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.07,
+                    "end": 37.400000000000006,
+                    "startOffset": 188,
+                    "endOffset": 384
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 37.400000000000006,
+                    "end": 45.72,
+                    "startOffset": 387,
+                    "endOffset": 474
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 45.72,
+                    "end": 60.89,
+                    "startOffset": 476,
+                    "endOffset": 664
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 60.89,
+                    "end": 67.979999,
+                    "startOffset": 666,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 67.979999,
+                    "end": 84.99,
+                    "startOffset": 763,
+                    "endOffset": 946
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 84.99,
+                    "end": 97.66,
+                    "startOffset": 948,
+                    "endOffset": 1107
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 97.66,
+                    "end": 104.83,
+                    "startOffset": 1110,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 104.83,
+                    "end": 114.43,
+                    "startOffset": 1176,
+                    "endOffset": 1268
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 114.43,
+                    "end": 134.31,
+                    "startOffset": 1271,
+                    "endOffset": 1539
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 134.31,
+                    "end": 153.168,
+                    "startOffset": 1542,
+                    "endOffset": 1738
+                }
+            }
+        ]
+    }
+]

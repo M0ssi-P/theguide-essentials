@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 12 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "12-4beb754d4ce12eb1b991094692a76f20",
+        "next": [
+            "PSA.13"
+        ],
+        "prev": [
+            "PSA.11"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.109999000000002,
+                    "startOffset": 0,
+                    "endOffset": 91
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.109999000000002,
+                    "end": 23.969998999999998,
+                    "startOffset": 93,
+                    "endOffset": 187
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.969998999999998,
+                    "end": 30.269999000000002,
+                    "startOffset": 189,
+                    "endOffset": 270
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.269999000000002,
+                    "end": 37.480000000000004,
+                    "startOffset": 272,
+                    "endOffset": 362
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.480000000000004,
+                    "end": 48.7,
+                    "startOffset": 366,
+                    "endOffset": 511
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.7,
+                    "end": 57.22,
+                    "startOffset": 514,
+                    "endOffset": 615
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 57.22,
+                    "end": 63.409999,
+                    "startOffset": 617,
+                    "endOffset": 698
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 63.409999,
+                    "end": 72.624,
+                    "startOffset": 700,
+                    "endOffset": 778
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 12 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "12-3b9dcf686ba97e18b7bb5e643a70787b",
+        "next": [
+            "PSA.13"
+        ],
+        "prev": [
+            "PSA.11"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.429999,
+                    "startOffset": 0,
+                    "endOffset": 91
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.429999,
+                    "end": 24.58,
+                    "startOffset": 93,
+                    "endOffset": 187
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.58,
+                    "end": 31.770000000000003,
+                    "startOffset": 189,
+                    "endOffset": 270
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.770000000000003,
+                    "end": 39,
+                    "startOffset": 272,
+                    "endOffset": 362
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 39,
+                    "end": 53.610001,
+                    "startOffset": 366,
+                    "endOffset": 511
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 53.610001,
+                    "end": 63.94,
+                    "startOffset": 514,
+                    "endOffset": 615
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.94,
+                    "end": 70.26999900000001,
+                    "startOffset": 617,
+                    "endOffset": 698
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.26999900000001,
+                    "end": 83.832,
+                    "startOffset": 700,
+                    "endOffset": 778
+                }
+            }
+        ]
+    }
+]

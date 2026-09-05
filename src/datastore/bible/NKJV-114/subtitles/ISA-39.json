@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Isaiah Chapter 39 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "39-df07692a20c6beafd5ce2c03ec341b9c",
+        "next": [
+            "ISA.40"
+        ],
+        "prev": [
+            "ISA.38"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.949999,
+                    "startOffset": 0,
+                    "endOffset": 159
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.949999,
+                    "end": 34.929999,
+                    "startOffset": 161,
+                    "endOffset": 439
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 34.929999,
+                    "end": 48.839999,
+                    "startOffset": 441,
+                    "endOffset": 635
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 48.839999,
+                    "end": 59.42,
+                    "startOffset": 638,
+                    "endOffset": 813
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 59.42,
+                    "end": 64.57000000000001,
+                    "startOffset": 816,
+                    "endOffset": 881
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.57000000000001,
+                    "end": 76.83,
+                    "startOffset": 884,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 76.83,
+                    "end": 86.60000000000001,
+                    "startOffset": 1068,
+                    "endOffset": 1221
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 86.60000000000001,
+                    "end": 98.592,
+                    "startOffset": 1226,
+                    "endOffset": 1371
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 39 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "39-18ed204656b9bd5c41da4ef2226c06d9",
+        "next": [
+            "ISA.40"
+        ],
+        "prev": [
+            "ISA.38"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.030000000000001,
+                    "startOffset": 0,
+                    "endOffset": 159
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.030000000000001,
+                    "end": 33.62,
+                    "startOffset": 161,
+                    "endOffset": 439
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.62,
+                    "end": 51.08,
+                    "startOffset": 441,
+                    "endOffset": 635
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 51.08,
+                    "end": 66.3,
+                    "startOffset": 638,
+                    "endOffset": 813
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 66.3,
+                    "end": 73.56,
+                    "startOffset": 816,
+                    "endOffset": 881
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 73.56,
+                    "end": 88.66000000000001,
+                    "startOffset": 884,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 88.66000000000001,
+                    "end": 99.35,
+                    "startOffset": 1068,
+                    "endOffset": 1221
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 99.35,
+                    "end": 117.144,
+                    "startOffset": 1226,
+                    "endOffset": 1371
+                }
+            }
+        ]
+    }
+]

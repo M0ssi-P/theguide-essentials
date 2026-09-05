@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-2a96587b1c06ffc023e35b62999a2182",
+        "next": [
+            "PSA.4"
+        ],
+        "prev": [
+            "PSA.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.03,
+                    "startOffset": 0,
+                    "endOffset": 82
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.03,
+                    "end": 20.18,
+                    "startOffset": 84,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.18,
+                    "end": 27.8,
+                    "startOffset": 155,
+                    "endOffset": 235
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.8,
+                    "end": 34.809999999999995,
+                    "startOffset": 237,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.809999999999995,
+                    "end": 42.15,
+                    "startOffset": 314,
+                    "endOffset": 370
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.15,
+                    "end": 48.720000000000006,
+                    "startOffset": 372,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 48.720000000000006,
+                    "end": 59.34,
+                    "startOffset": 467,
+                    "endOffset": 594
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 59.34,
+                    "end": 68.496,
+                    "startOffset": 596,
+                    "endOffset": 667
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-31905aae7ad62bc53c42c3e96c8fd639",
+        "next": [
+            "PSA.4"
+        ],
+        "prev": [
+            "PSA.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.049999999999999,
+                    "startOffset": 0,
+                    "endOffset": 82
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.049999999999999,
+                    "end": 20.29,
+                    "startOffset": 84,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.29,
+                    "end": 29.529999999999998,
+                    "startOffset": 155,
+                    "endOffset": 235
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.529999999999998,
+                    "end": 38.55000000000001,
+                    "startOffset": 237,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.55000000000001,
+                    "end": 46.190000000000005,
+                    "startOffset": 314,
+                    "endOffset": 370
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.190000000000005,
+                    "end": 54.13,
+                    "startOffset": 372,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 54.13,
+                    "end": 68.44999899999999,
+                    "startOffset": 467,
+                    "endOffset": 594
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 68.44999899999999,
+                    "end": 82.176,
+                    "startOffset": 596,
+                    "endOffset": 667
+                }
+            }
+        ]
+    }
+]

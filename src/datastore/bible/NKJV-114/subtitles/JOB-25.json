@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Job Chapter 25 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "25-e2b032ebb7ecf51be53e4db186f8b605",
+        "next": [
+            "JOB.26"
+        ],
+        "prev": [
+            "JOB.24"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.07,
+                    "startOffset": 0,
+                    "endOffset": 41
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.07,
+                    "end": 14.55,
+                    "startOffset": 44,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.55,
+                    "end": 19.869999999999997,
+                    "startOffset": 112,
+                    "endOffset": 180
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 19.869999999999997,
+                    "end": 27.02,
+                    "startOffset": 182,
+                    "endOffset": 269
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 27.02,
+                    "end": 32.66,
+                    "startOffset": 271,
+                    "endOffset": 343
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 32.66,
+                    "end": 40.968,
+                    "startOffset": 345,
+                    "endOffset": 415
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Job Chapter 25 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "25-e27629188a883867d6e70dc1c8a0fa6d",
+        "next": [
+            "JOB.26"
+        ],
+        "prev": [
+            "JOB.24"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 5.74,
+                    "startOffset": 0,
+                    "endOffset": 41
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 5.74,
+                    "end": 12.289999,
+                    "startOffset": 44,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 12.289999,
+                    "end": 18.209999,
+                    "startOffset": 112,
+                    "endOffset": 180
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 18.209999,
+                    "end": 25.94,
+                    "startOffset": 182,
+                    "endOffset": 269
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 25.94,
+                    "end": 31.87,
+                    "startOffset": 271,
+                    "endOffset": 343
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 31.87,
+                    "end": 42,
+                    "startOffset": 345,
+                    "endOffset": 415
+                }
+            }
+        ]
+    }
+]

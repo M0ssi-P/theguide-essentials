@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Isaiah Chapter 31 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "31-393b552b2d52c52c3245a62f3cecfedf",
+        "next": [
+            "ISA.32"
+        ],
+        "prev": [
+            "ISA.30"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.150000000000002,
+                    "startOffset": 0,
+                    "endOffset": 221
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.150000000000002,
+                    "end": 33.529999,
+                    "startOffset": 223,
+                    "endOffset": 396
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.529999,
+                    "end": 50.319999,
+                    "startOffset": 398,
+                    "endOffset": 615
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 50.319999,
+                    "end": 71.94,
+                    "startOffset": 617,
+                    "endOffset": 905
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 71.94,
+                    "end": 83.169999,
+                    "startOffset": 907,
+                    "endOffset": 1045
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 83.169999,
+                    "end": 88.669999,
+                    "startOffset": 1048,
+                    "endOffset": 1119
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 88.669999,
+                    "end": 99.36999899999999,
+                    "startOffset": 1121,
+                    "endOffset": 1256
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 99.36999899999999,
+                    "end": 112.09,
+                    "startOffset": 1259,
+                    "endOffset": 1428
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 112.09,
+                    "end": 126,
+                    "startOffset": 1430,
+                    "endOffset": 1596
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 31 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "31-e23e1e8aec58f0bfeca356483e7505c6",
+        "next": [
+            "ISA.32"
+        ],
+        "prev": [
+            "ISA.30"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.16,
+                    "startOffset": 0,
+                    "endOffset": 221
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.16,
+                    "end": 33.439999,
+                    "startOffset": 223,
+                    "endOffset": 396
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.439999,
+                    "end": 52.96,
+                    "startOffset": 398,
+                    "endOffset": 615
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 52.96,
+                    "end": 76.73,
+                    "startOffset": 617,
+                    "endOffset": 905
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 76.73,
+                    "end": 89.34999900000001,
+                    "startOffset": 907,
+                    "endOffset": 1045
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 89.34999900000001,
+                    "end": 97.05,
+                    "startOffset": 1048,
+                    "endOffset": 1119
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 97.05,
+                    "end": 107.64999999999999,
+                    "startOffset": 1121,
+                    "endOffset": 1256
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 107.64999999999999,
+                    "end": 122.709999,
+                    "startOffset": 1259,
+                    "endOffset": 1428
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 122.709999,
+                    "end": 141.024,
+                    "startOffset": 1430,
+                    "endOffset": 1596
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "II Corinthians Chapter 9 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "9-dc91d5d8c77187f6c66f5e68a7ed9db0",
+        "next": [
+            "2CO.10"
+        ],
+        "prev": [
+            "2CO.8"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.5,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.5,
+                    "end": 18.16,
+                    "startOffset": 88,
+                    "endOffset": 239
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.16,
+                    "end": 26.39,
+                    "startOffset": 241,
+                    "endOffset": 364
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.39,
+                    "end": 36.42,
+                    "startOffset": 366,
+                    "endOffset": 498
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.42,
+                    "end": 51.69,
+                    "startOffset": 500,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 51.69,
+                    "end": 62,
+                    "startOffset": 746,
+                    "endOffset": 865
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 62,
+                    "end": 70.33,
+                    "startOffset": 867,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.33,
+                    "end": 80.89,
+                    "startOffset": 982,
+                    "endOffset": 1131
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.89,
+                    "end": 88.78999900000001,
+                    "startOffset": 1133,
+                    "endOffset": 1236
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 88.78999900000001,
+                    "end": 98.85000000000001,
+                    "startOffset": 1239,
+                    "endOffset": 1390
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 98.85000000000001,
+                    "end": 105.85000000000001,
+                    "startOffset": 1392,
+                    "endOffset": 1493
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.85000000000001,
+                    "end": 113.56,
+                    "startOffset": 1495,
+                    "endOffset": 1632
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 113.56,
+                    "end": 124.469999,
+                    "startOffset": 1634,
+                    "endOffset": 1806
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 124.469999,
+                    "end": 130.53,
+                    "startOffset": 1808,
+                    "endOffset": 1898
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 130.53,
+                    "end": 135.984,
+                    "startOffset": 1900,
+                    "endOffset": 1943
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Corinthians Chapter 9 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "9-75d6d69451b59ad2ff8a5aa579c08e9c",
+        "next": [
+            "2CO.10"
+        ],
+        "prev": [
+            "2CO.8"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.38,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.38,
+                    "end": 18.320000999999998,
+                    "startOffset": 88,
+                    "endOffset": 239
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.320000999999998,
+                    "end": 27.3,
+                    "startOffset": 241,
+                    "endOffset": 364
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.3,
+                    "end": 37.63,
+                    "startOffset": 366,
+                    "endOffset": 498
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.63,
+                    "end": 54.61,
+                    "startOffset": 500,
+                    "endOffset": 744
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 54.61,
+                    "end": 67.159999,
+                    "startOffset": 746,
+                    "endOffset": 865
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.159999,
+                    "end": 78.11,
+                    "startOffset": 867,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.11,
+                    "end": 90.91,
+                    "startOffset": 982,
+                    "endOffset": 1131
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 90.91,
+                    "end": 100.43,
+                    "startOffset": 1133,
+                    "endOffset": 1236
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 100.43,
+                    "end": 113.76,
+                    "startOffset": 1239,
+                    "endOffset": 1390
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 113.76,
+                    "end": 121.74,
+                    "startOffset": 1392,
+                    "endOffset": 1493
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 121.74,
+                    "end": 133.43,
+                    "startOffset": 1495,
+                    "endOffset": 1632
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 133.43,
+                    "end": 145.77,
+                    "startOffset": 1634,
+                    "endOffset": 1806
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 145.77,
+                    "end": 152.23000000000002,
+                    "startOffset": 1808,
+                    "endOffset": 1898
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 152.23000000000002,
+                    "end": 161.4,
+                    "startOffset": 1900,
+                    "endOffset": 1943
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 101 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "101-92b0e04c81c63c28223c91f6ae91700d",
+        "next": [
+            "PSA.102"
+        ],
+        "prev": [
+            "PSA.100"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.129999999999999,
+                    "startOffset": 0,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.129999999999999,
+                    "end": 20.92,
+                    "startOffset": 71,
+                    "endOffset": 188
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.92,
+                    "end": 29.56,
+                    "startOffset": 190,
+                    "endOffset": 296
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.56,
+                    "end": 34.46000000000001,
+                    "startOffset": 298,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.46000000000001,
+                    "end": 44.17,
+                    "startOffset": 365,
+                    "endOffset": 496
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.17,
+                    "end": 53.519999000000006,
+                    "startOffset": 498,
+                    "endOffset": 622
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.519999000000006,
+                    "end": 60.71,
+                    "startOffset": 624,
+                    "endOffset": 728
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.71,
+                    "end": 71.472,
+                    "startOffset": 730,
+                    "endOffset": 841
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 101 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "101-f1d67905f7b6c8112e088790f135d065",
+        "next": [
+            "PSA.102"
+        ],
+        "prev": [
+            "PSA.100"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.709999999999999,
+                    "startOffset": 0,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.709999999999999,
+                    "end": 21.310000000000002,
+                    "startOffset": 71,
+                    "endOffset": 188
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.310000000000002,
+                    "end": 30.71,
+                    "startOffset": 190,
+                    "endOffset": 296
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.71,
+                    "end": 36.889998999999996,
+                    "startOffset": 298,
+                    "endOffset": 363
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.889998999999996,
+                    "end": 49.08,
+                    "startOffset": 365,
+                    "endOffset": 496
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.08,
+                    "end": 60.74,
+                    "startOffset": 498,
+                    "endOffset": 622
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.74,
+                    "end": 69.63,
+                    "startOffset": 624,
+                    "endOffset": 728
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 69.63,
+                    "end": 83.4,
+                    "startOffset": 730,
+                    "endOffset": 841
+                }
+            }
+        ]
+    }
+]

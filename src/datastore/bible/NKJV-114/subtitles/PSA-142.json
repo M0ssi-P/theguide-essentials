@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 142 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "142-65e2c0df0cb50deb81ccfb132482c55e",
+        "next": [
+            "PSA.143"
+        ],
+        "prev": [
+            "PSA.141"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.209999,
+                    "startOffset": 0,
+                    "endOffset": 85
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.209999,
+                    "end": 20.56,
+                    "startOffset": 87,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.56,
+                    "end": 30.360000000000003,
+                    "startOffset": 156,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.360000000000003,
+                    "end": 39.669999999999995,
+                    "startOffset": 287,
+                    "endOffset": 406
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 39.669999999999995,
+                    "end": 46.849999999999994,
+                    "startOffset": 408,
+                    "endOffset": 500
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.849999999999994,
+                    "end": 55.62,
+                    "startOffset": 502,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 55.62,
+                    "end": 67.104,
+                    "startOffset": 609,
+                    "endOffset": 738
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 142 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "142-4ba1777e09382d53b909d680f9ca38a3",
+        "next": [
+            "PSA.143"
+        ],
+        "prev": [
+            "PSA.141"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.65,
+                    "startOffset": 0,
+                    "endOffset": 85
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.65,
+                    "end": 19.509999999999998,
+                    "startOffset": 87,
+                    "endOffset": 154
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.509999999999998,
+                    "end": 30.98,
+                    "startOffset": 156,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.98,
+                    "end": 41.57,
+                    "startOffset": 287,
+                    "endOffset": 406
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.57,
+                    "end": 51.19,
+                    "startOffset": 408,
+                    "endOffset": 500
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 51.19,
+                    "end": 61.15,
+                    "startOffset": 502,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.15,
+                    "end": 77.52,
+                    "startOffset": 609,
+                    "endOffset": 738
+                }
+            }
+        ]
+    }
+]

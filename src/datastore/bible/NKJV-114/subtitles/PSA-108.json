@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Psalms Chapter 108 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "108-a9726abbee5c126d9e8d501e9989dba9",
+        "next": [
+            "PSA.109"
+        ],
+        "prev": [
+            "PSA.107"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.870000000000001,
+                    "startOffset": 0,
+                    "endOffset": 77
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.870000000000001,
+                    "end": 20.48,
+                    "startOffset": 79,
+                    "endOffset": 123
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.48,
+                    "end": 26.96,
+                    "startOffset": 125,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.96,
+                    "end": 32.8,
+                    "startOffset": 221,
+                    "endOffset": 300
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.8,
+                    "end": 38.43,
+                    "startOffset": 302,
+                    "endOffset": 374
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.43,
+                    "end": 44.35,
+                    "startOffset": 376,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.35,
+                    "end": 53.10000000000001,
+                    "startOffset": 452,
+                    "endOffset": 560
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.10000000000001,
+                    "end": 61.4,
+                    "startOffset": 562,
+                    "endOffset": 656
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 61.4,
+                    "end": 68.32,
+                    "startOffset": 658,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 68.32,
+                    "end": 73.66,
+                    "startOffset": 741,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 73.66,
+                    "end": 80.80999999999999,
+                    "startOffset": 807,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 80.80999999999999,
+                    "end": 85.61,
+                    "startOffset": 899,
+                    "endOffset": 956
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 85.61,
+                    "end": 93.768,
+                    "startOffset": 958,
+                    "endOffset": 1038
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 108 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "108-be260f62e33588b6bac033e2ba4acb68",
+        "next": [
+            "PSA.109"
+        ],
+        "prev": [
+            "PSA.107"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.15,
+                    "startOffset": 0,
+                    "endOffset": 77
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.15,
+                    "end": 19.84,
+                    "startOffset": 79,
+                    "endOffset": 123
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.84,
+                    "end": 26.509999999999998,
+                    "startOffset": 125,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.509999999999998,
+                    "end": 33.120000000000005,
+                    "startOffset": 221,
+                    "endOffset": 300
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.120000000000005,
+                    "end": 39.36,
+                    "startOffset": 302,
+                    "endOffset": 374
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 39.36,
+                    "end": 45.7,
+                    "startOffset": 376,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 45.7,
+                    "end": 56.800000000000004,
+                    "startOffset": 452,
+                    "endOffset": 560
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 56.800000000000004,
+                    "end": 66.609999,
+                    "startOffset": 562,
+                    "endOffset": 656
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 66.609999,
+                    "end": 75.2,
+                    "startOffset": 658,
+                    "endOffset": 738
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 75.2,
+                    "end": 82.279999,
+                    "startOffset": 741,
+                    "endOffset": 805
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 82.279999,
+                    "end": 90.089999,
+                    "startOffset": 807,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 90.089999,
+                    "end": 95.51,
+                    "startOffset": 899,
+                    "endOffset": 956
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 95.51,
+                    "end": 107.16,
+                    "startOffset": 958,
+                    "endOffset": 1038
+                }
+            }
+        ]
+    }
+]

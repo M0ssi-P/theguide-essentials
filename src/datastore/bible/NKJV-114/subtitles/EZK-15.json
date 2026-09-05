@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Ezekiel Chapter 15 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "15-8e5039551ae8e73e343f5057d6862e8f",
+        "next": [
+            "EZK.16"
+        ],
+        "prev": [
+            "EZK.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.26,
+                    "startOffset": 0,
+                    "endOffset": 44
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.26,
+                    "end": 15.860000000000001,
+                    "startOffset": 47,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.860000000000001,
+                    "end": 0,
+                    "startOffset": 171,
+                    "endOffset": 264
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 0,
+                    "end": 33.17,
+                    "startOffset": 266,
+                    "endOffset": 397
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.17,
+                    "end": 43.830000000000005,
+                    "startOffset": 399,
+                    "endOffset": 551
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 43.830000000000005,
+                    "end": 55.89,
+                    "startOffset": 554,
+                    "endOffset": 733
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 55.89,
+                    "end": 67.989999,
+                    "startOffset": 735,
+                    "endOffset": 911
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 67.989999,
+                    "end": 76.56,
+                    "startOffset": 913,
+                    "endOffset": 1014
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ezekiel Chapter 15 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "15-0c05003d937af11b56365ae4f31eb8d6",
+        "next": [
+            "EZK.16"
+        ],
+        "prev": [
+            "EZK.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 5.05,
+                    "startOffset": 0,
+                    "endOffset": 44
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 5.05,
+                    "end": 14.119999,
+                    "startOffset": 47,
+                    "endOffset": 169
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.119999,
+                    "end": 22.74,
+                    "startOffset": 171,
+                    "endOffset": 264
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.74,
+                    "end": 34.82,
+                    "startOffset": 266,
+                    "endOffset": 397
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.82,
+                    "end": 46.269999999999996,
+                    "startOffset": 399,
+                    "endOffset": 551
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 46.269999999999996,
+                    "end": 60.28,
+                    "startOffset": 554,
+                    "endOffset": 733
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 60.28,
+                    "end": 73.349999,
+                    "startOffset": 735,
+                    "endOffset": 911
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 73.349999,
+                    "end": 87.144,
+                    "startOffset": 913,
+                    "endOffset": 1014
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "audioName": "Psalms Chapter 131 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "131-2edfebceb490c5bc1ecbcd623a780a1a",
+        "next": [
+            "PSA.132"
+        ],
+        "prev": [
+            "PSA.130"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.52,
+                    "startOffset": 0,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.52,
+                    "end": 26.23,
+                    "startOffset": 135,
+                    "endOffset": 254
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.23,
+                    "end": 34.224,
+                    "startOffset": 256,
+                    "endOffset": 315
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 131 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "131-172a1bd27d3ad2c0368f64cceba0e863",
+        "next": [
+            "PSA.132"
+        ],
+        "prev": [
+            "PSA.130"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.139999,
+                    "startOffset": 0,
+                    "endOffset": 133
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.139999,
+                    "end": 30.95,
+                    "startOffset": 135,
+                    "endOffset": 254
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.95,
+                    "end": 43.08,
+                    "startOffset": 256,
+                    "endOffset": 315
+                }
+            }
+        ]
+    }
+]

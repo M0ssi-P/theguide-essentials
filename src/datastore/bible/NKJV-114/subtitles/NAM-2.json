@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Nahum Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-3ad0a2a339cd3f2e522a0990b482c093",
+        "next": [
+            "NAM.3"
+        ],
+        "prev": [
+            "NAM.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.83,
+                    "startOffset": 0,
+                    "endOffset": 127
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.83,
+                    "end": 21.17,
+                    "startOffset": 129,
+                    "endOffset": 279
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.17,
+                    "end": 32.79,
+                    "startOffset": 281,
+                    "endOffset": 456
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.79,
+                    "end": 41.5,
+                    "startOffset": 458,
+                    "endOffset": 583
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.5,
+                    "end": 49.969998999999994,
+                    "startOffset": 585,
+                    "endOffset": 695
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.969998999999994,
+                    "end": 53.749999,
+                    "startOffset": 697,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 53.749999,
+                    "end": 64.85,
+                    "startOffset": 762,
+                    "endOffset": 918
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 64.85,
+                    "end": 75.08,
+                    "startOffset": 920,
+                    "endOffset": 1034
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 75.08,
+                    "end": 83.18,
+                    "startOffset": 1036,
+                    "endOffset": 1142
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 83.18,
+                    "end": 95.19,
+                    "startOffset": 1144,
+                    "endOffset": 1285
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 95.19,
+                    "end": 105.74,
+                    "startOffset": 1287,
+                    "endOffset": 1443
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.74,
+                    "end": 115.49000000000001,
+                    "startOffset": 1445,
+                    "endOffset": 1567
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 115.49000000000001,
+                    "end": 132.888,
+                    "startOffset": 1570,
+                    "endOffset": 1799
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Nahum Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-572b43c91bf81d01c5c0e2ec65fa2d00",
+        "next": [
+            "NAM.3"
+        ],
+        "prev": [
+            "NAM.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.44,
+                    "startOffset": 0,
+                    "endOffset": 127
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.44,
+                    "end": 25.470000000000002,
+                    "startOffset": 129,
+                    "endOffset": 279
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.470000000000002,
+                    "end": 40.53,
+                    "startOffset": 281,
+                    "endOffset": 456
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.53,
+                    "end": 50.009999,
+                    "startOffset": 458,
+                    "endOffset": 583
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.009999,
+                    "end": 59.86,
+                    "startOffset": 585,
+                    "endOffset": 695
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.86,
+                    "end": 64.75,
+                    "startOffset": 697,
+                    "endOffset": 760
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.75,
+                    "end": 77.07000000000001,
+                    "startOffset": 762,
+                    "endOffset": 918
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 77.07000000000001,
+                    "end": 88.02000000000001,
+                    "startOffset": 920,
+                    "endOffset": 1034
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 88.02000000000001,
+                    "end": 97.37,
+                    "startOffset": 1036,
+                    "endOffset": 1142
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 97.37,
+                    "end": 110.12,
+                    "startOffset": 1144,
+                    "endOffset": 1285
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 110.12,
+                    "end": 123.03,
+                    "startOffset": 1287,
+                    "endOffset": 1443
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 123.03,
+                    "end": 134.23,
+                    "startOffset": 1445,
+                    "endOffset": 1567
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 134.23,
+                    "end": 158.4,
+                    "startOffset": 1570,
+                    "endOffset": 1799
+                }
+            }
+        ]
+    }
+]

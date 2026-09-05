@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Psalms Chapter 24 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "24-2dcfd3ede4aeca6095058e2b44078489",
+        "next": [
+            "PSA.25"
+        ],
+        "prev": [
+            "PSA.23"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.359999,
+                    "startOffset": 0,
+                    "endOffset": 84
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.359999,
+                    "end": 17.86,
+                    "startOffset": 86,
+                    "endOffset": 157
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.86,
+                    "end": 24.310000000000002,
+                    "startOffset": 159,
+                    "endOffset": 235
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.310000000000002,
+                    "end": 33.81,
+                    "startOffset": 237,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.81,
+                    "end": 40.39,
+                    "startOffset": 344,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 40.39,
+                    "end": 47.92,
+                    "startOffset": 434,
+                    "endOffset": 512
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 47.92,
+                    "end": 58.95,
+                    "startOffset": 513,
+                    "endOffset": 622
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.95,
+                    "end": 66.85000000000001,
+                    "startOffset": 624,
+                    "endOffset": 704
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 66.85000000000001,
+                    "end": 77.71,
+                    "startOffset": 706,
+                    "endOffset": 806
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 77.71,
+                    "end": 88.392,
+                    "startOffset": 808,
+                    "endOffset": 884
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 24 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "24-912c727189ddb6e77b5d6ec5214dd667",
+        "next": [
+            "PSA.25"
+        ],
+        "prev": [
+            "PSA.23"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.619999,
+                    "startOffset": 0,
+                    "endOffset": 84
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.619999,
+                    "end": 17.319999,
+                    "startOffset": 86,
+                    "endOffset": 157
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.319999,
+                    "end": 24.499999999999996,
+                    "startOffset": 159,
+                    "endOffset": 235
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.499999999999996,
+                    "end": 34.04,
+                    "startOffset": 237,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.04,
+                    "end": 40.41,
+                    "startOffset": 344,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 40.41,
+                    "end": 48.959999,
+                    "startOffset": 434,
+                    "endOffset": 512
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 48.959999,
+                    "end": 60.28,
+                    "startOffset": 513,
+                    "endOffset": 622
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.28,
+                    "end": 67.559999,
+                    "startOffset": 624,
+                    "endOffset": 704
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 67.559999,
+                    "end": 75.94,
+                    "startOffset": 706,
+                    "endOffset": 806
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 75.94,
+                    "end": 89.16,
+                    "startOffset": 808,
+                    "endOffset": 884
+                }
+            }
+        ]
+    }
+]

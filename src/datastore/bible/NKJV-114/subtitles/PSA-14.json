@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 14 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "14-ad8ab3c2c3d00f3e2fc66981cd436107",
+        "next": [
+            "PSA.15"
+        ],
+        "prev": [
+            "PSA.13"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.599999999999998,
+                    "startOffset": 0,
+                    "endOffset": 130
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.599999999999998,
+                    "end": 27,
+                    "startOffset": 132,
+                    "endOffset": 242
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27,
+                    "end": 35.849999000000004,
+                    "startOffset": 244,
+                    "endOffset": 348
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.849999000000004,
+                    "end": 44.18,
+                    "startOffset": 350,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.18,
+                    "end": 49.91,
+                    "startOffset": 466,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.91,
+                    "end": 54.910000000000004,
+                    "startOffset": 545,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 54.910000000000004,
+                    "end": 68.736,
+                    "startOffset": 609,
+                    "endOffset": 758
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 14 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "14-5cda4bbec1708ab7553a38cbccc78f80",
+        "next": [
+            "PSA.15"
+        ],
+        "prev": [
+            "PSA.13"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.03,
+                    "startOffset": 0,
+                    "endOffset": 130
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.03,
+                    "end": 28.49,
+                    "startOffset": 132,
+                    "endOffset": 242
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.49,
+                    "end": 39.44,
+                    "startOffset": 244,
+                    "endOffset": 348
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.44,
+                    "end": 49.839999,
+                    "startOffset": 350,
+                    "endOffset": 464
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.839999,
+                    "end": 55.53,
+                    "startOffset": 466,
+                    "endOffset": 543
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.53,
+                    "end": 61.21,
+                    "startOffset": 545,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.21,
+                    "end": 77.856,
+                    "startOffset": 609,
+                    "endOffset": 758
+                }
+            }
+        ]
+    }
+]

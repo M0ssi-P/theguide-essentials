@@ -1,0 +1,340 @@
+[
+    {
+        "audioName": "Song of Solomon Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-70636b9582f3154aed0face77f6d6400",
+        "next": [
+            "SNG.3"
+        ],
+        "prev": [
+            "SNG.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.65,
+                    "startOffset": 0,
+                    "endOffset": 52
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.65,
+                    "end": 14.949999,
+                    "startOffset": 54,
+                    "endOffset": 113
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.949999,
+                    "end": 28.89,
+                    "startOffset": 115,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.89,
+                    "end": 38.07,
+                    "startOffset": 278,
+                    "endOffset": 348
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.07,
+                    "end": 44.64,
+                    "startOffset": 350,
+                    "endOffset": 425
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.64,
+                    "end": 49.949999999999996,
+                    "startOffset": 427,
+                    "endOffset": 489
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 49.949999999999996,
+                    "end": 60.96,
+                    "startOffset": 491,
+                    "endOffset": 623
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.96,
+                    "end": 71.709999,
+                    "startOffset": 625,
+                    "endOffset": 718
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 71.709999,
+                    "end": 82.81,
+                    "startOffset": 720,
+                    "endOffset": 862
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 82.81,
+                    "end": 90.939999,
+                    "startOffset": 864,
+                    "endOffset": 943
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 90.939999,
+                    "end": 95.95,
+                    "startOffset": 945,
+                    "endOffset": 998
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 95.95,
+                    "end": 104.36,
+                    "startOffset": 1000,
+                    "endOffset": 1115
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 104.36,
+                    "end": 115.89,
+                    "startOffset": 1117,
+                    "endOffset": 1257
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 115.89,
+                    "end": 129.9,
+                    "startOffset": 1260,
+                    "endOffset": 1427
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 129.9,
+                    "end": 139.76,
+                    "startOffset": 1430,
+                    "endOffset": 1521
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 139.76,
+                    "end": 148.51,
+                    "startOffset": 1523,
+                    "endOffset": 1593
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 148.51,
+                    "end": 164.448,
+                    "startOffset": 1595,
+                    "endOffset": 1727
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Song of Solomon Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-1ed4099d6d3818eed90d92e433ffd31e",
+        "next": [
+            "SNG.3"
+        ],
+        "prev": [
+            "SNG.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.81,
+                    "startOffset": 0,
+                    "endOffset": 52
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.81,
+                    "end": 16.689998999999997,
+                    "startOffset": 54,
+                    "endOffset": 113
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.689998999999997,
+                    "end": 33.48,
+                    "startOffset": 115,
+                    "endOffset": 276
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.48,
+                    "end": 44.97,
+                    "startOffset": 278,
+                    "endOffset": 348
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.97,
+                    "end": 53.299999,
+                    "startOffset": 350,
+                    "endOffset": 425
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 53.299999,
+                    "end": 59.76,
+                    "startOffset": 427,
+                    "endOffset": 489
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.76,
+                    "end": 72.55999899999999,
+                    "startOffset": 491,
+                    "endOffset": 623
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 72.55999899999999,
+                    "end": 85.8,
+                    "startOffset": 625,
+                    "endOffset": 718
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.8,
+                    "end": 97.83000000000001,
+                    "startOffset": 720,
+                    "endOffset": 862
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 97.83000000000001,
+                    "end": 108.16,
+                    "startOffset": 864,
+                    "endOffset": 943
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.16,
+                    "end": 113.97999999999999,
+                    "startOffset": 945,
+                    "endOffset": 998
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 113.97999999999999,
+                    "end": 123.6,
+                    "startOffset": 1000,
+                    "endOffset": 1115
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 123.6,
+                    "end": 137.419999,
+                    "startOffset": 1117,
+                    "endOffset": 1257
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 137.419999,
+                    "end": 152.92999999999998,
+                    "startOffset": 1260,
+                    "endOffset": 1427
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 152.92999999999998,
+                    "end": 165.07000000000002,
+                    "startOffset": 1430,
+                    "endOffset": 1521
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 165.07000000000002,
+                    "end": 176.56999900000002,
+                    "startOffset": 1523,
+                    "endOffset": 1593
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 176.56999900000002,
+                    "end": 198.144,
+                    "startOffset": 1595,
+                    "endOffset": 1727
+                }
+            }
+        ]
+    }
+]

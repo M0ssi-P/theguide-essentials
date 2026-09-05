@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "Micah Chapter 5 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "5-59735d8eb0d4785e847636154be46dff",
+        "next": [
+            "MIC.6"
+        ],
+        "prev": [
+            "MIC.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.29,
+                    "startOffset": 0,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.29,
+                    "end": 29.09,
+                    "startOffset": 146,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.09,
+                    "end": 40.66,
+                    "startOffset": 352,
+                    "endOffset": 514
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.66,
+                    "end": 53.519999000000006,
+                    "startOffset": 516,
+                    "endOffset": 704
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 53.519999000000006,
+                    "end": 66.76,
+                    "startOffset": 706,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 66.76,
+                    "end": 80.06,
+                    "startOffset": 881,
+                    "endOffset": 1084
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.06,
+                    "end": 93.33999999999999,
+                    "startOffset": 1086,
+                    "endOffset": 1252
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 93.33999999999999,
+                    "end": 113.56,
+                    "startOffset": 1254,
+                    "endOffset": 1508
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 113.56,
+                    "end": 120.25999999999999,
+                    "startOffset": 1510,
+                    "endOffset": 1599
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 120.25999999999999,
+                    "end": 128.56,
+                    "startOffset": 1602,
+                    "endOffset": 1721
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 128.56,
+                    "end": 134.09,
+                    "startOffset": 1723,
+                    "endOffset": 1797
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 134.09,
+                    "end": 138.86999899999998,
+                    "startOffset": 1799,
+                    "endOffset": 1873
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 138.86999899999998,
+                    "end": 149.16000000000003,
+                    "startOffset": 1875,
+                    "endOffset": 2004
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 149.16000000000003,
+                    "end": 155.07,
+                    "startOffset": 2006,
+                    "endOffset": 2086
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 155.07,
+                    "end": 162.672,
+                    "startOffset": 2088,
+                    "endOffset": 2169
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Micah Chapter 5 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "5-f6eb0408a94d471ea89015b5ab466e01",
+        "next": [
+            "MIC.6"
+        ],
+        "prev": [
+            "MIC.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.95,
+                    "startOffset": 0,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.95,
+                    "end": 31.639998999999996,
+                    "startOffset": 146,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.639998999999996,
+                    "end": 46.120000000000005,
+                    "startOffset": 352,
+                    "endOffset": 514
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 46.120000000000005,
+                    "end": 58.85,
+                    "startOffset": 516,
+                    "endOffset": 704
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 58.85,
+                    "end": 73.89999999999999,
+                    "startOffset": 706,
+                    "endOffset": 879
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 73.89999999999999,
+                    "end": 88.86999899999999,
+                    "startOffset": 881,
+                    "endOffset": 1084
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 88.86999899999999,
+                    "end": 103.72,
+                    "startOffset": 1086,
+                    "endOffset": 1252
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 103.72,
+                    "end": 122.74,
+                    "startOffset": 1254,
+                    "endOffset": 1508
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 122.74,
+                    "end": 129.89000000000001,
+                    "startOffset": 1510,
+                    "endOffset": 1599
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 129.89000000000001,
+                    "end": 139.31,
+                    "startOffset": 1602,
+                    "endOffset": 1721
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 139.31,
+                    "end": 144.379999,
+                    "startOffset": 1723,
+                    "endOffset": 1797
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 144.379999,
+                    "end": 149.6,
+                    "startOffset": 1799,
+                    "endOffset": 1873
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 149.6,
+                    "end": 159.539999,
+                    "startOffset": 1875,
+                    "endOffset": 2004
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 159.539999,
+                    "end": 167.25,
+                    "startOffset": 2006,
+                    "endOffset": 2086
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 167.25,
+                    "end": 177.36,
+                    "startOffset": 2088,
+                    "endOffset": 2169
+                }
+            }
+        ]
+    }
+]

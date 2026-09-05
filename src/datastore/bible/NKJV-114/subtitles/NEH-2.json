@@ -1,0 +1,394 @@
+[
+    {
+        "audioName": "Nehemiah Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-b52225410f5922e149279c1755b0888a",
+        "next": [
+            "NEH.3"
+        ],
+        "prev": [
+            "NEH.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.34,
+                    "startOffset": 0,
+                    "endOffset": 204
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.34,
+                    "end": 30.05,
+                    "startOffset": 206,
+                    "endOffset": 351
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.05,
+                    "end": 43.6,
+                    "startOffset": 353,
+                    "endOffset": 527
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 43.6,
+                    "end": 51.169999000000004,
+                    "startOffset": 530,
+                    "endOffset": 611
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 51.169999000000004,
+                    "end": 65.779999,
+                    "startOffset": 613,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.779999,
+                    "end": 79.36999999999999,
+                    "startOffset": 804,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.36999999999999,
+                    "end": 92.63000000000001,
+                    "startOffset": 982,
+                    "endOffset": 1179
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 92.63000000000001,
+                    "end": 112.57000000000001,
+                    "startOffset": 1181,
+                    "endOffset": 1472
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 112.57000000000001,
+                    "end": 123.689999,
+                    "startOffset": 1474,
+                    "endOffset": 1634
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 123.689999,
+                    "end": 135.63999900000002,
+                    "startOffset": 1636,
+                    "endOffset": 1806
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 135.63999900000002,
+                    "end": 140.34,
+                    "startOffset": 1808,
+                    "endOffset": 1855
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 140.34,
+                    "end": 154.679999,
+                    "startOffset": 1857,
+                    "endOffset": 2039
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 154.679999,
+                    "end": 167.37,
+                    "startOffset": 2041,
+                    "endOffset": 2228
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 167.37,
+                    "end": 175.36,
+                    "startOffset": 2230,
+                    "endOffset": 2344
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 175.36,
+                    "end": 184.89,
+                    "startOffset": 2346,
+                    "endOffset": 2474
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 184.89,
+                    "end": 197,
+                    "startOffset": 2476,
+                    "endOffset": 2643
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 197,
+                    "end": 213.419999,
+                    "startOffset": 2645,
+                    "endOffset": 2846
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 213.419999,
+                    "end": 229.74,
+                    "startOffset": 2849,
+                    "endOffset": 3056
+                }
+            },
+            {
+                "verse": "19",
+                "timing": {
+                    "start": 229.74,
+                    "end": 245.2,
+                    "startOffset": 3058,
+                    "endOffset": 3272
+                }
+            },
+            {
+                "verse": "20",
+                "timing": {
+                    "start": 245.2,
+                    "end": 262.824,
+                    "startOffset": 3275,
+                    "endOffset": 3463
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Nehemiah Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-0268d2a8dc26687e73bd0857fcea4b82",
+        "next": [
+            "NEH.3"
+        ],
+        "prev": [
+            "NEH.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.479999,
+                    "startOffset": 0,
+                    "endOffset": 204
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.479999,
+                    "end": 29.02,
+                    "startOffset": 206,
+                    "endOffset": 351
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 29.02,
+                    "end": 41.69,
+                    "startOffset": 353,
+                    "endOffset": 527
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.69,
+                    "end": 49.260000000000005,
+                    "startOffset": 530,
+                    "endOffset": 611
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.260000000000005,
+                    "end": 63.01,
+                    "startOffset": 613,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.01,
+                    "end": 77.4,
+                    "startOffset": 804,
+                    "endOffset": 980
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 77.4,
+                    "end": 91.09,
+                    "startOffset": 982,
+                    "endOffset": 1179
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 91.09,
+                    "end": 111.26,
+                    "startOffset": 1181,
+                    "endOffset": 1472
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 111.26,
+                    "end": 123.42,
+                    "startOffset": 1474,
+                    "endOffset": 1634
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 123.42,
+                    "end": 134.5,
+                    "startOffset": 1636,
+                    "endOffset": 1806
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 134.5,
+                    "end": 139.82999900000002,
+                    "startOffset": 1808,
+                    "endOffset": 1855
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 139.82999900000002,
+                    "end": 155.71,
+                    "startOffset": 1857,
+                    "endOffset": 2039
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 155.71,
+                    "end": 169.9,
+                    "startOffset": 2041,
+                    "endOffset": 2228
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 169.9,
+                    "end": 179.12,
+                    "startOffset": 2230,
+                    "endOffset": 2344
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 179.12,
+                    "end": 191.2,
+                    "startOffset": 2346,
+                    "endOffset": 2474
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 191.2,
+                    "end": 203.91,
+                    "startOffset": 2476,
+                    "endOffset": 2643
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 203.91,
+                    "end": 221.39,
+                    "startOffset": 2645,
+                    "endOffset": 2846
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 221.39,
+                    "end": 240.24,
+                    "startOffset": 2849,
+                    "endOffset": 3056
+                }
+            },
+            {
+                "verse": "19",
+                "timing": {
+                    "start": 240.24,
+                    "end": 257.56,
+                    "startOffset": 3058,
+                    "endOffset": 3272
+                }
+            },
+            {
+                "verse": "20",
+                "timing": {
+                    "start": 257.56,
+                    "end": 279.744,
+                    "startOffset": 3275,
+                    "endOffset": 3463
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Joshua Chapter 20 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "20-c94454b3db350121fc536a2a70ef8ebc",
+        "next": [
+            "JOS.21"
+        ],
+        "prev": [
+            "JOS.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.72,
+                    "startOffset": 0,
+                    "endOffset": 37
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.72,
+                    "end": 15.539999,
+                    "startOffset": 40,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.539999,
+                    "end": 25.509999999999998,
+                    "startOffset": 162,
+                    "endOffset": 300
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.509999999999998,
+                    "end": 42.480000000000004,
+                    "startOffset": 302,
+                    "endOffset": 561
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.480000000000004,
+                    "end": 54.15,
+                    "startOffset": 563,
+                    "endOffset": 733
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 54.15,
+                    "end": 71.36,
+                    "startOffset": 735,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.36,
+                    "end": 84.55,
+                    "startOffset": 992,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 84.55,
+                    "end": 101.14,
+                    "startOffset": 1158,
+                    "endOffset": 1382
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 101.14,
+                    "end": 118.944,
+                    "startOffset": 1384,
+                    "endOffset": 1636
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Joshua Chapter 20 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "20-70d2a6b7ae6ce4d1ceb7584beae0d427",
+        "next": [
+            "JOS.21"
+        ],
+        "prev": [
+            "JOS.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 4.68,
+                    "startOffset": 0,
+                    "endOffset": 37
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 4.68,
+                    "end": 13.65,
+                    "startOffset": 40,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 13.65,
+                    "end": 22.24,
+                    "startOffset": 162,
+                    "endOffset": 300
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.24,
+                    "end": 37.87,
+                    "startOffset": 302,
+                    "endOffset": 561
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.87,
+                    "end": 49.38999999999999,
+                    "startOffset": 563,
+                    "endOffset": 733
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.38999999999999,
+                    "end": 66.519999,
+                    "startOffset": 735,
+                    "endOffset": 987
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 66.519999,
+                    "end": 79.92,
+                    "startOffset": 992,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.92,
+                    "end": 95.52000000000001,
+                    "startOffset": 1158,
+                    "endOffset": 1382
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 95.52000000000001,
+                    "end": 116.184,
+                    "startOffset": 1384,
+                    "endOffset": 1636
+                }
+            }
+        ]
+    }
+]

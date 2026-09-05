@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 124 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "124-ec45cca2b58c2d9056f64c0507d41c3d",
+        "next": [
+            "PSA.125"
+        ],
+        "prev": [
+            "PSA.123"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.33,
+                    "startOffset": 1,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.33,
+                    "end": 17.449999000000002,
+                    "startOffset": 72,
+                    "endOffset": 148
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.449999000000002,
+                    "end": 22.72,
+                    "startOffset": 150,
+                    "endOffset": 230
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.72,
+                    "end": 28.38,
+                    "startOffset": 232,
+                    "endOffset": 315
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.38,
+                    "end": 32.51,
+                    "startOffset": 317,
+                    "endOffset": 370
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 32.51,
+                    "end": 37.179998999999995,
+                    "startOffset": 373,
+                    "endOffset": 437
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 37.179998999999995,
+                    "end": 45.42,
+                    "startOffset": 439,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 45.42,
+                    "end": 52.272,
+                    "startOffset": 543,
+                    "endOffset": 605
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 124 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "124-e2d52edd397c2f5215c4202a36f0fd8f",
+        "next": [
+            "PSA.125"
+        ],
+        "prev": [
+            "PSA.123"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.909999,
+                    "startOffset": 1,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.909999,
+                    "end": 19.06,
+                    "startOffset": 72,
+                    "endOffset": 148
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.06,
+                    "end": 24.48,
+                    "startOffset": 150,
+                    "endOffset": 230
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 24.48,
+                    "end": 30.82,
+                    "startOffset": 232,
+                    "endOffset": 315
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 30.82,
+                    "end": 35.480000000000004,
+                    "startOffset": 317,
+                    "endOffset": 370
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 35.480000000000004,
+                    "end": 42.11,
+                    "startOffset": 373,
+                    "endOffset": 437
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 42.11,
+                    "end": 51.049999,
+                    "startOffset": 439,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 51.049999,
+                    "end": 60.504,
+                    "startOffset": 543,
+                    "endOffset": 605
+                }
+            }
+        ]
+    }
+]

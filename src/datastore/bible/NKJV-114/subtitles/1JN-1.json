@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "I John Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-03a6c6ce1a586b0caf59a8c46d35c305",
+        "next": [
+            "1JN.2"
+        ],
+        "prev": [
+            "2PE.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.729999999999999,
+                    "startOffset": 0,
+                    "endOffset": 172
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.729999999999999,
+                    "end": 25.169999999999998,
+                    "startOffset": 174,
+                    "endOffset": 322
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.169999999999998,
+                    "end": 36.24,
+                    "startOffset": 324,
+                    "endOffset": 494
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.24,
+                    "end": 40.08,
+                    "startOffset": 496,
+                    "endOffset": 554
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.08,
+                    "end": 48.989999999999995,
+                    "startOffset": 556,
+                    "endOffset": 675
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.989999999999995,
+                    "end": 55.62,
+                    "startOffset": 677,
+                    "endOffset": 779
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 55.62,
+                    "end": 65.25999999999999,
+                    "startOffset": 781,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 65.25999999999999,
+                    "end": 71.35,
+                    "startOffset": 933,
+                    "endOffset": 1012
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 71.35,
+                    "end": 79.05999999999999,
+                    "startOffset": 1014,
+                    "endOffset": 1127
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 79.05999999999999,
+                    "end": 87.792,
+                    "startOffset": 1129,
+                    "endOffset": 1209
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I John Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-67fe306015c05137754e1628b52cc138",
+        "next": [
+            "1JN.2"
+        ],
+        "prev": [
+            "2PE.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.11,
+                    "startOffset": 0,
+                    "endOffset": 172
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.11,
+                    "end": 33.14,
+                    "startOffset": 174,
+                    "endOffset": 322
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.14,
+                    "end": 49.33,
+                    "startOffset": 324,
+                    "endOffset": 494
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 49.33,
+                    "end": 55.349999999999994,
+                    "startOffset": 496,
+                    "endOffset": 554
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.349999999999994,
+                    "end": 69.02,
+                    "startOffset": 556,
+                    "endOffset": 675
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 69.02,
+                    "end": 79.72,
+                    "startOffset": 677,
+                    "endOffset": 779
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.72,
+                    "end": 93.59,
+                    "startOffset": 781,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 93.59,
+                    "end": 102.60000000000001,
+                    "startOffset": 933,
+                    "endOffset": 1012
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 102.60000000000001,
+                    "end": 113.4,
+                    "startOffset": 1014,
+                    "endOffset": 1127
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 113.4,
+                    "end": 126.888,
+                    "startOffset": 1129,
+                    "endOffset": 1209
+                }
+            }
+        ]
+    }
+]

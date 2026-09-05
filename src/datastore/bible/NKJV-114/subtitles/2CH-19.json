@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "II Chronicles Chapter 19 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "19-d0d8e6cc028477b16cb30e3623985a14",
+        "next": [
+            "2CH.20"
+        ],
+        "prev": [
+            "2CH.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.690000000000001,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.690000000000001,
+                    "end": 23.82,
+                    "startOffset": 78,
+                    "endOffset": 272
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.82,
+                    "end": 33.33,
+                    "startOffset": 274,
+                    "endOffset": 415
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.33,
+                    "end": 45.57,
+                    "startOffset": 418,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.57,
+                    "end": 52.45,
+                    "startOffset": 592,
+                    "endOffset": 681
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.45,
+                    "end": 62.17,
+                    "startOffset": 683,
+                    "endOffset": 819
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 62.17,
+                    "end": 74.76,
+                    "startOffset": 821,
+                    "endOffset": 979
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.76,
+                    "end": 90.129999,
+                    "startOffset": 982,
+                    "endOffset": 1184
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 90.129999,
+                    "end": 98.80999999999999,
+                    "startOffset": 1186,
+                    "endOffset": 1295
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 98.80999999999999,
+                    "end": 121.04,
+                    "startOffset": 1297,
+                    "endOffset": 1598
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 121.04,
+                    "end": 145.176,
+                    "startOffset": 1600,
+                    "endOffset": 1879
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Chronicles Chapter 19 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "19-56222d62f12a96336a1b6253b09ac36b",
+        "next": [
+            "2CH.20"
+        ],
+        "prev": [
+            "2CH.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.54,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.54,
+                    "end": 22.17,
+                    "startOffset": 78,
+                    "endOffset": 272
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.17,
+                    "end": 31.540000000000003,
+                    "startOffset": 274,
+                    "endOffset": 415
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.540000000000003,
+                    "end": 44.15,
+                    "startOffset": 418,
+                    "endOffset": 590
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.15,
+                    "end": 52.529999000000004,
+                    "startOffset": 592,
+                    "endOffset": 681
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.529999000000004,
+                    "end": 62.2,
+                    "startOffset": 683,
+                    "endOffset": 819
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 62.2,
+                    "end": 74.52,
+                    "startOffset": 821,
+                    "endOffset": 979
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.52,
+                    "end": 89.05999999999999,
+                    "startOffset": 982,
+                    "endOffset": 1184
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.05999999999999,
+                    "end": 97.42,
+                    "startOffset": 1186,
+                    "endOffset": 1295
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 97.42,
+                    "end": 118.329999,
+                    "startOffset": 1297,
+                    "endOffset": 1598
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 118.329999,
+                    "end": 143.832,
+                    "startOffset": 1600,
+                    "endOffset": 1879
+                }
+            }
+        ]
+    }
+]

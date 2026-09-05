@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Revelation Chapter 5 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "5-e6c976d9440bdaef0419f9a92fa17668",
+        "next": [
+            "REV.6"
+        ],
+        "prev": [
+            "REV.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.39,
+                    "startOffset": 0,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.39,
+                    "end": 21,
+                    "startOffset": 123,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21,
+                    "end": 28.769999000000002,
+                    "startOffset": 239,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.769999000000002,
+                    "end": 35.989999000000005,
+                    "startOffset": 342,
+                    "endOffset": 435
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.989999000000005,
+                    "end": 49.55,
+                    "startOffset": 437,
+                    "endOffset": 605
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 49.55,
+                    "end": 68.69999999999999,
+                    "startOffset": 608,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.69999999999999,
+                    "end": 74.48,
+                    "startOffset": 868,
+                    "endOffset": 951
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.48,
+                    "end": 89.139999,
+                    "startOffset": 953,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.139999,
+                    "end": 104.58,
+                    "startOffset": 1158,
+                    "endOffset": 1364
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 104.58,
+                    "end": 110.35000000000001,
+                    "startOffset": 1366,
+                    "endOffset": 1444
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 110.35000000000001,
+                    "end": 125.239999,
+                    "startOffset": 1447,
+                    "endOffset": 1642
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 125.239999,
+                    "end": 137.879999,
+                    "startOffset": 1644,
+                    "endOffset": 1789
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 137.879999,
+                    "end": 158.56,
+                    "startOffset": 1792,
+                    "endOffset": 2044
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 158.56,
+                    "end": 171,
+                    "startOffset": 2047,
+                    "endOffset": 2173
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Revelation Chapter 5 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "5-d46613d4fffee2efdad483ee1621dd09",
+        "next": [
+            "REV.6"
+        ],
+        "prev": [
+            "REV.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.25,
+                    "startOffset": 0,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.25,
+                    "end": 25.65,
+                    "startOffset": 123,
+                    "endOffset": 236
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.65,
+                    "end": 35.669999000000004,
+                    "startOffset": 239,
+                    "endOffset": 340
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.669999000000004,
+                    "end": 45.24,
+                    "startOffset": 342,
+                    "endOffset": 435
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.24,
+                    "end": 63.25,
+                    "startOffset": 437,
+                    "endOffset": 605
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.25,
+                    "end": 88.17,
+                    "startOffset": 608,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 88.17,
+                    "end": 95.78,
+                    "startOffset": 868,
+                    "endOffset": 951
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 95.78,
+                    "end": 114.35,
+                    "startOffset": 953,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 114.35,
+                    "end": 134.54,
+                    "startOffset": 1158,
+                    "endOffset": 1364
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 134.54,
+                    "end": 141.33,
+                    "startOffset": 1366,
+                    "endOffset": 1444
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 141.33,
+                    "end": 158.37,
+                    "startOffset": 1447,
+                    "endOffset": 1642
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 158.37,
+                    "end": 170.43,
+                    "startOffset": 1644,
+                    "endOffset": 1789
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 170.43,
+                    "end": 191.66000000000003,
+                    "startOffset": 1792,
+                    "endOffset": 2044
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 191.66000000000003,
+                    "end": 208.152,
+                    "startOffset": 2047,
+                    "endOffset": 2173
+                }
+            }
+        ]
+    }
+]

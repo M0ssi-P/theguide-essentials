@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Deuteronomy Chapter 34 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "34-209f3d8fe36c92b8b98562b5756cc920",
+        "next": [
+            "JOS.1"
+        ],
+        "prev": [
+            "DEU.33"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.399999,
+                    "startOffset": 0,
+                    "endOffset": 170
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.399999,
+                    "end": 26.03,
+                    "startOffset": 172,
+                    "endOffset": 270
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.03,
+                    "end": 33.209998999999996,
+                    "startOffset": 272,
+                    "endOffset": 361
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.209998999999996,
+                    "end": 48.88,
+                    "startOffset": 363,
+                    "endOffset": 584
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 48.88,
+                    "end": 56.94,
+                    "startOffset": 587,
+                    "endOffset": 685
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.94,
+                    "end": 65.31999900000001,
+                    "startOffset": 687,
+                    "endOffset": 796
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 65.31999900000001,
+                    "end": 74.48,
+                    "startOffset": 798,
+                    "endOffset": 909
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.48,
+                    "end": 84.7,
+                    "startOffset": 911,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.7,
+                    "end": 98.65,
+                    "startOffset": 1041,
+                    "endOffset": 1215
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 98.65,
+                    "end": 106.61999999999999,
+                    "startOffset": 1217,
+                    "endOffset": 1316
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 106.61999999999999,
+                    "end": 116.65,
+                    "startOffset": 1318,
+                    "endOffset": 1459
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 116.65,
+                    "end": 126.192,
+                    "startOffset": 1461,
+                    "endOffset": 1563
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Deuteronomy Chapter 34 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "34-e8d8270de1230d58cf4e4f4af401c8ec",
+        "next": [
+            "JOS.1"
+        ],
+        "prev": [
+            "DEU.33"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.100000000000001,
+                    "startOffset": 0,
+                    "endOffset": 170
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.100000000000001,
+                    "end": 22.68,
+                    "startOffset": 172,
+                    "endOffset": 270
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.68,
+                    "end": 28.72,
+                    "startOffset": 272,
+                    "endOffset": 361
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.72,
+                    "end": 46.13,
+                    "startOffset": 363,
+                    "endOffset": 584
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.13,
+                    "end": 55.54,
+                    "startOffset": 587,
+                    "endOffset": 685
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 55.54,
+                    "end": 65,
+                    "startOffset": 687,
+                    "endOffset": 796
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 65,
+                    "end": 74.7,
+                    "startOffset": 798,
+                    "endOffset": 909
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.7,
+                    "end": 85.36,
+                    "startOffset": 911,
+                    "endOffset": 1039
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.36,
+                    "end": 99.44,
+                    "startOffset": 1041,
+                    "endOffset": 1215
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 99.44,
+                    "end": 108.59,
+                    "startOffset": 1217,
+                    "endOffset": 1316
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.59,
+                    "end": 117.47,
+                    "startOffset": 1318,
+                    "endOffset": 1459
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 117.47,
+                    "end": 130.344,
+                    "startOffset": 1461,
+                    "endOffset": 1563
+                }
+            }
+        ]
+    }
+]

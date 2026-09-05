@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 114 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "114-35abbf6b69e632ee7e92bf9f05a22cf1",
+        "next": [
+            "PSA.115"
+        ],
+        "prev": [
+            "PSA.113"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.76,
+                    "startOffset": 0,
+                    "endOffset": 83
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.76,
+                    "end": 14.129999,
+                    "startOffset": 85,
+                    "endOffset": 136
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.129999,
+                    "end": 18.099998999999997,
+                    "startOffset": 138,
+                    "endOffset": 181
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 18.099998999999997,
+                    "end": 0,
+                    "startOffset": 183,
+                    "endOffset": 243
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 0,
+                    "end": 27.840000000000003,
+                    "startOffset": 245,
+                    "endOffset": 312
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 27.840000000000003,
+                    "end": 32.36,
+                    "startOffset": 314,
+                    "endOffset": 381
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 32.36,
+                    "end": 38.370000000000005,
+                    "startOffset": 383,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 38.370000000000005,
+                    "end": 45.864,
+                    "startOffset": 467,
+                    "endOffset": 544
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 114 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "114-4cb63d26fb3c8be0bca648a71de084ec",
+        "next": [
+            "PSA.115"
+        ],
+        "prev": [
+            "PSA.113"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.6,
+                    "startOffset": 0,
+                    "endOffset": 83
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.6,
+                    "end": 14.659999000000001,
+                    "startOffset": 85,
+                    "endOffset": 136
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.659999000000001,
+                    "end": 20.439998999999997,
+                    "startOffset": 138,
+                    "endOffset": 181
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.439998999999997,
+                    "end": 26.579998999999997,
+                    "startOffset": 183,
+                    "endOffset": 243
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 26.579998999999997,
+                    "end": 33.629999,
+                    "startOffset": 245,
+                    "endOffset": 312
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 33.629999,
+                    "end": 40.209998999999996,
+                    "startOffset": 314,
+                    "endOffset": 381
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.209998999999996,
+                    "end": 47.59,
+                    "startOffset": 383,
+                    "endOffset": 465
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 47.59,
+                    "end": 59.16,
+                    "startOffset": 467,
+                    "endOffset": 544
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Isaiah Chapter 27 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "27-9da190b6d7f73f65d4138380a705ffde",
+        "next": [
+            "ISA.28"
+        ],
+        "prev": [
+            "ISA.26"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.36,
+                    "startOffset": 0,
+                    "endOffset": 184
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.36,
+                    "end": 24.71,
+                    "startOffset": 186,
+                    "endOffset": 234
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.71,
+                    "end": 32.29,
+                    "startOffset": 236,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.29,
+                    "end": 41.55,
+                    "startOffset": 326,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.55,
+                    "end": 48.47,
+                    "startOffset": 452,
+                    "endOffset": 552
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.47,
+                    "end": 58.169999999999995,
+                    "startOffset": 555,
+                    "endOffset": 679
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 58.169999999999995,
+                    "end": 66.17999999999999,
+                    "startOffset": 681,
+                    "endOffset": 815
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 66.17999999999999,
+                    "end": 74.73,
+                    "startOffset": 817,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 74.73,
+                    "end": 92.58999999999999,
+                    "startOffset": 933,
+                    "endOffset": 1172
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 92.58999999999999,
+                    "end": 106.39,
+                    "startOffset": 1174,
+                    "endOffset": 1346
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 106.39,
+                    "end": 123.389999,
+                    "startOffset": 1348,
+                    "endOffset": 1582
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 123.389999,
+                    "end": 135.28,
+                    "startOffset": 1584,
+                    "endOffset": 1763
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 135.28,
+                    "end": 153.12,
+                    "startOffset": 1765,
+                    "endOffset": 1995
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 27 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "27-03b8a045107c90cd06f3c5c3df3fcbf0",
+        "next": [
+            "ISA.28"
+        ],
+        "prev": [
+            "ISA.26"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.63,
+                    "startOffset": 0,
+                    "endOffset": 184
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.63,
+                    "end": 23.07,
+                    "startOffset": 186,
+                    "endOffset": 234
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.07,
+                    "end": 32.28,
+                    "startOffset": 236,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.28,
+                    "end": 43.03,
+                    "startOffset": 326,
+                    "endOffset": 450
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.03,
+                    "end": 50.919999000000004,
+                    "startOffset": 452,
+                    "endOffset": 552
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 50.919999000000004,
+                    "end": 63.16,
+                    "startOffset": 555,
+                    "endOffset": 679
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.16,
+                    "end": 74.18,
+                    "startOffset": 681,
+                    "endOffset": 815
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.18,
+                    "end": 85.99,
+                    "startOffset": 817,
+                    "endOffset": 931
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.99,
+                    "end": 107.929999,
+                    "startOffset": 933,
+                    "endOffset": 1172
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 107.929999,
+                    "end": 122.5,
+                    "startOffset": 1174,
+                    "endOffset": 1346
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 122.5,
+                    "end": 142.739999,
+                    "startOffset": 1348,
+                    "endOffset": 1582
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 142.739999,
+                    "end": 158.28,
+                    "startOffset": 1584,
+                    "endOffset": 1763
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 158.28,
+                    "end": 182.832,
+                    "startOffset": 1765,
+                    "endOffset": 1995
+                }
+            }
+        ]
+    }
+]

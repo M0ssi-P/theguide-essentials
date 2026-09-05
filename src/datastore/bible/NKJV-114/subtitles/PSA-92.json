@@ -1,0 +1,304 @@
+[
+    {
+        "audioName": "Psalms Chapter 92 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "92-ffb04c6a1661fd8d48a130f4e5a4f3ff",
+        "next": [
+            "PSA.93"
+        ],
+        "prev": [
+            "PSA.91"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.34,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.34,
+                    "end": 19.349999999999998,
+                    "startOffset": 88,
+                    "endOffset": 168
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.349999999999998,
+                    "end": 26.659999999999997,
+                    "startOffset": 170,
+                    "endOffset": 254
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.659999999999997,
+                    "end": 34.109999,
+                    "startOffset": 256,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 34.109999,
+                    "end": 39.53,
+                    "startOffset": 351,
+                    "endOffset": 412
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 39.53,
+                    "end": 44.93,
+                    "startOffset": 414,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.93,
+                    "end": 53.61,
+                    "startOffset": 478,
+                    "endOffset": 604
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.61,
+                    "end": 56.53,
+                    "startOffset": 606,
+                    "endOffset": 644
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 56.53,
+                    "end": 67.59,
+                    "startOffset": 646,
+                    "endOffset": 765
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 67.59,
+                    "end": 74.44,
+                    "startOffset": 767,
+                    "endOffset": 847
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 74.44,
+                    "end": 83.56,
+                    "startOffset": 849,
+                    "endOffset": 956
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 83.56,
+                    "end": 89.439999,
+                    "startOffset": 958,
+                    "endOffset": 1042
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 89.439999,
+                    "end": 95.2,
+                    "startOffset": 1044,
+                    "endOffset": 1130
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 95.2,
+                    "end": 100.66,
+                    "startOffset": 1132,
+                    "endOffset": 1207
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 100.66,
+                    "end": 110.496,
+                    "startOffset": 1209,
+                    "endOffset": 1301
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 92 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "92-b5737c5086319a2e0b9cc391fe94af8c",
+        "next": [
+            "PSA.93"
+        ],
+        "prev": [
+            "PSA.91"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.23,
+                    "startOffset": 0,
+                    "endOffset": 86
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.23,
+                    "end": 18.399999,
+                    "startOffset": 88,
+                    "endOffset": 168
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.399999,
+                    "end": 25.22,
+                    "startOffset": 170,
+                    "endOffset": 254
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.22,
+                    "end": 32.229999,
+                    "startOffset": 256,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.229999,
+                    "end": 38.97,
+                    "startOffset": 351,
+                    "endOffset": 412
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.97,
+                    "end": 44.760000000000005,
+                    "startOffset": 414,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.760000000000005,
+                    "end": 53.869999,
+                    "startOffset": 478,
+                    "endOffset": 604
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.869999,
+                    "end": 58.58,
+                    "startOffset": 606,
+                    "endOffset": 644
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 58.58,
+                    "end": 68.07,
+                    "startOffset": 646,
+                    "endOffset": 765
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 68.07,
+                    "end": 76.10000000000001,
+                    "startOffset": 767,
+                    "endOffset": 847
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 76.10000000000001,
+                    "end": 85.329999,
+                    "startOffset": 849,
+                    "endOffset": 956
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 85.329999,
+                    "end": 93.75999999999999,
+                    "startOffset": 958,
+                    "endOffset": 1042
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 93.75999999999999,
+                    "end": 98.969999,
+                    "startOffset": 1044,
+                    "endOffset": 1130
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 98.969999,
+                    "end": 105.099999,
+                    "startOffset": 1132,
+                    "endOffset": 1207
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 105.099999,
+                    "end": 117.144,
+                    "startOffset": 1209,
+                    "endOffset": 1301
+                }
+            }
+        ]
+    }
+]

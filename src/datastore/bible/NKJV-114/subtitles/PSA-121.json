@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 121 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "121-22b15bb6c6bae8b790d78cc9dd90752f",
+        "next": [
+            "PSA.122"
+        ],
+        "prev": [
+            "PSA.120"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.639999999999999,
+                    "startOffset": 0,
+                    "endOffset": 62
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.639999999999999,
+                    "end": 14.790000000000001,
+                    "startOffset": 64,
+                    "endOffset": 118
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.790000000000001,
+                    "end": 19.89,
+                    "startOffset": 120,
+                    "endOffset": 194
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 19.89,
+                    "end": 24.9,
+                    "startOffset": 196,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 24.9,
+                    "end": 30.189999999999998,
+                    "startOffset": 257,
+                    "endOffset": 326
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.189999999999998,
+                    "end": 34.69,
+                    "startOffset": 328,
+                    "endOffset": 386
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 34.69,
+                    "end": 39.96,
+                    "startOffset": 388,
+                    "endOffset": 458
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 39.96,
+                    "end": 49.224,
+                    "startOffset": 460,
+                    "endOffset": 560
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 121 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "121-6b7586a3284860db1478cfa0d036e7f9",
+        "next": [
+            "PSA.122"
+        ],
+        "prev": [
+            "PSA.120"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.83,
+                    "startOffset": 0,
+                    "endOffset": 62
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.83,
+                    "end": 15.7,
+                    "startOffset": 64,
+                    "endOffset": 118
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.7,
+                    "end": 23.06,
+                    "startOffset": 120,
+                    "endOffset": 194
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.06,
+                    "end": 29.219998999999998,
+                    "startOffset": 196,
+                    "endOffset": 255
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 29.219998999999998,
+                    "end": 35.919999000000004,
+                    "startOffset": 257,
+                    "endOffset": 326
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 35.919999000000004,
+                    "end": 41.7,
+                    "startOffset": 328,
+                    "endOffset": 386
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 41.7,
+                    "end": 48.29,
+                    "startOffset": 388,
+                    "endOffset": 458
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 48.29,
+                    "end": 61.536,
+                    "startOffset": 460,
+                    "endOffset": 560
+                }
+            }
+        ]
+    }
+]

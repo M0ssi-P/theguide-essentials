@@ -1,0 +1,592 @@
+[
+    {
+        "audioName": "I Corinthians Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-edc7753b9c3a1ce4b867c10b4a7b6a7e",
+        "next": [
+            "1CO.2"
+        ],
+        "prev": [
+            "ROM.16"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.549999000000001,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.549999000000001,
+                    "end": 30.15,
+                    "startOffset": 99,
+                    "endOffset": 299
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 30.15,
+                    "end": 35.82000000000001,
+                    "startOffset": 301,
+                    "endOffset": 369
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.82000000000001,
+                    "end": 42.94,
+                    "startOffset": 371,
+                    "endOffset": 467
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 42.94,
+                    "end": 48.1,
+                    "startOffset": 469,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.1,
+                    "end": 51.73,
+                    "startOffset": 549,
+                    "endOffset": 601
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 51.73,
+                    "end": 58.21,
+                    "startOffset": 603,
+                    "endOffset": 697
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.21,
+                    "end": 64.94,
+                    "startOffset": 699,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 64.94,
+                    "end": 71.48,
+                    "startOffset": 803,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 71.48,
+                    "end": 87.24000000000001,
+                    "startOffset": 899,
+                    "endOffset": 1129
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 87.24000000000001,
+                    "end": 95.30999999999999,
+                    "startOffset": 1131,
+                    "endOffset": 1258
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 95.30999999999999,
+                    "end": 106.919999,
+                    "startOffset": 1260,
+                    "endOffset": 1376
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 106.919999,
+                    "end": 114.13,
+                    "startOffset": 1379,
+                    "endOffset": 1466
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 114.13,
+                    "end": 120.12,
+                    "startOffset": 1468,
+                    "endOffset": 1532
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 120.12,
+                    "end": 124.11,
+                    "startOffset": 1534,
+                    "endOffset": 1591
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 124.11,
+                    "end": 132.18,
+                    "startOffset": 1593,
+                    "endOffset": 1693
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 132.18,
+                    "end": 141.47,
+                    "startOffset": 1695,
+                    "endOffset": 1838
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 141.47,
+                    "end": 150.66,
+                    "startOffset": 1840,
+                    "endOffset": 1964
+                }
+            },
+            {
+                "verse": "19",
+                "timing": {
+                    "start": 150.66,
+                    "end": 158.45,
+                    "startOffset": 1966,
+                    "endOffset": 2078
+                }
+            },
+            {
+                "verse": "20",
+                "timing": {
+                    "start": 158.45,
+                    "end": 168.45,
+                    "startOffset": 2081,
+                    "endOffset": 2205
+                }
+            },
+            {
+                "verse": "21",
+                "timing": {
+                    "start": 168.45,
+                    "end": 179.719999,
+                    "startOffset": 2207,
+                    "endOffset": 2371
+                }
+            },
+            {
+                "verse": "22",
+                "timing": {
+                    "start": 179.719999,
+                    "end": 184.26000000000002,
+                    "startOffset": 2373,
+                    "endOffset": 2426
+                }
+            },
+            {
+                "verse": "23",
+                "timing": {
+                    "start": 184.26000000000002,
+                    "end": 190.66,
+                    "startOffset": 2428,
+                    "endOffset": 2519
+                }
+            },
+            {
+                "verse": "24",
+                "timing": {
+                    "start": 190.66,
+                    "end": 197.989999,
+                    "startOffset": 2521,
+                    "endOffset": 2617
+                }
+            },
+            {
+                "verse": "25",
+                "timing": {
+                    "start": 197.989999,
+                    "end": 204.3,
+                    "startOffset": 2619,
+                    "endOffset": 2713
+                }
+            },
+            {
+                "verse": "26",
+                "timing": {
+                    "start": 204.3,
+                    "end": 213.78,
+                    "startOffset": 2715,
+                    "endOffset": 2838
+                }
+            },
+            {
+                "verse": "27",
+                "timing": {
+                    "start": 213.78,
+                    "end": 223.89999999999998,
+                    "startOffset": 2840,
+                    "endOffset": 3008
+                }
+            },
+            {
+                "verse": "28",
+                "timing": {
+                    "start": 223.89999999999998,
+                    "end": 233.729999,
+                    "startOffset": 3010,
+                    "endOffset": 3162
+                }
+            },
+            {
+                "verse": "29",
+                "timing": {
+                    "start": 233.729999,
+                    "end": 236.87,
+                    "startOffset": 3164,
+                    "endOffset": 3206
+                }
+            },
+            {
+                "verse": "30",
+                "timing": {
+                    "start": 236.87,
+                    "end": 247.5,
+                    "startOffset": 3208,
+                    "endOffset": 3329
+                }
+            },
+            {
+                "verse": "31",
+                "timing": {
+                    "start": 247.5,
+                    "end": 254.088,
+                    "startOffset": 3331,
+                    "endOffset": 3397
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I Corinthians Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-a74a31366c59a56ebc1f12759d78a784",
+        "next": [
+            "1CO.2"
+        ],
+        "prev": [
+            "ROM.16"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.26,
+                    "startOffset": 0,
+                    "endOffset": 97
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.26,
+                    "end": 28.63,
+                    "startOffset": 99,
+                    "endOffset": 299
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.63,
+                    "end": 34.909999,
+                    "startOffset": 301,
+                    "endOffset": 369
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.909999,
+                    "end": 43.28,
+                    "startOffset": 371,
+                    "endOffset": 467
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.28,
+                    "end": 48.73,
+                    "startOffset": 469,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.73,
+                    "end": 52.479999,
+                    "startOffset": 549,
+                    "endOffset": 601
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.479999,
+                    "end": 60.07,
+                    "startOffset": 603,
+                    "endOffset": 697
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.07,
+                    "end": 68.499999,
+                    "startOffset": 699,
+                    "endOffset": 801
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 68.499999,
+                    "end": 76.89,
+                    "startOffset": 803,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 76.89,
+                    "end": 94.53,
+                    "startOffset": 899,
+                    "endOffset": 1129
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 94.53,
+                    "end": 102.97999999999999,
+                    "startOffset": 1131,
+                    "endOffset": 1258
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 102.97999999999999,
+                    "end": 114.87,
+                    "startOffset": 1260,
+                    "endOffset": 1376
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 114.87,
+                    "end": 124.14,
+                    "startOffset": 1379,
+                    "endOffset": 1466
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 124.14,
+                    "end": 130.34,
+                    "startOffset": 1468,
+                    "endOffset": 1532
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 130.34,
+                    "end": 134.4,
+                    "startOffset": 1534,
+                    "endOffset": 1591
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 134.4,
+                    "end": 143.959999,
+                    "startOffset": 1593,
+                    "endOffset": 1693
+                }
+            },
+            {
+                "verse": "17",
+                "timing": {
+                    "start": 143.959999,
+                    "end": 155.489999,
+                    "startOffset": 1695,
+                    "endOffset": 1838
+                }
+            },
+            {
+                "verse": "18",
+                "timing": {
+                    "start": 155.489999,
+                    "end": 166.78,
+                    "startOffset": 1840,
+                    "endOffset": 1964
+                }
+            },
+            {
+                "verse": "19",
+                "timing": {
+                    "start": 166.78,
+                    "end": 175.81,
+                    "startOffset": 1966,
+                    "endOffset": 2078
+                }
+            },
+            {
+                "verse": "20",
+                "timing": {
+                    "start": 175.81,
+                    "end": 188.41,
+                    "startOffset": 2081,
+                    "endOffset": 2205
+                }
+            },
+            {
+                "verse": "21",
+                "timing": {
+                    "start": 188.41,
+                    "end": 201.91000000000003,
+                    "startOffset": 2207,
+                    "endOffset": 2371
+                }
+            },
+            {
+                "verse": "22",
+                "timing": {
+                    "start": 201.91000000000003,
+                    "end": 208.76,
+                    "startOffset": 2373,
+                    "endOffset": 2426
+                }
+            },
+            {
+                "verse": "23",
+                "timing": {
+                    "start": 208.76,
+                    "end": 217.32,
+                    "startOffset": 2428,
+                    "endOffset": 2519
+                }
+            },
+            {
+                "verse": "24",
+                "timing": {
+                    "start": 217.32,
+                    "end": 225.67,
+                    "startOffset": 2521,
+                    "endOffset": 2617
+                }
+            },
+            {
+                "verse": "25",
+                "timing": {
+                    "start": 225.67,
+                    "end": 234.81,
+                    "startOffset": 2619,
+                    "endOffset": 2713
+                }
+            },
+            {
+                "verse": "26",
+                "timing": {
+                    "start": 234.81,
+                    "end": 246.6,
+                    "startOffset": 2715,
+                    "endOffset": 2838
+                }
+            },
+            {
+                "verse": "27",
+                "timing": {
+                    "start": 246.6,
+                    "end": 259.3,
+                    "startOffset": 2840,
+                    "endOffset": 3008
+                }
+            },
+            {
+                "verse": "28",
+                "timing": {
+                    "start": 259.3,
+                    "end": 270.40000000000003,
+                    "startOffset": 3010,
+                    "endOffset": 3162
+                }
+            },
+            {
+                "verse": "29",
+                "timing": {
+                    "start": 270.40000000000003,
+                    "end": 274.53000000000003,
+                    "startOffset": 3164,
+                    "endOffset": 3206
+                }
+            },
+            {
+                "verse": "30",
+                "timing": {
+                    "start": 274.53000000000003,
+                    "end": 285.70999900000004,
+                    "startOffset": 3208,
+                    "endOffset": 3329
+                }
+            },
+            {
+                "verse": "31",
+                "timing": {
+                    "start": 285.70999900000004,
+                    "end": 297.144,
+                    "startOffset": 3331,
+                    "endOffset": 3397
+                }
+            }
+        ]
+    }
+]

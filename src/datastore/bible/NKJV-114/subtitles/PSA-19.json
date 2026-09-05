@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Psalms Chapter 19 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "19-ff4958eea8b59ff87f28e492648c42e8",
+        "next": [
+            "PSA.20"
+        ],
+        "prev": [
+            "PSA.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.049999999999999,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.049999999999999,
+                    "end": 18.970000000000002,
+                    "startOffset": 77,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.970000000000002,
+                    "end": 23.08,
+                    "startOffset": 145,
+                    "endOffset": 208
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.08,
+                    "end": 32.779999000000004,
+                    "startOffset": 210,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.779999000000004,
+                    "end": 39.6,
+                    "startOffset": 343,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 39.6,
+                    "end": 47.29,
+                    "startOffset": 445,
+                    "endOffset": 558
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 47.29,
+                    "end": 56.65,
+                    "startOffset": 560,
+                    "endOffset": 672
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 56.65,
+                    "end": 65.35,
+                    "startOffset": 674,
+                    "endOffset": 791
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 65.35,
+                    "end": 74.64,
+                    "startOffset": 793,
+                    "endOffset": 903
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 74.64,
+                    "end": 83.64,
+                    "startOffset": 905,
+                    "endOffset": 1012
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 83.64,
+                    "end": 90.2,
+                    "startOffset": 1014,
+                    "endOffset": 1097
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 90.2,
+                    "end": 95.14999999999999,
+                    "startOffset": 1099,
+                    "endOffset": 1159
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 95.14999999999999,
+                    "end": 107.41,
+                    "startOffset": 1161,
+                    "endOffset": 1322
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 107.41,
+                    "end": 120.48,
+                    "startOffset": 1324,
+                    "endOffset": 1445
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 19 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "19-82e707e4d92fa524c8f6489bdc1b07b4",
+        "next": [
+            "PSA.20"
+        ],
+        "prev": [
+            "PSA.18"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.35,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.35,
+                    "end": 20.34,
+                    "startOffset": 77,
+                    "endOffset": 143
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.34,
+                    "end": 25.31,
+                    "startOffset": 145,
+                    "endOffset": 208
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.31,
+                    "end": 36.71,
+                    "startOffset": 210,
+                    "endOffset": 341
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.71,
+                    "end": 43.74,
+                    "startOffset": 343,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 43.74,
+                    "end": 52.719999,
+                    "startOffset": 445,
+                    "endOffset": 558
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.719999,
+                    "end": 64.98,
+                    "startOffset": 560,
+                    "endOffset": 672
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 64.98,
+                    "end": 76.43,
+                    "startOffset": 674,
+                    "endOffset": 791
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 76.43,
+                    "end": 87.25999999999999,
+                    "startOffset": 793,
+                    "endOffset": 903
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 87.25999999999999,
+                    "end": 97.32,
+                    "startOffset": 905,
+                    "endOffset": 1012
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 97.32,
+                    "end": 105.64999999999999,
+                    "startOffset": 1014,
+                    "endOffset": 1097
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 105.64999999999999,
+                    "end": 113.85,
+                    "startOffset": 1099,
+                    "endOffset": 1159
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 113.85,
+                    "end": 127.09,
+                    "startOffset": 1161,
+                    "endOffset": 1322
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 127.09,
+                    "end": 142.632,
+                    "startOffset": 1324,
+                    "endOffset": 1445
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 120 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "120-1f34ebaa3a0dddff766e5d0667773478",
+        "next": [
+            "PSA.121"
+        ],
+        "prev": [
+            "PSA.119"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.179999,
+                    "startOffset": 0,
+                    "endOffset": 51
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.179999,
+                    "end": 15.28,
+                    "startOffset": 53,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.28,
+                    "end": 20.269999000000002,
+                    "startOffset": 123,
+                    "endOffset": 197
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.269999000000002,
+                    "end": 24.49,
+                    "startOffset": 199,
+                    "endOffset": 256
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 24.49,
+                    "end": 30.9,
+                    "startOffset": 258,
+                    "endOffset": 331
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.9,
+                    "end": 35.539999,
+                    "startOffset": 333,
+                    "endOffset": 384
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 35.539999,
+                    "end": 42.96,
+                    "startOffset": 386,
+                    "endOffset": 437
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 120 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "120-b56c210669f018a59ceda78ae413ff5a",
+        "next": [
+            "PSA.121"
+        ],
+        "prev": [
+            "PSA.119"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.36,
+                    "startOffset": 0,
+                    "endOffset": 51
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.36,
+                    "end": 16.669999999999998,
+                    "startOffset": 53,
+                    "endOffset": 121
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.669999999999998,
+                    "end": 23.279999,
+                    "startOffset": 123,
+                    "endOffset": 197
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.279999,
+                    "end": 28.669999999999998,
+                    "startOffset": 199,
+                    "endOffset": 256
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 28.669999999999998,
+                    "end": 36.68,
+                    "startOffset": 258,
+                    "endOffset": 331
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 36.68,
+                    "end": 41.72,
+                    "startOffset": 333,
+                    "endOffset": 384
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 41.72,
+                    "end": 52.656,
+                    "startOffset": 386,
+                    "endOffset": 437
+                }
+            }
+        ]
+    }
+]

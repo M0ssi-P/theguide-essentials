@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Revelation Chapter 10 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "10-a93d34debf06a2ed21767b2b3387925a",
+        "next": [
+            "REV.11"
+        ],
+        "prev": [
+            "REV.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.04,
+                    "startOffset": 0,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.04,
+                    "end": 23.18,
+                    "startOffset": 173,
+                    "endOffset": 278
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.18,
+                    "end": 31.619999,
+                    "startOffset": 280,
+                    "endOffset": 385
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.619999,
+                    "end": 44.44,
+                    "startOffset": 387,
+                    "endOffset": 580
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.44,
+                    "end": 50.92999999999999,
+                    "startOffset": 583,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 50.92999999999999,
+                    "end": 64.87,
+                    "startOffset": 669,
+                    "endOffset": 884
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.87,
+                    "end": 75.46000000000001,
+                    "startOffset": 886,
+                    "endOffset": 1048
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 75.46000000000001,
+                    "end": 88.33,
+                    "startOffset": 1050,
+                    "endOffset": 1222
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 88.33,
+                    "end": 101.86,
+                    "startOffset": 1225,
+                    "endOffset": 1413
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 101.86,
+                    "end": 113.02000000000001,
+                    "startOffset": 1416,
+                    "endOffset": 1571
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 113.02000000000001,
+                    "end": 122.736,
+                    "startOffset": 1573,
+                    "endOffset": 1664
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Revelation Chapter 10 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "10-523436c054aca10de15a2ad7fc9c4b0d",
+        "next": [
+            "REV.11"
+        ],
+        "prev": [
+            "REV.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.8,
+                    "startOffset": 0,
+                    "endOffset": 171
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.8,
+                    "end": 28.36,
+                    "startOffset": 173,
+                    "endOffset": 278
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.36,
+                    "end": 38.469999,
+                    "startOffset": 280,
+                    "endOffset": 385
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.469999,
+                    "end": 55.32000000000001,
+                    "startOffset": 387,
+                    "endOffset": 580
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.32000000000001,
+                    "end": 64.46,
+                    "startOffset": 583,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.46,
+                    "end": 80.21000000000001,
+                    "startOffset": 669,
+                    "endOffset": 884
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.21000000000001,
+                    "end": 93.23,
+                    "startOffset": 886,
+                    "endOffset": 1048
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 93.23,
+                    "end": 109.88000000000001,
+                    "startOffset": 1050,
+                    "endOffset": 1222
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 109.88000000000001,
+                    "end": 129.10999999999999,
+                    "startOffset": 1225,
+                    "endOffset": 1413
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 129.10999999999999,
+                    "end": 145.57,
+                    "startOffset": 1416,
+                    "endOffset": 1571
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 145.57,
+                    "end": 159.576,
+                    "startOffset": 1573,
+                    "endOffset": 1664
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,88 @@
+[
+    {
+        "audioName": "Esther Chapter 10 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "10-6eacdc925b60c01e65a67d75bcf89e1d",
+        "next": [
+            "JOB.1"
+        ],
+        "prev": [
+            "EST.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.129999999999999,
+                    "startOffset": 0,
+                    "endOffset": 77
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.129999999999999,
+                    "end": 23.18,
+                    "startOffset": 79,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.18,
+                    "end": 40.344,
+                    "startOffset": 287,
+                    "endOffset": 491
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Esther Chapter 10 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "10-82e497d1622a8817c82feebd80a8904b",
+        "next": [
+            "JOB.1"
+        ],
+        "prev": [
+            "EST.9"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.22,
+                    "startOffset": 0,
+                    "endOffset": 77
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.22,
+                    "end": 20.69,
+                    "startOffset": 79,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.69,
+                    "end": 39.96,
+                    "startOffset": 287,
+                    "endOffset": 491
+                }
+            }
+        ]
+    }
+]

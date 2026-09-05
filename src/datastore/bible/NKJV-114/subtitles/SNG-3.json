@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Song of Solomon Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-9930e95d12f9d77950cef8cb86dd7ee3",
+        "next": [
+            "SNG.4"
+        ],
+        "prev": [
+            "SNG.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.33,
+                    "startOffset": 0,
+                    "endOffset": 80
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.33,
+                    "end": 25.63,
+                    "startOffset": 83,
+                    "endOffset": 233
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 25.63,
+                    "end": 31.899999,
+                    "startOffset": 235,
+                    "endOffset": 318
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.899999,
+                    "end": 45.709999,
+                    "startOffset": 321,
+                    "endOffset": 513
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.709999,
+                    "end": 56.300000000000004,
+                    "startOffset": 515,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.300000000000004,
+                    "end": 68.3,
+                    "startOffset": 649,
+                    "endOffset": 791
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 68.3,
+                    "end": 76.61,
+                    "startOffset": 793,
+                    "endOffset": 882
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 76.61,
+                    "end": 85.05999999999999,
+                    "startOffset": 884,
+                    "endOffset": 992
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.05999999999999,
+                    "end": 89.940001,
+                    "startOffset": 994,
+                    "endOffset": 1058
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 89.940001,
+                    "end": 100.859999,
+                    "startOffset": 1060,
+                    "endOffset": 1190
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 100.859999,
+                    "end": 114.696,
+                    "startOffset": 1192,
+                    "endOffset": 1356
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Song of Solomon Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-b13982059e9fcb67605f13799509c61d",
+        "next": [
+            "SNG.4"
+        ],
+        "prev": [
+            "SNG.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.41,
+                    "startOffset": 0,
+                    "endOffset": 80
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.41,
+                    "end": 27.73,
+                    "startOffset": 83,
+                    "endOffset": 233
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.73,
+                    "end": 35.849999,
+                    "startOffset": 235,
+                    "endOffset": 318
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 35.849999,
+                    "end": 51.61,
+                    "startOffset": 321,
+                    "endOffset": 513
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 51.61,
+                    "end": 63.51,
+                    "startOffset": 515,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.51,
+                    "end": 80.28999999999999,
+                    "startOffset": 649,
+                    "endOffset": 791
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 80.28999999999999,
+                    "end": 88.729999,
+                    "startOffset": 793,
+                    "endOffset": 882
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 88.729999,
+                    "end": 98.54,
+                    "startOffset": 884,
+                    "endOffset": 992
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 98.54,
+                    "end": 105.29,
+                    "startOffset": 994,
+                    "endOffset": 1058
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 105.29,
+                    "end": 118.39,
+                    "startOffset": 1060,
+                    "endOffset": 1190
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 118.39,
+                    "end": 135.768,
+                    "startOffset": 1192,
+                    "endOffset": 1356
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Jonah Chapter 3 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "3-a47a2b442172be753c7a50c8071a745f",
+        "next": [
+            "JON.4"
+        ],
+        "prev": [
+            "JON.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.390000000000001,
+                    "startOffset": 0,
+                    "endOffset": 62
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.390000000000001,
+                    "end": 12.719999999999999,
+                    "startOffset": 65,
+                    "endOffset": 148
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 12.719999999999999,
+                    "end": 22.89,
+                    "startOffset": 151,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.89,
+                    "end": 32.899999,
+                    "startOffset": 297,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 32.899999,
+                    "end": 42.18,
+                    "startOffset": 435,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.18,
+                    "end": 52.07,
+                    "startOffset": 555,
+                    "endOffset": 695
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.07,
+                    "end": 66.64,
+                    "startOffset": 697,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 66.64,
+                    "end": 77.28999999999999,
+                    "startOffset": 910,
+                    "endOffset": 1068
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 77.28999999999999,
+                    "end": 84.64,
+                    "startOffset": 1070,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 84.64,
+                    "end": 97.344,
+                    "startOffset": 1176,
+                    "endOffset": 1338
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jonah Chapter 3 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "3-28a983d9221c1395b6aeb3432756e217",
+        "next": [
+            "JON.4"
+        ],
+        "prev": [
+            "JON.2"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.12,
+                    "startOffset": 0,
+                    "endOffset": 62
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.12,
+                    "end": 13.76,
+                    "startOffset": 65,
+                    "endOffset": 148
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 13.76,
+                    "end": 26.089999999999996,
+                    "startOffset": 151,
+                    "endOffset": 295
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 26.089999999999996,
+                    "end": 37.95,
+                    "startOffset": 297,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.95,
+                    "end": 48.910000000000004,
+                    "startOffset": 435,
+                    "endOffset": 553
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.910000000000004,
+                    "end": 61.1,
+                    "startOffset": 555,
+                    "endOffset": 695
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.1,
+                    "end": 78.06,
+                    "startOffset": 697,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.06,
+                    "end": 90.03,
+                    "startOffset": 910,
+                    "endOffset": 1068
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 90.03,
+                    "end": 98.56,
+                    "startOffset": 1070,
+                    "endOffset": 1174
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 98.56,
+                    "end": 118.344,
+                    "startOffset": 1176,
+                    "endOffset": 1338
+                }
+            }
+        ]
+    }
+]

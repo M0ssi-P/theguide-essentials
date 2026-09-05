@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Esther Chapter 7 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "7-dd31dd1cf94c7376bbfc3c7dee6d8fe0",
+        "next": [
+            "EST.8"
+        ],
+        "prev": [
+            "EST.6"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.14,
+                    "startOffset": 0,
+                    "endOffset": 52
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.14,
+                    "end": 23.810000000000002,
+                    "startOffset": 54,
+                    "endOffset": 261
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.810000000000002,
+                    "end": 38.72,
+                    "startOffset": 264,
+                    "endOffset": 442
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.72,
+                    "end": 55.03000000000001,
+                    "startOffset": 444,
+                    "endOffset": 672
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.03000000000001,
+                    "end": 65.31,
+                    "startOffset": 675,
+                    "endOffset": 811
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 65.31,
+                    "end": 74.72,
+                    "startOffset": 814,
+                    "endOffset": 927
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 74.72,
+                    "end": 90.39999900000001,
+                    "startOffset": 929,
+                    "endOffset": 1140
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 90.39999900000001,
+                    "end": 109.83999999999999,
+                    "startOffset": 1142,
+                    "endOffset": 1415
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 109.83999999999999,
+                    "end": 128.28,
+                    "startOffset": 1417,
+                    "endOffset": 1647
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 128.28,
+                    "end": 138.48,
+                    "startOffset": 1650,
+                    "endOffset": 1751
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Esther Chapter 7 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "7-c8924838be71eb7feaf9421233cc4af6",
+        "next": [
+            "EST.8"
+        ],
+        "prev": [
+            "EST.6"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 6.06,
+                    "startOffset": 0,
+                    "endOffset": 52
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 6.06,
+                    "end": 22.419999999999998,
+                    "startOffset": 54,
+                    "endOffset": 261
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.419999999999998,
+                    "end": 37.940000000000005,
+                    "startOffset": 264,
+                    "endOffset": 442
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.940000000000005,
+                    "end": 55.499999,
+                    "startOffset": 444,
+                    "endOffset": 672
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.499999,
+                    "end": 67.32000000000001,
+                    "startOffset": 675,
+                    "endOffset": 811
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 67.32000000000001,
+                    "end": 78.89999999999999,
+                    "startOffset": 814,
+                    "endOffset": 927
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 78.89999999999999,
+                    "end": 94.82,
+                    "startOffset": 929,
+                    "endOffset": 1140
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 94.82,
+                    "end": 116.08,
+                    "startOffset": 1142,
+                    "endOffset": 1415
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 116.08,
+                    "end": 135.5,
+                    "startOffset": 1417,
+                    "endOffset": 1647
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 135.5,
+                    "end": 147.744,
+                    "startOffset": 1650,
+                    "endOffset": 1751
+                }
+            }
+        ]
+    }
+]

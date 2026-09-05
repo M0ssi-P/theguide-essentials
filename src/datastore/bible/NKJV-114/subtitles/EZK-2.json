@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Ezekiel Chapter 2 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "2-491d66808be8e9939ea8f485ae4440e2",
+        "next": [
+            "EZK.3"
+        ],
+        "prev": [
+            "EZK.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.59,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.59,
+                    "end": 16.889999,
+                    "startOffset": 78,
+                    "endOffset": 180
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.889999,
+                    "end": 30.419999999999998,
+                    "startOffset": 182,
+                    "endOffset": 379
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.419999999999998,
+                    "end": 39.31,
+                    "startOffset": 381,
+                    "endOffset": 503
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 39.31,
+                    "end": 48.089999,
+                    "startOffset": 506,
+                    "endOffset": 645
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 48.089999,
+                    "end": 64.35999999999999,
+                    "startOffset": 648,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.35999999999999,
+                    "end": 70.910001,
+                    "startOffset": 889,
+                    "endOffset": 988
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.910001,
+                    "end": 80.67999999999999,
+                    "startOffset": 990,
+                    "endOffset": 1123
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 80.67999999999999,
+                    "end": 87.969999,
+                    "startOffset": 1126,
+                    "endOffset": 1223
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 87.969999,
+                    "end": 99.648,
+                    "startOffset": 1225,
+                    "endOffset": 1367
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ezekiel Chapter 2 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "2-e3fc3cf3ebd91bceb0bf4ce5b3c2e039",
+        "next": [
+            "EZK.3"
+        ],
+        "prev": [
+            "EZK.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.48,
+                    "startOffset": 0,
+                    "endOffset": 75
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.48,
+                    "end": 16.930000999999997,
+                    "startOffset": 78,
+                    "endOffset": 180
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.930000999999997,
+                    "end": 31.879999,
+                    "startOffset": 182,
+                    "endOffset": 379
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.879999,
+                    "end": 41.730000000000004,
+                    "startOffset": 381,
+                    "endOffset": 503
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.730000000000004,
+                    "end": 53.49999999999999,
+                    "startOffset": 506,
+                    "endOffset": 645
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 53.49999999999999,
+                    "end": 71.639999,
+                    "startOffset": 648,
+                    "endOffset": 887
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.639999,
+                    "end": 78.78,
+                    "startOffset": 889,
+                    "endOffset": 988
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 78.78,
+                    "end": 90.55000000000001,
+                    "startOffset": 990,
+                    "endOffset": 1123
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 90.55000000000001,
+                    "end": 100.51,
+                    "startOffset": 1126,
+                    "endOffset": 1223
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 100.51,
+                    "end": 116.16,
+                    "startOffset": 1225,
+                    "endOffset": 1367
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Exodus Chapter 11 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "11-a204f918d6af7a0dcd40ab243a541693",
+        "next": [
+            "EXO.12"
+        ],
+        "prev": [
+            "EXO.10"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.109999,
+                    "startOffset": 0,
+                    "endOffset": 191
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.109999,
+                    "end": 27.08,
+                    "startOffset": 193,
+                    "endOffset": 347
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.08,
+                    "end": 38.61,
+                    "startOffset": 350,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.61,
+                    "end": 46.01,
+                    "startOffset": 543,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 46.01,
+                    "end": 59.230000000000004,
+                    "startOffset": 636,
+                    "endOffset": 852
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 59.230000000000004,
+                    "end": 67.89999999999999,
+                    "startOffset": 854,
+                    "endOffset": 978
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.89999999999999,
+                    "end": 79.72,
+                    "startOffset": 980,
+                    "endOffset": 1161
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 79.72,
+                    "end": 93.55999999999999,
+                    "startOffset": 1164,
+                    "endOffset": 1359
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 93.55999999999999,
+                    "end": 101.80999999999999,
+                    "startOffset": 1361,
+                    "endOffset": 1474
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 101.80999999999999,
+                    "end": 113.52,
+                    "startOffset": 1477,
+                    "endOffset": 1633
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Exodus Chapter 11 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "11-8b74c67667236dedd2650ff8aa662ba3",
+        "next": [
+            "EXO.12"
+        ],
+        "prev": [
+            "EXO.10"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.289999,
+                    "startOffset": 0,
+                    "endOffset": 191
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.289999,
+                    "end": 28.08,
+                    "startOffset": 193,
+                    "endOffset": 347
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.08,
+                    "end": 41.24,
+                    "startOffset": 350,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.24,
+                    "end": 50.339999,
+                    "startOffset": 543,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.339999,
+                    "end": 63.759999,
+                    "startOffset": 636,
+                    "endOffset": 852
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.759999,
+                    "end": 71.88999899999999,
+                    "startOffset": 854,
+                    "endOffset": 978
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.88999899999999,
+                    "end": 84.50999999999999,
+                    "startOffset": 980,
+                    "endOffset": 1161
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 84.50999999999999,
+                    "end": 98.7,
+                    "startOffset": 1164,
+                    "endOffset": 1359
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 98.7,
+                    "end": 107.91,
+                    "startOffset": 1361,
+                    "endOffset": 1474
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 107.91,
+                    "end": 124.464,
+                    "startOffset": 1477,
+                    "endOffset": 1633
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Psalms Chapter 21 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "21-9a2cb0f678ca4fbfbf4b562b115fa960",
+        "next": [
+            "PSA.22"
+        ],
+        "prev": [
+            "PSA.20"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.7,
+                    "startOffset": 0,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.7,
+                    "end": 22.25,
+                    "startOffset": 102,
+                    "endOffset": 193
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.25,
+                    "end": 29.71,
+                    "startOffset": 194,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.71,
+                    "end": 37.72,
+                    "startOffset": 287,
+                    "endOffset": 366
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.72,
+                    "end": 44.54,
+                    "startOffset": 368,
+                    "endOffset": 448
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.54,
+                    "end": 51.9,
+                    "startOffset": 450,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 51.9,
+                    "end": 58.91,
+                    "startOffset": 549,
+                    "endOffset": 642
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 58.91,
+                    "end": 64.44,
+                    "startOffset": 644,
+                    "endOffset": 726
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 64.44,
+                    "end": 74.63,
+                    "startOffset": 728,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 74.63,
+                    "end": 81.98,
+                    "startOffset": 868,
+                    "endOffset": 966
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 81.98,
+                    "end": 88.999999,
+                    "startOffset": 968,
+                    "endOffset": 1059
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 88.999999,
+                    "end": 96.86,
+                    "startOffset": 1061,
+                    "endOffset": 1173
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 96.86,
+                    "end": 105.6,
+                    "startOffset": 1175,
+                    "endOffset": 1251
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 21 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "21-2c7bd9c83c97acb5ab3fd19407906922",
+        "next": [
+            "PSA.22"
+        ],
+        "prev": [
+            "PSA.20"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.03,
+                    "startOffset": 0,
+                    "endOffset": 100
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.03,
+                    "end": 21.55,
+                    "startOffset": 102,
+                    "endOffset": 193
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.55,
+                    "end": 28.849999999999998,
+                    "startOffset": 194,
+                    "endOffset": 285
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.849999999999998,
+                    "end": 36.04,
+                    "startOffset": 287,
+                    "endOffset": 366
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.04,
+                    "end": 42.7,
+                    "startOffset": 368,
+                    "endOffset": 448
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 42.7,
+                    "end": 50.199999999999996,
+                    "startOffset": 450,
+                    "endOffset": 547
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 50.199999999999996,
+                    "end": 57.1,
+                    "startOffset": 549,
+                    "endOffset": 642
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 57.1,
+                    "end": 65.019999,
+                    "startOffset": 644,
+                    "endOffset": 726
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 65.019999,
+                    "end": 75.23,
+                    "startOffset": 728,
+                    "endOffset": 866
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 75.23,
+                    "end": 82.49000000000001,
+                    "startOffset": 868,
+                    "endOffset": 966
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 82.49000000000001,
+                    "end": 89.28,
+                    "startOffset": 968,
+                    "endOffset": 1059
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 89.28,
+                    "end": 96.75999999999999,
+                    "startOffset": 1061,
+                    "endOffset": 1173
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 96.75999999999999,
+                    "end": 109.68,
+                    "startOffset": 1175,
+                    "endOffset": 1251
+                }
+            }
+        ]
+    }
+]

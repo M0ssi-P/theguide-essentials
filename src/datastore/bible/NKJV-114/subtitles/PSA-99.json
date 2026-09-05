@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 99 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "99-ed9581d205fb5e5690d84bc96a978d5a",
+        "next": [
+            "PSA.100"
+        ],
+        "prev": [
+            "PSA.98"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.419998999999999,
+                    "startOffset": 0,
+                    "endOffset": 96
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.419998999999999,
+                    "end": 16.53,
+                    "startOffset": 98,
+                    "endOffset": 162
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.53,
+                    "end": 22.25,
+                    "startOffset": 164,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.25,
+                    "end": 31.84,
+                    "startOffset": 221,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 31.84,
+                    "end": 37.760000000000005,
+                    "startOffset": 344,
+                    "endOffset": 408
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 37.760000000000005,
+                    "end": 47.89,
+                    "startOffset": 410,
+                    "endOffset": 550
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 47.89,
+                    "end": 54.219999,
+                    "startOffset": 552,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 54.219999,
+                    "end": 63.369999,
+                    "startOffset": 649,
+                    "endOffset": 759
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 63.369999,
+                    "end": 73.416,
+                    "startOffset": 761,
+                    "endOffset": 843
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 99 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "99-9d22ce4ec54dd5265c22ad14ac9cbf28",
+        "next": [
+            "PSA.100"
+        ],
+        "prev": [
+            "PSA.98"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.25,
+                    "startOffset": 0,
+                    "endOffset": 96
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.25,
+                    "end": 17.169999,
+                    "startOffset": 98,
+                    "endOffset": 162
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.169999,
+                    "end": 22.88,
+                    "startOffset": 164,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.88,
+                    "end": 33.92,
+                    "startOffset": 221,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 33.92,
+                    "end": 41.17,
+                    "startOffset": 344,
+                    "endOffset": 408
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.17,
+                    "end": 52.410000999999994,
+                    "startOffset": 410,
+                    "endOffset": 550
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 52.410000999999994,
+                    "end": 60.99,
+                    "startOffset": 552,
+                    "endOffset": 647
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 60.99,
+                    "end": 72.06,
+                    "startOffset": 649,
+                    "endOffset": 759
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 72.06,
+                    "end": 85.512,
+                    "startOffset": 761,
+                    "endOffset": 843
+                }
+            }
+        ]
+    }
+]

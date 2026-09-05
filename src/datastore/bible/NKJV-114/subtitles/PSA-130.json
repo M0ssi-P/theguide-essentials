@@ -1,0 +1,178 @@
+[
+    {
+        "audioName": "Psalms Chapter 130 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "130-9e90682c069dea23fd6ff099eba73b94",
+        "next": [
+            "PSA.131"
+        ],
+        "prev": [
+            "PSA.129"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.03,
+                    "startOffset": 0,
+                    "endOffset": 45
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.03,
+                    "end": 15.62,
+                    "startOffset": 47,
+                    "endOffset": 127
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.62,
+                    "end": 21.61,
+                    "startOffset": 129,
+                    "endOffset": 190
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.61,
+                    "end": 25.95,
+                    "startOffset": 192,
+                    "endOffset": 251
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 25.95,
+                    "end": 32.5,
+                    "startOffset": 253,
+                    "endOffset": 314
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 32.5,
+                    "end": 40.78,
+                    "startOffset": 316,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 40.78,
+                    "end": 49.2,
+                    "startOffset": 434,
+                    "endOffset": 533
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 49.2,
+                    "end": 55.632,
+                    "startOffset": 535,
+                    "endOffset": 585
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 130 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "130-0b02c4ebb64369f1d97f7618ee216000",
+        "next": [
+            "PSA.131"
+        ],
+        "prev": [
+            "PSA.129"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.97,
+                    "startOffset": 0,
+                    "endOffset": 45
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.97,
+                    "end": 15.549999999999999,
+                    "startOffset": 47,
+                    "endOffset": 127
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.549999999999999,
+                    "end": 22.529999999999998,
+                    "startOffset": 129,
+                    "endOffset": 190
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 22.529999999999998,
+                    "end": 27.379999,
+                    "startOffset": 192,
+                    "endOffset": 251
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 27.379999,
+                    "end": 35.209999,
+                    "startOffset": 253,
+                    "endOffset": 314
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 35.209999,
+                    "end": 44.38,
+                    "startOffset": 316,
+                    "endOffset": 432
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 44.38,
+                    "end": 55.069998999999996,
+                    "startOffset": 434,
+                    "endOffset": 533
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 55.069998999999996,
+                    "end": 64.56,
+                    "startOffset": 535,
+                    "endOffset": 585
+                }
+            }
+        ]
+    }
+]

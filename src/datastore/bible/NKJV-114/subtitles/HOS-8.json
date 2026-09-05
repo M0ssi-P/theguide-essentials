@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "Hosea Chapter 8 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "8-1de941cca9fc153f9939bbd7a1ee2e77",
+        "next": [
+            "HOS.9"
+        ],
+        "prev": [
+            "HOS.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.049999,
+                    "startOffset": 1,
+                    "endOffset": 164
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.049999,
+                    "end": 18.799999,
+                    "startOffset": 166,
+                    "endOffset": 209
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 18.799999,
+                    "end": 23.51,
+                    "startOffset": 212,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.51,
+                    "end": 37.50000000000001,
+                    "startOffset": 270,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.50000000000001,
+                    "end": 47.48,
+                    "startOffset": 442,
+                    "endOffset": 549
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 47.48,
+                    "end": 57.89,
+                    "startOffset": 551,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 57.89,
+                    "end": 70.2,
+                    "startOffset": 671,
+                    "endOffset": 813
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 70.2,
+                    "end": 77.53999999999999,
+                    "startOffset": 815,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 77.53999999999999,
+                    "end": 85.80999899999999,
+                    "startOffset": 910,
+                    "endOffset": 1005
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 85.80999899999999,
+                    "end": 96.38,
+                    "startOffset": 1007,
+                    "endOffset": 1154
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 96.38,
+                    "end": 103.61999999999999,
+                    "startOffset": 1157,
+                    "endOffset": 1246
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 103.61999999999999,
+                    "end": 110.17,
+                    "startOffset": 1248,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 110.17,
+                    "end": 125.429999,
+                    "startOffset": 1341,
+                    "endOffset": 1529
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 125.429999,
+                    "end": 141.216,
+                    "startOffset": 1532,
+                    "endOffset": 1704
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Hosea Chapter 8 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "8-e0406080ebf149b1a8e978d882c56ea3",
+        "next": [
+            "HOS.9"
+        ],
+        "prev": [
+            "HOS.7"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.479999999999999,
+                    "startOffset": 1,
+                    "endOffset": 164
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.479999999999999,
+                    "end": 16.74,
+                    "startOffset": 166,
+                    "endOffset": 209
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.74,
+                    "end": 21.71,
+                    "startOffset": 212,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.71,
+                    "end": 36.729999,
+                    "startOffset": 270,
+                    "endOffset": 440
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.729999,
+                    "end": 47.06,
+                    "startOffset": 442,
+                    "endOffset": 549
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 47.06,
+                    "end": 58.03,
+                    "startOffset": 551,
+                    "endOffset": 668
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 58.03,
+                    "end": 71.35999899999999,
+                    "startOffset": 671,
+                    "endOffset": 813
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 71.35999899999999,
+                    "end": 79.3,
+                    "startOffset": 815,
+                    "endOffset": 908
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 79.3,
+                    "end": 88.25999999999999,
+                    "startOffset": 910,
+                    "endOffset": 1005
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 88.25999999999999,
+                    "end": 99.759999,
+                    "startOffset": 1007,
+                    "endOffset": 1154
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 99.759999,
+                    "end": 107.89,
+                    "startOffset": 1157,
+                    "endOffset": 1246
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 107.89,
+                    "end": 115.30000000000001,
+                    "startOffset": 1248,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 115.30000000000001,
+                    "end": 131.04,
+                    "startOffset": 1341,
+                    "endOffset": 1529
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 131.04,
+                    "end": 152.4,
+                    "startOffset": 1532,
+                    "endOffset": 1704
+                }
+            }
+        ]
+    }
+]

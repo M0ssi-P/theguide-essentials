@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Isaiah Chapter 46 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "46-4c0b3665f421eeb6d540970dda7f72a1",
+        "next": [
+            "ISA.47"
+        ],
+        "prev": [
+            "ISA.45"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.489999,
+                    "startOffset": 0,
+                    "endOffset": 141
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.489999,
+                    "end": 23.55,
+                    "startOffset": 143,
+                    "endOffset": 253
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 23.55,
+                    "end": 33.92,
+                    "startOffset": 256,
+                    "endOffset": 407
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 33.92,
+                    "end": 45.93,
+                    "startOffset": 409,
+                    "endOffset": 550
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.93,
+                    "end": 52,
+                    "startOffset": 553,
+                    "endOffset": 637
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52,
+                    "end": 63.97,
+                    "startOffset": 639,
+                    "endOffset": 794
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 63.97,
+                    "end": 77.85,
+                    "startOffset": 796,
+                    "endOffset": 994
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 77.85,
+                    "end": 85.50999999999999,
+                    "startOffset": 997,
+                    "endOffset": 1072
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.50999999999999,
+                    "end": 95.85000000000001,
+                    "startOffset": 1074,
+                    "endOffset": 1184
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 95.85000000000001,
+                    "end": 107.19,
+                    "startOffset": 1186,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.19,
+                    "end": 122.199999,
+                    "startOffset": 1342,
+                    "endOffset": 1525
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 122.199999,
+                    "end": 127.45,
+                    "startOffset": 1528,
+                    "endOffset": 1594
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 127.45,
+                    "end": 140.568,
+                    "startOffset": 1596,
+                    "endOffset": 1738
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 46 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "46-6916ea563367348a5789d4f2b12d2a79",
+        "next": [
+            "ISA.47"
+        ],
+        "prev": [
+            "ISA.45"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.099999,
+                    "startOffset": 0,
+                    "endOffset": 141
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.099999,
+                    "end": 26.04,
+                    "startOffset": 143,
+                    "endOffset": 253
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 26.04,
+                    "end": 38.900000000000006,
+                    "startOffset": 256,
+                    "endOffset": 407
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.900000000000006,
+                    "end": 52.58,
+                    "startOffset": 409,
+                    "endOffset": 550
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 52.58,
+                    "end": 60.56,
+                    "startOffset": 553,
+                    "endOffset": 637
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 60.56,
+                    "end": 74.72,
+                    "startOffset": 639,
+                    "endOffset": 794
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 74.72,
+                    "end": 91.34,
+                    "startOffset": 796,
+                    "endOffset": 994
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 91.34,
+                    "end": 99.77,
+                    "startOffset": 997,
+                    "endOffset": 1072
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 99.77,
+                    "end": 109.16,
+                    "startOffset": 1074,
+                    "endOffset": 1184
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 109.16,
+                    "end": 122.02000000000001,
+                    "startOffset": 1186,
+                    "endOffset": 1339
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 122.02000000000001,
+                    "end": 139.07000000000002,
+                    "startOffset": 1342,
+                    "endOffset": 1525
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 139.07000000000002,
+                    "end": 145.08,
+                    "startOffset": 1528,
+                    "endOffset": 1594
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 145.08,
+                    "end": 164.616,
+                    "startOffset": 1596,
+                    "endOffset": 1738
+                }
+            }
+        ]
+    }
+]

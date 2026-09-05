@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "II John Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-c5336ad14ac15073a502de0136b1a022",
+        "next": [
+            "3JN.1"
+        ],
+        "prev": [
+            "1JN.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.969999999999999,
+                    "startOffset": 0,
+                    "endOffset": 128
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.969999999999999,
+                    "end": 17.63,
+                    "startOffset": 130,
+                    "endOffset": 197
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 17.63,
+                    "end": 27.759999999999998,
+                    "startOffset": 199,
+                    "endOffset": 332
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 27.759999999999998,
+                    "end": 35.049999,
+                    "startOffset": 334,
+                    "endOffset": 453
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.049999,
+                    "end": 44.829998999999994,
+                    "startOffset": 455,
+                    "endOffset": 606
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.829998999999994,
+                    "end": 54.39,
+                    "startOffset": 608,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 54.39,
+                    "end": 64.9,
+                    "startOffset": 757,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 64.9,
+                    "end": 72.08,
+                    "startOffset": 899,
+                    "endOffset": 1004
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 72.08,
+                    "end": 83.28999999999999,
+                    "startOffset": 1006,
+                    "endOffset": 1162
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 83.28999999999999,
+                    "end": 90.679999,
+                    "startOffset": 1164,
+                    "endOffset": 1269
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 90.679999,
+                    "end": 94.33,
+                    "startOffset": 1271,
+                    "endOffset": 1317
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 94.33,
+                    "end": 104.809999,
+                    "startOffset": 1319,
+                    "endOffset": 1475
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 104.809999,
+                    "end": 110.712,
+                    "startOffset": 1477,
+                    "endOffset": 1526
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II John Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-913ca920048de4b526722f642a773b81",
+        "next": [
+            "3JN.1"
+        ],
+        "prev": [
+            "1JN.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.69,
+                    "startOffset": 0,
+                    "endOffset": 128
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.69,
+                    "end": 19.64,
+                    "startOffset": 130,
+                    "endOffset": 197
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.64,
+                    "end": 30.779999,
+                    "startOffset": 199,
+                    "endOffset": 332
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.779999,
+                    "end": 40.65,
+                    "startOffset": 334,
+                    "endOffset": 453
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 40.65,
+                    "end": 52.219998999999994,
+                    "startOffset": 455,
+                    "endOffset": 606
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.219998999999994,
+                    "end": 64.31,
+                    "startOffset": 608,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 64.31,
+                    "end": 76.31,
+                    "startOffset": 757,
+                    "endOffset": 897
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 76.31,
+                    "end": 85.23,
+                    "startOffset": 899,
+                    "endOffset": 1004
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.23,
+                    "end": 99.77000000000001,
+                    "startOffset": 1006,
+                    "endOffset": 1162
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 99.77000000000001,
+                    "end": 108.47999999999999,
+                    "startOffset": 1164,
+                    "endOffset": 1269
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.47999999999999,
+                    "end": 113.24,
+                    "startOffset": 1271,
+                    "endOffset": 1317
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 113.24,
+                    "end": 127.57,
+                    "startOffset": 1319,
+                    "endOffset": 1475
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 127.57,
+                    "end": 137.712,
+                    "startOffset": 1477,
+                    "endOffset": 1526
+                }
+            }
+        ]
+    }
+]

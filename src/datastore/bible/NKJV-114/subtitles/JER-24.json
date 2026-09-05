@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Jeremiah Chapter 24 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "24-987d80fee1296cbf935911d4e8bcd964",
+        "next": [
+            "JER.25"
+        ],
+        "prev": [
+            "JER.23"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 23.880000000000003,
+                    "startOffset": 0,
+                    "endOffset": 301
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 23.880000000000003,
+                    "end": 33.719999,
+                    "startOffset": 303,
+                    "endOffset": 451
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 33.719999,
+                    "end": 46.709999999999994,
+                    "startOffset": 453,
+                    "endOffset": 614
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 46.709999999999994,
+                    "end": 50.099999,
+                    "startOffset": 617,
+                    "endOffset": 662
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.099999,
+                    "end": 63.879999999999995,
+                    "startOffset": 665,
+                    "endOffset": 882
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.879999999999995,
+                    "end": 73.7,
+                    "startOffset": 884,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 73.7,
+                    "end": 84.03,
+                    "startOffset": 1053,
+                    "endOffset": 1219
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 84.03,
+                    "end": 99.82,
+                    "startOffset": 1222,
+                    "endOffset": 1458
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 99.82,
+                    "end": 111.43,
+                    "startOffset": 1460,
+                    "endOffset": 1634
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 111.43,
+                    "end": 122.496,
+                    "startOffset": 1636,
+                    "endOffset": 1780
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jeremiah Chapter 24 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "24-5d39030fcffce220e1b514781daf512d",
+        "next": [
+            "JER.25"
+        ],
+        "prev": [
+            "JER.23"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 22.46,
+                    "startOffset": 0,
+                    "endOffset": 301
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 22.46,
+                    "end": 34.949999,
+                    "startOffset": 303,
+                    "endOffset": 451
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 34.949999,
+                    "end": 50.489999,
+                    "startOffset": 453,
+                    "endOffset": 614
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 50.489999,
+                    "end": 54.449999,
+                    "startOffset": 617,
+                    "endOffset": 662
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 54.449999,
+                    "end": 68.27,
+                    "startOffset": 665,
+                    "endOffset": 882
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 68.27,
+                    "end": 79.99,
+                    "startOffset": 884,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.99,
+                    "end": 92.33,
+                    "startOffset": 1053,
+                    "endOffset": 1219
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 92.33,
+                    "end": 109.649999,
+                    "startOffset": 1222,
+                    "endOffset": 1458
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 109.649999,
+                    "end": 122.54,
+                    "startOffset": 1460,
+                    "endOffset": 1634
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 122.54,
+                    "end": 136.152,
+                    "startOffset": 1636,
+                    "endOffset": 1780
+                }
+            }
+        ]
+    }
+]

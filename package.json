@@ -1,0 +1,51 @@
+{
+  "name": "theguide_esentials",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.ts",
+  "types": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon --exec ts-node src/pipline.ts",
+    "dev": "nodemon --exec ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "@types/archiver": "^7.0.0",
+    "@types/backblaze-b2": "^1.5.6",
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/cors": "^2.8.19",
+    "@types/cryptojs": "^3.1.33",
+    "@types/express": "^5.0.6",
+    "@types/jsdom": "^30.0.0",
+    "@types/node": "^25.0.8",
+    "@types/xml2js": "^0.4.14",
+    "i": "^0.3.7",
+    "nodemon": "^3.1.11",
+    "npm": "^11.7.0",
+    "ts-node": "^10.9.2"
+  },
+  "dependencies": {
+    "@types/morgan": "^1.9.10",
+    "adm-zip": "^0.6.0",
+    "archiver": "^7.0.1",
+    "axios": "^1.13.2",
+    "backblaze-b2": "^1.7.1",
+    "better-sqlite3": "^12.6.2",
+    "body-parser": "^2.2.2",
+    "cheerio": "^1.1.2",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "cryptojs": "^2.5.3",
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "jsdom": "^29.1.1",
+    "morgan": "^1.10.1",
+    "music-metadata": "^11.12.1",
+    "uuid": "^13.0.0",
+    "xml2js": "^0.6.2"
+  }
+}

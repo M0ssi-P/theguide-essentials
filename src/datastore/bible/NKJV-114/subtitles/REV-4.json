@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Revelation Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-d165a8c215605c3c37060b854543e6af",
+        "next": [
+            "REV.5"
+        ],
+        "prev": [
+            "REV.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.2,
+                    "startOffset": 0,
+                    "endOffset": 227
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.2,
+                    "end": 28.54,
+                    "startOffset": 230,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.54,
+                    "end": 37.96,
+                    "startOffset": 326,
+                    "endOffset": 473
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.96,
+                    "end": 49.699999,
+                    "startOffset": 475,
+                    "endOffset": 638
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 49.699999,
+                    "end": 60.81,
+                    "startOffset": 640,
+                    "endOffset": 793
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 60.81,
+                    "end": 73.429999,
+                    "startOffset": 795,
+                    "endOffset": 968
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 73.429999,
+                    "end": 85.36999999999999,
+                    "startOffset": 970,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 85.36999999999999,
+                    "end": 104.60000000000001,
+                    "startOffset": 1158,
+                    "endOffset": 1355
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 104.60000000000001,
+                    "end": 112.85000000000001,
+                    "startOffset": 1358,
+                    "endOffset": 1477
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 112.85000000000001,
+                    "end": 124.64999999999999,
+                    "startOffset": 1479,
+                    "endOffset": 1637
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 124.64999999999999,
+                    "end": 137.832,
+                    "startOffset": 1640,
+                    "endOffset": 1774
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Revelation Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-62fe540df4ae7a9b32e1823295514204",
+        "next": [
+            "REV.5"
+        ],
+        "prev": [
+            "REV.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 23.19,
+                    "startOffset": 0,
+                    "endOffset": 227
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 23.19,
+                    "end": 34.95,
+                    "startOffset": 230,
+                    "endOffset": 324
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 34.95,
+                    "end": 48.33,
+                    "startOffset": 326,
+                    "endOffset": 473
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 48.33,
+                    "end": 64.69,
+                    "startOffset": 475,
+                    "endOffset": 638
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 64.69,
+                    "end": 78.89,
+                    "startOffset": 640,
+                    "endOffset": 793
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 78.89,
+                    "end": 95.36000000000001,
+                    "startOffset": 795,
+                    "endOffset": 968
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 95.36000000000001,
+                    "end": 111.35000000000001,
+                    "startOffset": 970,
+                    "endOffset": 1156
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 111.35000000000001,
+                    "end": 134.22,
+                    "startOffset": 1158,
+                    "endOffset": 1355
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 134.22,
+                    "end": 145.41,
+                    "startOffset": 1358,
+                    "endOffset": 1477
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 145.41,
+                    "end": 158.669999,
+                    "startOffset": 1479,
+                    "endOffset": 1637
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 158.669999,
+                    "end": 178.824,
+                    "startOffset": 1640,
+                    "endOffset": 1774
+                }
+            }
+        ]
+    }
+]

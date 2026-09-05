@@ -1,0 +1,160 @@
+[
+    {
+        "audioName": "Psalms Chapter 67 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "67-cdd3c2db4d9141b656199fc85e8d79c6",
+        "next": [
+            "PSA.68"
+        ],
+        "prev": [
+            "PSA.66"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.75,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.75,
+                    "end": 22.400000000000002,
+                    "startOffset": 80,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.400000000000002,
+                    "end": 28.08,
+                    "startOffset": 151,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 28.08,
+                    "end": 38.239999999999995,
+                    "startOffset": 218,
+                    "endOffset": 346
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 38.239999999999995,
+                    "end": 44.62,
+                    "startOffset": 151,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 44.62,
+                    "end": 50.8,
+                    "startOffset": 414,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 50.8,
+                    "end": 58.584,
+                    "startOffset": 489,
+                    "endOffset": 553
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 67 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "67-1ab378576b0f383901f4ef91dcc2f82f",
+        "next": [
+            "PSA.68"
+        ],
+        "prev": [
+            "PSA.66"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.77,
+                    "startOffset": 0,
+                    "endOffset": 79
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.77,
+                    "end": 20.33,
+                    "startOffset": 80,
+                    "endOffset": 149
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.33,
+                    "end": 25.55,
+                    "startOffset": 151,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.55,
+                    "end": 35.03000000000001,
+                    "startOffset": 218,
+                    "endOffset": 346
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.03000000000001,
+                    "end": 41.39,
+                    "startOffset": 151,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 41.39,
+                    "end": 46.16,
+                    "startOffset": 414,
+                    "endOffset": 487
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 46.16,
+                    "end": 55.632,
+                    "startOffset": 489,
+                    "endOffset": 553
+                }
+            }
+        ]
+    }
+]

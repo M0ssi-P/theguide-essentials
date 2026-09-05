@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "I Corinthians Chapter 13 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "13-232d6671af01f921a7ff76ff6bef5f27",
+        "next": [
+            "1CO.14"
+        ],
+        "prev": [
+            "1CO.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 13.69,
+                    "startOffset": 0,
+                    "endOffset": 122
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 13.69,
+                    "end": 27.26,
+                    "startOffset": 124,
+                    "endOffset": 309
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.26,
+                    "end": 37.119999,
+                    "startOffset": 311,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.119999,
+                    "end": 45.28,
+                    "startOffset": 445,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.28,
+                    "end": 51.78,
+                    "startOffset": 543,
+                    "endOffset": 621
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 51.78,
+                    "end": 56.11,
+                    "startOffset": 623,
+                    "endOffset": 678
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 56.11,
+                    "end": 62.49,
+                    "startOffset": 680,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 62.49,
+                    "end": 73.87,
+                    "startOffset": 757,
+                    "endOffset": 919
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 73.87,
+                    "end": 77.56,
+                    "startOffset": 921,
+                    "endOffset": 964
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 77.56,
+                    "end": 83.129999,
+                    "startOffset": 966,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 83.129999,
+                    "end": 94.03,
+                    "startOffset": 1053,
+                    "endOffset": 1191
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 94.03,
+                    "end": 104.56,
+                    "startOffset": 1193,
+                    "endOffset": 1316
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 104.56,
+                    "end": 115.44,
+                    "startOffset": 1318,
+                    "endOffset": 1397
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I Corinthians Chapter 13 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "13-38636d7ce623a1d45f7ff5a2d53d0308",
+        "next": [
+            "1CO.14"
+        ],
+        "prev": [
+            "1CO.12"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.76,
+                    "startOffset": 0,
+                    "endOffset": 122
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.76,
+                    "end": 27.94,
+                    "startOffset": 124,
+                    "endOffset": 309
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.94,
+                    "end": 39.11,
+                    "startOffset": 311,
+                    "endOffset": 443
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 39.11,
+                    "end": 52.16,
+                    "startOffset": 445,
+                    "endOffset": 541
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 52.16,
+                    "end": 61.54,
+                    "startOffset": 543,
+                    "endOffset": 621
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.54,
+                    "end": 67.2,
+                    "startOffset": 623,
+                    "endOffset": 678
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.2,
+                    "end": 76.73,
+                    "startOffset": 680,
+                    "endOffset": 755
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 76.73,
+                    "end": 93.67,
+                    "startOffset": 757,
+                    "endOffset": 919
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 93.67,
+                    "end": 99.43,
+                    "startOffset": 921,
+                    "endOffset": 964
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 99.43,
+                    "end": 107.659999,
+                    "startOffset": 966,
+                    "endOffset": 1051
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.659999,
+                    "end": 123.919999,
+                    "startOffset": 1053,
+                    "endOffset": 1191
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 123.919999,
+                    "end": 140.66,
+                    "startOffset": 1193,
+                    "endOffset": 1316
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 140.66,
+                    "end": 156.816,
+                    "startOffset": 1318,
+                    "endOffset": 1397
+                }
+            }
+        ]
+    }
+]

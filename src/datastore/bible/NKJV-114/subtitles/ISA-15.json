@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Isaiah Chapter 15 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "15-ec4dbf1b9f5233961d2cfe0307a3da7c",
+        "next": [
+            "ISA.16"
+        ],
+        "prev": [
+            "ISA.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.79,
+                    "startOffset": 0,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.79,
+                    "end": 31.12,
+                    "startOffset": 148,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.12,
+                    "end": 41.18,
+                    "startOffset": 321,
+                    "endOffset": 467
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 41.18,
+                    "end": 55.089999999999996,
+                    "startOffset": 469,
+                    "endOffset": 632
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.089999999999996,
+                    "end": 71.209999,
+                    "startOffset": 635,
+                    "endOffset": 856
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 71.209999,
+                    "end": 79.84,
+                    "startOffset": 858,
+                    "endOffset": 979
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 79.84,
+                    "end": 87.429999,
+                    "startOffset": 981,
+                    "endOffset": 1099
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 87.429999,
+                    "end": 95.35,
+                    "startOffset": 1101,
+                    "endOffset": 1204
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 95.35,
+                    "end": 109.008,
+                    "startOffset": 1206,
+                    "endOffset": 1359
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 15 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "15-4e770c43f8540db8df34d797fdffccb4",
+        "next": [
+            "ISA.16"
+        ],
+        "prev": [
+            "ISA.14"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 16.349999,
+                    "startOffset": 0,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 16.349999,
+                    "end": 32.4,
+                    "startOffset": 148,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 32.4,
+                    "end": 43.830000000000005,
+                    "startOffset": 321,
+                    "endOffset": 467
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 43.830000000000005,
+                    "end": 58.510000000000005,
+                    "startOffset": 469,
+                    "endOffset": 632
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 58.510000000000005,
+                    "end": 78.71,
+                    "startOffset": 635,
+                    "endOffset": 856
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 78.71,
+                    "end": 89.249999,
+                    "startOffset": 858,
+                    "endOffset": 979
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 89.249999,
+                    "end": 97.1,
+                    "startOffset": 981,
+                    "endOffset": 1099
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 97.1,
+                    "end": 106.45,
+                    "startOffset": 1101,
+                    "endOffset": 1204
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 106.45,
+                    "end": 124.152,
+                    "startOffset": 1206,
+                    "endOffset": 1359
+                }
+            }
+        ]
+    }
+]

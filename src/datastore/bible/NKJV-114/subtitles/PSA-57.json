@@ -1,0 +1,232 @@
+[
+    {
+        "audioName": "Psalms Chapter 57 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "57-8fbaa226bbf1d7db58b13af6093263c1",
+        "next": [
+            "PSA.58"
+        ],
+        "prev": [
+            "PSA.56"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 26.76,
+                    "startOffset": 0,
+                    "endOffset": 164
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 26.76,
+                    "end": 32.730000000000004,
+                    "startOffset": 166,
+                    "endOffset": 237
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 32.730000000000004,
+                    "end": 44.370000000000005,
+                    "startOffset": 239,
+                    "endOffset": 375
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 44.370000000000005,
+                    "end": 56.33,
+                    "startOffset": 377,
+                    "endOffset": 515
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 56.33,
+                    "end": 62.87,
+                    "startOffset": 517,
+                    "endOffset": 592
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 62.87,
+                    "end": 76.71000000000001,
+                    "startOffset": 594,
+                    "endOffset": 742
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 76.71000000000001,
+                    "end": 85.869999,
+                    "startOffset": 743,
+                    "endOffset": 823
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 85.869999,
+                    "end": 92.5,
+                    "startOffset": 825,
+                    "endOffset": 886
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 92.5,
+                    "end": 98.47,
+                    "startOffset": 888,
+                    "endOffset": 970
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 98.47,
+                    "end": 104.01,
+                    "startOffset": 972,
+                    "endOffset": 1043
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 104.01,
+                    "end": 113.04,
+                    "startOffset": 517,
+                    "endOffset": 592
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 57 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "57-385e143f7ed96806a9a5553d9848daa3",
+        "next": [
+            "PSA.58"
+        ],
+        "prev": [
+            "PSA.56"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 24.97,
+                    "startOffset": 0,
+                    "endOffset": 164
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 24.97,
+                    "end": 31.409999999999997,
+                    "startOffset": 166,
+                    "endOffset": 237
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 31.409999999999997,
+                    "end": 44.41,
+                    "startOffset": 239,
+                    "endOffset": 375
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 44.41,
+                    "end": 57.36,
+                    "startOffset": 377,
+                    "endOffset": 515
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 57.36,
+                    "end": 63.32,
+                    "startOffset": 517,
+                    "endOffset": 592
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 63.32,
+                    "end": 77.86,
+                    "startOffset": 594,
+                    "endOffset": 742
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 77.86,
+                    "end": 86.14,
+                    "startOffset": 743,
+                    "endOffset": 823
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 86.14,
+                    "end": 92.78,
+                    "startOffset": 825,
+                    "endOffset": 886
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 92.78,
+                    "end": 100.11,
+                    "startOffset": 888,
+                    "endOffset": 970
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 100.11,
+                    "end": 106.309999,
+                    "startOffset": 972,
+                    "endOffset": 1043
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 106.309999,
+                    "end": 118.152,
+                    "startOffset": 517,
+                    "endOffset": 592
+                }
+            }
+        ]
+    }
+]

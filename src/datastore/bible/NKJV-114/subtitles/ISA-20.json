@@ -1,0 +1,142 @@
+[
+    {
+        "audioName": "Isaiah Chapter 20 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "20-b748319b18b70a799e216cb0dd76f34d",
+        "next": [
+            "ISA.21"
+        ],
+        "prev": [
+            "ISA.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.8,
+                    "startOffset": 0,
+                    "endOffset": 122
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.8,
+                    "end": 27.849999999999998,
+                    "startOffset": 124,
+                    "endOffset": 316
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.849999999999998,
+                    "end": 38.59,
+                    "startOffset": 318,
+                    "endOffset": 457
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 38.59,
+                    "end": 53.49,
+                    "startOffset": 459,
+                    "endOffset": 644
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 53.49,
+                    "end": 61.18,
+                    "startOffset": 646,
+                    "endOffset": 735
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.18,
+                    "end": 76.584,
+                    "startOffset": 737,
+                    "endOffset": 920
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 20 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "20-ebb215098bb54a87d8222b3c225a9496",
+        "next": [
+            "ISA.21"
+        ],
+        "prev": [
+            "ISA.19"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 11.22,
+                    "startOffset": 0,
+                    "endOffset": 122
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 11.22,
+                    "end": 28.12,
+                    "startOffset": 124,
+                    "endOffset": 316
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.12,
+                    "end": 40.5,
+                    "startOffset": 318,
+                    "endOffset": 457
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 40.5,
+                    "end": 55.65,
+                    "startOffset": 459,
+                    "endOffset": 644
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 55.65,
+                    "end": 64.03,
+                    "startOffset": 646,
+                    "endOffset": 735
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 64.03,
+                    "end": 83.568,
+                    "startOffset": 737,
+                    "endOffset": 920
+                }
+            }
+        ]
+    }
+]

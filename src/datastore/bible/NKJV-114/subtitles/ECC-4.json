@@ -1,0 +1,322 @@
+[
+    {
+        "audioName": "Ecclesiastes Chapter 4 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "4-e3552c850d47667a9f37fca99c912ffb",
+        "next": [
+            "ECC.5"
+        ],
+        "prev": [
+            "ECC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 20.38,
+                    "startOffset": 0,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 20.38,
+                    "end": 27.389999,
+                    "startOffset": 221,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.389999,
+                    "end": 36.109999,
+                    "startOffset": 315,
+                    "endOffset": 424
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.109999,
+                    "end": 47.629999000000005,
+                    "startOffset": 426,
+                    "endOffset": 559
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.629999000000005,
+                    "end": 52.18,
+                    "startOffset": 561,
+                    "endOffset": 612
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.18,
+                    "end": 59.27,
+                    "startOffset": 614,
+                    "endOffset": 713
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.27,
+                    "end": 64.2,
+                    "startOffset": 715,
+                    "endOffset": 762
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 64.2,
+                    "end": 85.92,
+                    "startOffset": 764,
+                    "endOffset": 1024
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 85.92,
+                    "end": 91.79,
+                    "startOffset": 1026,
+                    "endOffset": 1098
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 91.79,
+                    "end": 100.829999,
+                    "startOffset": 1100,
+                    "endOffset": 1227
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 100.829999,
+                    "end": 108.119999,
+                    "startOffset": 1229,
+                    "endOffset": 1312
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 108.119999,
+                    "end": 116.92999999999999,
+                    "startOffset": 1314,
+                    "endOffset": 1421
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 116.92999999999999,
+                    "end": 124.23999900000001,
+                    "startOffset": 1423,
+                    "endOffset": 1511
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 124.23999900000001,
+                    "end": 129.72,
+                    "startOffset": 1513,
+                    "endOffset": 1592
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 129.72,
+                    "end": 136.5,
+                    "startOffset": 1594,
+                    "endOffset": 1694
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 136.5,
+                    "end": 151.488,
+                    "startOffset": 1696,
+                    "endOffset": 1866
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ecclesiastes Chapter 4 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "4-a24eec3ffbf0b0839e76bc26238e078f",
+        "next": [
+            "ECC.5"
+        ],
+        "prev": [
+            "ECC.3"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 19.55,
+                    "startOffset": 0,
+                    "endOffset": 219
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 19.55,
+                    "end": 27.72,
+                    "startOffset": 221,
+                    "endOffset": 313
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.72,
+                    "end": 37.410000000000004,
+                    "startOffset": 315,
+                    "endOffset": 424
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 37.410000000000004,
+                    "end": 51.619999,
+                    "startOffset": 426,
+                    "endOffset": 559
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 51.619999,
+                    "end": 57.15,
+                    "startOffset": 561,
+                    "endOffset": 612
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 57.15,
+                    "end": 65.62,
+                    "startOffset": 614,
+                    "endOffset": 713
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 65.62,
+                    "end": 71.929999,
+                    "startOffset": 715,
+                    "endOffset": 762
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 71.929999,
+                    "end": 96.25,
+                    "startOffset": 764,
+                    "endOffset": 1024
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 96.25,
+                    "end": 103.11,
+                    "startOffset": 1026,
+                    "endOffset": 1098
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 103.11,
+                    "end": 114.03,
+                    "startOffset": 1100,
+                    "endOffset": 1227
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 114.03,
+                    "end": 122.27,
+                    "startOffset": 1229,
+                    "endOffset": 1312
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 122.27,
+                    "end": 132.85999999999999,
+                    "startOffset": 1314,
+                    "endOffset": 1421
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 132.85999999999999,
+                    "end": 143.129999,
+                    "startOffset": 1423,
+                    "endOffset": 1511
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 143.129999,
+                    "end": 149.42,
+                    "startOffset": 1513,
+                    "endOffset": 1592
+                }
+            },
+            {
+                "verse": "15",
+                "timing": {
+                    "start": 149.42,
+                    "end": 158.07,
+                    "startOffset": 1594,
+                    "endOffset": 1694
+                }
+            },
+            {
+                "verse": "16",
+                "timing": {
+                    "start": 158.07,
+                    "end": 176.64,
+                    "startOffset": 1696,
+                    "endOffset": 1866
+                }
+            }
+        ]
+    }
+]

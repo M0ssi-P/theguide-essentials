@@ -1,0 +1,196 @@
+[
+    {
+        "audioName": "Psalms Chapter 113 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "113-64b1e92acad236776cbba3ea455f6d62",
+        "next": [
+            "PSA.114"
+        ],
+        "prev": [
+            "PSA.112"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 10.1,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 10.1,
+                    "end": 14.209999,
+                    "startOffset": 78,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.209999,
+                    "end": 21.349999999999998,
+                    "startOffset": 148,
+                    "endOffset": 225
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 21.349999999999998,
+                    "end": 26.43,
+                    "startOffset": 227,
+                    "endOffset": 292
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 26.43,
+                    "end": 30.629998999999998,
+                    "startOffset": 294,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.629998999999998,
+                    "end": 35.789998999999995,
+                    "startOffset": 344,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 35.789998999999995,
+                    "end": 41.83,
+                    "startOffset": 430,
+                    "endOffset": 505
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 41.83,
+                    "end": 46.720000000000006,
+                    "startOffset": 507,
+                    "endOffset": 572
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 46.720000000000006,
+                    "end": 55.68,
+                    "startOffset": 574,
+                    "endOffset": 658
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Psalms Chapter 113 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "113-39ce61676939c9557ba19c411c84cbe5",
+        "next": [
+            "PSA.114"
+        ],
+        "prev": [
+            "PSA.112"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.33,
+                    "startOffset": 0,
+                    "endOffset": 76
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.33,
+                    "end": 14.36,
+                    "startOffset": 78,
+                    "endOffset": 146
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 14.36,
+                    "end": 20.01,
+                    "startOffset": 148,
+                    "endOffset": 225
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 20.01,
+                    "end": 25.87,
+                    "startOffset": 227,
+                    "endOffset": 292
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 25.87,
+                    "end": 30.079999,
+                    "startOffset": 294,
+                    "endOffset": 342
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 30.079999,
+                    "end": 35.199999999999996,
+                    "startOffset": 344,
+                    "endOffset": 428
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 35.199999999999996,
+                    "end": 42.57000000000001,
+                    "startOffset": 430,
+                    "endOffset": 505
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 42.57000000000001,
+                    "end": 47.76,
+                    "startOffset": 507,
+                    "endOffset": 572
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 47.76,
+                    "end": 61.152,
+                    "startOffset": 574,
+                    "endOffset": 658
+                }
+            }
+        ]
+    }
+]

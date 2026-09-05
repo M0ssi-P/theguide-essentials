@@ -1,0 +1,268 @@
+[
+    {
+        "audioName": "Song of Solomon Chapter 7 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "7-9631ed18c9488f417b015f0a605228ab",
+        "next": [
+            "SNG.8"
+        ],
+        "prev": [
+            "SNG.6"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 17.67,
+                    "startOffset": 0,
+                    "endOffset": 147
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 17.67,
+                    "end": 27.31,
+                    "startOffset": 149,
+                    "endOffset": 262
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.31,
+                    "end": 32.519999,
+                    "startOffset": 264,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 32.519999,
+                    "end": 44.81,
+                    "startOffset": 321,
+                    "endOffset": 485
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 44.81,
+                    "end": 54.439999,
+                    "startOffset": 487,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 54.439999,
+                    "end": 59.93,
+                    "startOffset": 609,
+                    "endOffset": 670
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.93,
+                    "end": 65.42999999999999,
+                    "startOffset": 672,
+                    "endOffset": 749
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 65.42999999999999,
+                    "end": 77.42,
+                    "startOffset": 751,
+                    "endOffset": 917
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 77.42,
+                    "end": 90.06999900000001,
+                    "startOffset": 919,
+                    "endOffset": 1045
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 90.06999900000001,
+                    "end": 94.43,
+                    "startOffset": 1047,
+                    "endOffset": 1093
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 94.43,
+                    "end": 100.74000000000001,
+                    "startOffset": 1095,
+                    "endOffset": 1171
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 100.74000000000001,
+                    "end": 112.45,
+                    "startOffset": 1173,
+                    "endOffset": 1347
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 112.45,
+                    "end": 125.208,
+                    "startOffset": 1349,
+                    "endOffset": 1488
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Song of Solomon Chapter 7 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "7-2f935b8b7f6ef32645af5186d41ee60e",
+        "next": [
+            "SNG.8"
+        ],
+        "prev": [
+            "SNG.6"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.879999999999999,
+                    "startOffset": 0,
+                    "endOffset": 147
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.879999999999999,
+                    "end": 28.879999,
+                    "startOffset": 149,
+                    "endOffset": 262
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 28.879999,
+                    "end": 34.389998999999996,
+                    "startOffset": 264,
+                    "endOffset": 319
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.389998999999996,
+                    "end": 50.23,
+                    "startOffset": 321,
+                    "endOffset": 485
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 50.23,
+                    "end": 61.790000000000006,
+                    "startOffset": 487,
+                    "endOffset": 607
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 61.790000000000006,
+                    "end": 67.93,
+                    "startOffset": 609,
+                    "endOffset": 670
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 67.93,
+                    "end": 74.64,
+                    "startOffset": 672,
+                    "endOffset": 749
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.64,
+                    "end": 89.95999900000001,
+                    "startOffset": 751,
+                    "endOffset": 917
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 89.95999900000001,
+                    "end": 105.22,
+                    "startOffset": 919,
+                    "endOffset": 1045
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 105.22,
+                    "end": 110.55,
+                    "startOffset": 1047,
+                    "endOffset": 1093
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 110.55,
+                    "end": 118.00999999999999,
+                    "startOffset": 1095,
+                    "endOffset": 1171
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 118.00999999999999,
+                    "end": 132.26,
+                    "startOffset": 1173,
+                    "endOffset": 1347
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 132.26,
+                    "end": 149.568,
+                    "startOffset": 1349,
+                    "endOffset": 1488
+                }
+            }
+        ]
+    }
+]

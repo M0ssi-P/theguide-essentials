@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "III John Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-4998a307106e8d3e4d0e24f972e9d5be",
+        "next": [
+            "JUD.1"
+        ],
+        "prev": [
+            "2JN.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.72,
+                    "startOffset": 0,
+                    "endOffset": 53
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.72,
+                    "end": 15.91,
+                    "startOffset": 55,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.91,
+                    "end": 23.53,
+                    "startOffset": 152,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 23.53,
+                    "end": 27.8,
+                    "startOffset": 269,
+                    "endOffset": 334
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 27.8,
+                    "end": 33.96,
+                    "startOffset": 336,
+                    "endOffset": 413
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 33.96,
+                    "end": 43.160000000000004,
+                    "startOffset": 415,
+                    "endOffset": 555
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 43.160000000000004,
+                    "end": 47.35,
+                    "startOffset": 557,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 47.35,
+                    "end": 53.57000000000001,
+                    "startOffset": 636,
+                    "endOffset": 719
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 53.57000000000001,
+                    "end": 61.86,
+                    "startOffset": 721,
+                    "endOffset": 825
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 61.86,
+                    "end": 77.52,
+                    "startOffset": 827,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 77.52,
+                    "end": 88.04,
+                    "startOffset": 1067,
+                    "endOffset": 1188
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 88.04,
+                    "end": 97.59,
+                    "startOffset": 1190,
+                    "endOffset": 1323
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 97.59,
+                    "end": 102.89999999999999,
+                    "startOffset": 1325,
+                    "endOffset": 1403
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 102.89999999999999,
+                    "end": 113.544,
+                    "startOffset": 1405,
+                    "endOffset": 1531
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "III John Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-27ea917e82fcfcd1e1c7647bb5f088ca",
+        "next": [
+            "JUD.1"
+        ],
+        "prev": [
+            "2JN.1"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 7.98,
+                    "startOffset": 0,
+                    "endOffset": 53
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 7.98,
+                    "end": 16.759999999999998,
+                    "startOffset": 55,
+                    "endOffset": 150
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.759999999999998,
+                    "end": 25.21,
+                    "startOffset": 152,
+                    "endOffset": 267
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 25.21,
+                    "end": 30.830000000000002,
+                    "startOffset": 269,
+                    "endOffset": 334
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 30.830000000000002,
+                    "end": 38.24,
+                    "startOffset": 336,
+                    "endOffset": 413
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 38.24,
+                    "end": 48.63,
+                    "startOffset": 415,
+                    "endOffset": 555
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 48.63,
+                    "end": 53.879999,
+                    "startOffset": 557,
+                    "endOffset": 634
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 53.879999,
+                    "end": 61.11,
+                    "startOffset": 636,
+                    "endOffset": 719
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 61.11,
+                    "end": 69.959999,
+                    "startOffset": 721,
+                    "endOffset": 825
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 69.959999,
+                    "end": 88.139999,
+                    "startOffset": 827,
+                    "endOffset": 1065
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 88.139999,
+                    "end": 100.559999,
+                    "startOffset": 1067,
+                    "endOffset": 1188
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 100.559999,
+                    "end": 112.39,
+                    "startOffset": 1190,
+                    "endOffset": 1323
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 112.39,
+                    "end": 118.89,
+                    "startOffset": 1325,
+                    "endOffset": 1403
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 118.89,
+                    "end": 135.24,
+                    "startOffset": 1405,
+                    "endOffset": 1531
+                }
+            }
+        ]
+    }
+]

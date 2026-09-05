@@ -1,0 +1,286 @@
+[
+    {
+        "audioName": "I Peter Chapter 5 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "5-4945de965fecfc5aa9e06a0cb4cfce75",
+        "next": [
+            "2PE.1"
+        ],
+        "prev": [
+            "1PE.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.879999999999999,
+                    "startOffset": 0,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.879999999999999,
+                    "end": 24.96,
+                    "startOffset": 162,
+                    "endOffset": 297
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 24.96,
+                    "end": 30.409999999999997,
+                    "startOffset": 299,
+                    "endOffset": 378
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.409999999999997,
+                    "end": 36.730000000000004,
+                    "startOffset": 380,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 36.730000000000004,
+                    "end": 52.229999,
+                    "startOffset": 478,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 52.229999,
+                    "end": 59.589999999999996,
+                    "startOffset": 677,
+                    "endOffset": 768
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 59.589999999999996,
+                    "end": 63.6,
+                    "startOffset": 770,
+                    "endOffset": 822
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 63.6,
+                    "end": 72.87,
+                    "startOffset": 824,
+                    "endOffset": 939
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 72.87,
+                    "end": 80.43,
+                    "startOffset": 941,
+                    "endOffset": 1058
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 80.43,
+                    "end": 92.48,
+                    "startOffset": 1060,
+                    "endOffset": 1221
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 92.48,
+                    "end": 97.84,
+                    "startOffset": 1223,
+                    "endOffset": 1282
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 97.84,
+                    "end": 109.77,
+                    "startOffset": 1284,
+                    "endOffset": 1446
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 109.77,
+                    "end": 116.63,
+                    "startOffset": 1448,
+                    "endOffset": 1533
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 116.63,
+                    "end": 125.712,
+                    "startOffset": 1535,
+                    "endOffset": 1620
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "I Peter Chapter 5 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "5-bdc37c988358d4a6b2943ebd3a5b2b1e",
+        "next": [
+            "2PE.1"
+        ],
+        "prev": [
+            "1PE.4"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 14.67,
+                    "startOffset": 0,
+                    "endOffset": 160
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 14.67,
+                    "end": 27.14,
+                    "startOffset": 162,
+                    "endOffset": 297
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 27.14,
+                    "end": 34.089999999999996,
+                    "startOffset": 299,
+                    "endOffset": 378
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 34.089999999999996,
+                    "end": 41.85,
+                    "startOffset": 380,
+                    "endOffset": 476
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.85,
+                    "end": 60.76,
+                    "startOffset": 478,
+                    "endOffset": 674
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 60.76,
+                    "end": 70.880001,
+                    "startOffset": 677,
+                    "endOffset": 768
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 70.880001,
+                    "end": 75.92,
+                    "startOffset": 770,
+                    "endOffset": 822
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 75.92,
+                    "end": 87.78999900000001,
+                    "startOffset": 824,
+                    "endOffset": 939
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 87.78999900000001,
+                    "end": 97.02,
+                    "startOffset": 941,
+                    "endOffset": 1058
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 97.02,
+                    "end": 111.06,
+                    "startOffset": 1060,
+                    "endOffset": 1221
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 111.06,
+                    "end": 116.69000000000001,
+                    "startOffset": 1223,
+                    "endOffset": 1282
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 116.69000000000001,
+                    "end": 130.52,
+                    "startOffset": 1284,
+                    "endOffset": 1446
+                }
+            },
+            {
+                "verse": "13",
+                "timing": {
+                    "start": 130.52,
+                    "end": 139.549999,
+                    "startOffset": 1448,
+                    "endOffset": 1533
+                }
+            },
+            {
+                "verse": "14",
+                "timing": {
+                    "start": 139.549999,
+                    "end": 152.736,
+                    "startOffset": 1535,
+                    "endOffset": 1620
+                }
+            }
+        ]
+    }
+]

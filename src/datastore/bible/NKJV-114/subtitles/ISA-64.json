@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "Isaiah Chapter 64 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "64-b3cb7d61bad6864f5670637c689d9702",
+        "next": [
+            "ISA.65"
+        ],
+        "prev": [
+            "ISA.63"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 12.2,
+                    "startOffset": 0,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 12.2,
+                    "end": 22.5,
+                    "startOffset": 112,
+                    "endOffset": 257
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.5,
+                    "end": 29.810000000000002,
+                    "startOffset": 259,
+                    "endOffset": 366
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.810000000000002,
+                    "end": 41.94,
+                    "startOffset": 368,
+                    "endOffset": 530
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.94,
+                    "end": 56.25,
+                    "startOffset": 532,
+                    "endOffset": 706
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 56.25,
+                    "end": 69.44,
+                    "startOffset": 708,
+                    "endOffset": 872
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 69.44,
+                    "end": 80.7,
+                    "startOffset": 874,
+                    "endOffset": 1046
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 80.7,
+                    "end": 92.11999999999999,
+                    "startOffset": 1048,
+                    "endOffset": 1158
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 92.11999999999999,
+                    "end": 101.04,
+                    "startOffset": 1160,
+                    "endOffset": 1260
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 101.04,
+                    "end": 107.749999,
+                    "startOffset": 1262,
+                    "endOffset": 1341
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 107.749999,
+                    "end": 116.909999,
+                    "startOffset": 1343,
+                    "endOffset": 1471
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 116.909999,
+                    "end": 125.976,
+                    "startOffset": 1473,
+                    "endOffset": 1587
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Isaiah Chapter 64 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "64-0021ee86c477e212ad6813b980175212",
+        "next": [
+            "ISA.65"
+        ],
+        "prev": [
+            "ISA.63"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.829999,
+                    "startOffset": 0,
+                    "endOffset": 110
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.829999,
+                    "end": 20.75,
+                    "startOffset": 112,
+                    "endOffset": 257
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.75,
+                    "end": 29.349999999999998,
+                    "startOffset": 259,
+                    "endOffset": 366
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.349999999999998,
+                    "end": 43.800000000000004,
+                    "startOffset": 368,
+                    "endOffset": 530
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.800000000000004,
+                    "end": 58.45,
+                    "startOffset": 532,
+                    "endOffset": 706
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 58.45,
+                    "end": 71.35,
+                    "startOffset": 708,
+                    "endOffset": 872
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 71.35,
+                    "end": 83.14999999999999,
+                    "startOffset": 874,
+                    "endOffset": 1046
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 83.14999999999999,
+                    "end": 93.51,
+                    "startOffset": 1048,
+                    "endOffset": 1158
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 93.51,
+                    "end": 102.69,
+                    "startOffset": 1160,
+                    "endOffset": 1260
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 102.69,
+                    "end": 108.83,
+                    "startOffset": 1262,
+                    "endOffset": 1341
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 108.83,
+                    "end": 119.109999,
+                    "startOffset": 1343,
+                    "endOffset": 1471
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 119.109999,
+                    "end": 132.216,
+                    "startOffset": 1473,
+                    "endOffset": 1587
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,214 @@
+[
+    {
+        "audioName": "Ecclesiastes Chapter 11 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "11-fdc511a0618e89a61dfc2045282e8550",
+        "next": [
+            "ECC.12"
+        ],
+        "prev": [
+            "ECC.10"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 9.08,
+                    "startOffset": 0,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 9.08,
+                    "end": 16.96,
+                    "startOffset": 71,
+                    "endOffset": 165
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 16.96,
+                    "end": 29.329999,
+                    "startOffset": 167,
+                    "endOffset": 337
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.329999,
+                    "end": 35.819999,
+                    "startOffset": 339,
+                    "endOffset": 421
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 35.819999,
+                    "end": 47.97,
+                    "startOffset": 423,
+                    "endOffset": 587
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 47.97,
+                    "end": 61.69,
+                    "startOffset": 589,
+                    "endOffset": 761
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 61.69,
+                    "end": 68.159999,
+                    "startOffset": 763,
+                    "endOffset": 839
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 68.159999,
+                    "end": 81.35000000000001,
+                    "startOffset": 841,
+                    "endOffset": 992
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 81.35000000000001,
+                    "end": 98.22,
+                    "startOffset": 994,
+                    "endOffset": 1210
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 98.22,
+                    "end": 109.872,
+                    "startOffset": 1212,
+                    "endOffset": 1322
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Ecclesiastes Chapter 11 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "11-aaede30e0b2039dc26944cb7c7694ac6",
+        "next": [
+            "ECC.12"
+        ],
+        "prev": [
+            "ECC.10"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 8.09,
+                    "startOffset": 0,
+                    "endOffset": 69
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 8.09,
+                    "end": 15.529999,
+                    "startOffset": 71,
+                    "endOffset": 165
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 15.529999,
+                    "end": 29.519999000000002,
+                    "startOffset": 167,
+                    "endOffset": 337
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 29.519999000000002,
+                    "end": 37.49,
+                    "startOffset": 339,
+                    "endOffset": 421
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 37.49,
+                    "end": 51.010000000000005,
+                    "startOffset": 423,
+                    "endOffset": 587
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 51.010000000000005,
+                    "end": 65.309999,
+                    "startOffset": 589,
+                    "endOffset": 761
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 65.309999,
+                    "end": 73.08,
+                    "startOffset": 763,
+                    "endOffset": 839
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 73.08,
+                    "end": 86.97,
+                    "startOffset": 841,
+                    "endOffset": 992
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 86.97,
+                    "end": 106.55,
+                    "startOffset": 994,
+                    "endOffset": 1210
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 106.55,
+                    "end": 122.16,
+                    "startOffset": 1212,
+                    "endOffset": 1322
+                }
+            }
+        ]
+    }
+]

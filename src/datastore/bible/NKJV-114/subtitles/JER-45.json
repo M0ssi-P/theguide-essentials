@@ -1,0 +1,124 @@
+[
+    {
+        "audioName": "Jeremiah Chapter 45 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "45-bf093328f45dc82b2d8c4fbac5fb61ec",
+        "next": [
+            "JER.46"
+        ],
+        "prev": [
+            "JER.44"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 18.459999,
+                    "startOffset": 0,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 18.459999,
+                    "end": 22.89,
+                    "startOffset": 219,
+                    "endOffset": 274
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 22.89,
+                    "end": 31.720000000000002,
+                    "startOffset": 277,
+                    "endOffset": 389
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.720000000000002,
+                    "end": 43.019999999999996,
+                    "startOffset": 395,
+                    "endOffset": 554
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 43.019999999999996,
+                    "end": 58.488,
+                    "startOffset": 556,
+                    "endOffset": 757
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "Jeremiah Chapter 45 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "45-f6dfb19076047dee4dbd86dae9e74aef",
+        "next": [
+            "JER.46"
+        ],
+        "prev": [
+            "JER.44"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.44,
+                    "startOffset": 0,
+                    "endOffset": 216
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.44,
+                    "end": 19.799999000000003,
+                    "startOffset": 219,
+                    "endOffset": 274
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 19.799999000000003,
+                    "end": 30.479999000000003,
+                    "startOffset": 277,
+                    "endOffset": 389
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 30.479999000000003,
+                    "end": 45.059999999999995,
+                    "startOffset": 395,
+                    "endOffset": 554
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 45.059999999999995,
+                    "end": 65.808,
+                    "startOffset": 556,
+                    "endOffset": 757
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,250 @@
+[
+    {
+        "audioName": "II Thessalonians Chapter 1 ",
+        "title": "New King James Version (Tinasha LaRaye)",
+        "voiceId": 2332,
+        "versionId": 114,
+        "default": true,
+        "fileId": "1-0b6549dc0c25f0a8762bd2622d9da547",
+        "next": [
+            "2TH.2"
+        ],
+        "prev": [
+            "1TH.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.659999,
+                    "startOffset": 0,
+                    "endOffset": 107
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.659999,
+                    "end": 20.740000000000002,
+                    "startOffset": 109,
+                    "endOffset": 177
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 20.740000000000002,
+                    "end": 31.87,
+                    "startOffset": 179,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 31.87,
+                    "end": 41.06999999999999,
+                    "startOffset": 351,
+                    "endOffset": 496
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 41.06999999999999,
+                    "end": 50.269999999999996,
+                    "startOffset": 498,
+                    "endOffset": 640
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 50.269999999999996,
+                    "end": 55.94,
+                    "startOffset": 642,
+                    "endOffset": 729
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 55.94,
+                    "end": 63.040000000000006,
+                    "startOffset": 731,
+                    "endOffset": 843
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 63.040000000000006,
+                    "end": 71.68,
+                    "startOffset": 845,
+                    "endOffset": 972
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 71.68,
+                    "end": 79.30999999999999,
+                    "startOffset": 974,
+                    "endOffset": 1088
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 79.30999999999999,
+                    "end": 89.83000000000001,
+                    "startOffset": 1090,
+                    "endOffset": 1239
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 89.83000000000001,
+                    "end": 101.719999,
+                    "startOffset": 1241,
+                    "endOffset": 1414
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 101.719999,
+                    "end": 113.352,
+                    "startOffset": 1416,
+                    "endOffset": 1555
+                }
+            }
+        ]
+    },
+    {
+        "audioName": "II Thessalonians Chapter 1 ",
+        "title": "New King James Version (Simon Bubb)",
+        "voiceId": 2334,
+        "versionId": 114,
+        "default": false,
+        "fileId": "1-cbc286316c3148b1d5e771d6c49daa44",
+        "next": [
+            "2TH.2"
+        ],
+        "prev": [
+            "1TH.5"
+        ],
+        "lyrics": [
+            {
+                "verse": "1",
+                "timing": {
+                    "start": 0,
+                    "end": 15.04,
+                    "startOffset": 0,
+                    "endOffset": 107
+                }
+            },
+            {
+                "verse": "2",
+                "timing": {
+                    "start": 15.04,
+                    "end": 21.520000000000003,
+                    "startOffset": 109,
+                    "endOffset": 177
+                }
+            },
+            {
+                "verse": "3",
+                "timing": {
+                    "start": 21.520000000000003,
+                    "end": 36.079999,
+                    "startOffset": 179,
+                    "endOffset": 349
+                }
+            },
+            {
+                "verse": "4",
+                "timing": {
+                    "start": 36.079999,
+                    "end": 47.1,
+                    "startOffset": 351,
+                    "endOffset": 496
+                }
+            },
+            {
+                "verse": "5",
+                "timing": {
+                    "start": 47.1,
+                    "end": 58.239999999999995,
+                    "startOffset": 498,
+                    "endOffset": 640
+                }
+            },
+            {
+                "verse": "6",
+                "timing": {
+                    "start": 58.239999999999995,
+                    "end": 66.41999899999999,
+                    "startOffset": 642,
+                    "endOffset": 729
+                }
+            },
+            {
+                "verse": "7",
+                "timing": {
+                    "start": 66.41999899999999,
+                    "end": 74.98,
+                    "startOffset": 731,
+                    "endOffset": 843
+                }
+            },
+            {
+                "verse": "8",
+                "timing": {
+                    "start": 74.98,
+                    "end": 84.46000000000001,
+                    "startOffset": 845,
+                    "endOffset": 972
+                }
+            },
+            {
+                "verse": "9",
+                "timing": {
+                    "start": 84.46000000000001,
+                    "end": 93.33999999999999,
+                    "startOffset": 974,
+                    "endOffset": 1088
+                }
+            },
+            {
+                "verse": "10",
+                "timing": {
+                    "start": 93.33999999999999,
+                    "end": 105.30999899999999,
+                    "startOffset": 1090,
+                    "endOffset": 1239
+                }
+            },
+            {
+                "verse": "11",
+                "timing": {
+                    "start": 105.30999899999999,
+                    "end": 120.34,
+                    "startOffset": 1241,
+                    "endOffset": 1414
+                }
+            },
+            {
+                "verse": "12",
+                "timing": {
+                    "start": 120.34,
+                    "end": 137.256,
+                    "startOffset": 1416,
+                    "endOffset": 1555
+                }
+            }
+        ]
+    }
+]
