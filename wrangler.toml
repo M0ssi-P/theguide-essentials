@@ -1,0 +1,15 @@
+name = "theguide-file-store"
+main = "src/rs/index.ts"
+compatibility_date = "2024-09-23"
+
+# One R2 bucket holds everything: arbitrary files/folders (via /files, /folders) AND
+# the versioned SQLite db uploads (via /db/publish) — they're just different key
+# prefixes in the same bucket ("db/..." vs whatever path you PUT under /files/...).
+[[r2_buckets]]
+binding = "BUCKET"
+bucket_name = "theguide-files"
+
+# Set the real secret with: wrangler secret put ADMIN_TOKEN
+# (never commit the actual token — this file only declares the binding name)
+[vars]
+# ADMIN_TOKEN is set via `wrangler secret put ADMIN_TOKEN`, not here.
