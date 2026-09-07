@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS paragraphs (
+    id TEXT PRIMARY KEY,
+    section_id TEXT NOT NULL,
+    hub_id INTEGER,
+    number INTEGER NOT NULL,
+    is_first BOOLEAN NOT NULL,
+    text TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (section_id) REFERENCES sections(id) ON DELETE CASCADE
+)

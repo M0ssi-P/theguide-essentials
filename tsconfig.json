@@ -1,0 +1,20 @@
+{
+    "compilerOptions": {
+        "module": "nodenext",
+        "target": "ES2022",
+        "moduleResolution": "NodeNext",
+        "types": [],
+
+        // Other Outputs
+        "sourceMap": true,
+        "declaration": true,
+        "declarationMap": true,
+        "strict": true,
+        "noEmit": true,
+        "allowImportingTsExtensions": true,
+        "isolatedModules": true,
+        "noUncheckedSideEffectImports": true,
+        "moduleDetection": "force",
+        "skipLibCheck": true
+    }
+}

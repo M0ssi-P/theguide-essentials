@@ -1,0 +1,11 @@
+CREATE TABLE IF NOT EXISTS sections (
+    id TEXT PRIMARY KEY,
+    sermon_id TEXT NOT NULL,
+    can_hit BOOLEAN NOT NULL,
+    is_header BOOLEAN NOT NULL,
+    key TEXT NOT NULL,
+    paragraph TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (sermon_id) REFERENCES sermons(id) ON DELETE CASCADE
+)

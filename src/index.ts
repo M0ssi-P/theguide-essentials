@@ -9,8 +9,14 @@ import {
     openLanguageIndex,
     queryProductId,
 } from './pipeline.ts'
-import { JSDOM } from 'jsdom'
 import { buildSentenceIndexById, getDocsForProductId } from './subtitle.ts'
+import Database from 'better-sqlite3'
+import { createUpdatedAtTrigger } from './db/config/update_at_trigger.ts'
+import { startTableStatement } from './db/config/start_statement.ts'
+import { SermonsRepository } from './db/table/sermon.ts'
+import * as fsp from 'node:fs/promises'
+import * as os from 'node:os'
+import * as path from 'node:path'
 
 dotenv.config()
 const app = express()
@@ -21,11 +27,19 @@ app.use(morgan('dev'))
 
 const PORT = process.env.PORT || 8000
 
-const dom = new JSDOM('')
-globalThis.window = dom.window as unknown as Window & typeof globalThis
-globalThis.DOMParser = dom.window.DOMParser
-
 app.get('/init-db', async (req, res) => {
+    const adminToken = process.env.ADMIN_TOKEN
+    const workerUrl = process.env.WORKER_URL
+    if (!adminToken || !workerUrl) {
+        res.status(401).json({
+            status: 'error',
+            message: 'ADMIN_TOKEN or WORKER_URL is not configured',
+        })
+        return
+    }
+
+    console.log(workerUrl, adminToken)
+
     let table = new Table()
     let languages = table.getAllLanguages()
     let en = languages.find((x) => x.tag === 'en')
@@ -36,24 +50,90 @@ app.get('/init-db', async (req, res) => {
         })
         return
     }
+
     let sermons = await table.getAllSermons(en)
-    let sermon = sermons.find((x) => x.dateCode === '63-0318')
+    const tempDir = await fsp.mkdtemp(path.join(os.tmpdir(), 'sermons-db-'))
+    const dbPath = path.join(tempDir, 'table-en.db')
+    const db = new Database(dbPath)
 
     const tableUpdateChecker = await table.client
         .get('https://updater.branham.org/api/table/catalog')
         .then((r) => r.data)
 
+    let checker = tableUpdateChecker['eng']
+
     const index = await openLanguageIndex({
-        zipUrl: tableUpdateChecker['eng'].downloadUrl,
+        zipUrl: checker.downloadUrl,
     })
 
-    let fullSermon = await table.getSermon(sermon!, 'en', 'KJV', index)
+    try {
+        startTableStatement(db)
+        createUpdatedAtTrigger(db)
+        
+        let sermonsRepo = new SermonsRepository(db)
 
-    await closeLanguageIndex(index)
+        for (const sermon of sermons) {
+            console.log(
+                `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(0)} MB before ${sermon.dateCode}`
+            )
+            let fullSermon = await table.getSermon(sermon, 'en', 'KJV', index)
+
+            const insertTransaction = db.transaction(() => {
+                sermonsRepo.importSermon(fullSermon, 'en', (sermonId) => {
+                    for (const section of fullSermon.sections!!) {
+                        sermonsRepo.importSections(
+                            section,
+                            sermonId,
+                            (sectionId) => {
+                                for (const paragraph of section.content) {
+                                    sermonsRepo.importParagraphs(
+                                        paragraph,
+                                        sectionId,
+                                        (paragraphId) => {
+                                            for (const line of paragraph.content) {
+                                                sermonsRepo.importLine(
+                                                    line,
+                                                    paragraphId
+                                                )
+                                            }
+                                        }
+                                    )
+                                }
+                            }
+                        )
+                    }
+                })
+            })
+
+            insertTransaction()
+        }
+
+        db.close()
+        const dbBytes = await fsp.readFile(dbPath)           
+
+        delete checker['infobaseJumpFiles']
+
+        await table.client(`${workerUrl}/table/db/publish`, {
+            method: 'POST',
+            headers: {
+                Authorization: `Bearer ${adminToken}`,
+                'X-Source-Meta': JSON.stringify(checker),
+            },
+            data: dbBytes,
+        })
+    } catch (error) {
+        if (db.open) db.close()
+        await closeLanguageIndex(index)
+        await fsp.rm(tempDir, { recursive: true, force: true })
+    } finally {
+        if (db.open) db.close()
+        await closeLanguageIndex(index)
+        await fsp.rm(tempDir, { recursive: true, force: true })
+    }
+
     res.json({
         status: 'success',
-        sermon: sermon || null,
-        fullSermon: fullSermon || null,
+        message: 'Database initialized with sermons and related data.',
     })
 })
 

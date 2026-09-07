@@ -34,8 +34,41 @@ using (var reader = DirectoryReader.Open(directory))
         var searcher = new IndexSearcher(reader);
         var query = new TermQuery(new Term("productId", productId));
         TopDocs hits = searcher.Search(query, reader.MaxDoc);
-        docIds = hits.ScoreDocs.Select(sd => sd.Doc);
-        Console.Error.WriteLine($"Query for productId=\"{productId}\" matched {hits.TotalHits} document(s).");
+        var scoreDocs = hits.ScoreDocs;
+
+        if (scoreDocs.Length == 0)
+        {
+            var fallback = new List<int>();
+            var fieldsToLoad = new HashSet<string> { "productId" };
+            for (int docId = 0; docId < reader.MaxDoc; docId++)
+            {
+                if (liveDocs != null && !liveDocs.Get(docId)) continue;
+                Document partial = reader.Document(docId, fieldsToLoad);
+                string? stored = partial.Get("productId");
+                if (stored != null && string.Equals(stored, productId, StringComparison.OrdinalIgnoreCase))
+                {
+                    fallback.Add(docId);
+                }
+            }
+            docIds = fallback;
+            if (fallback.Count > 0)
+            {
+                Console.Error.WriteLine(
+                    $"Query for productId=\"{productId}\" matched 0 document(s) exactly " +
+                    $"(case-insensitive fallback found {fallback.Count} — the index likely " +
+                    $"stores this productId with different casing)."
+                );
+            }
+            else
+            {
+                Console.Error.WriteLine($"Query for productId=\"{productId}\" matched 0 document(s).");
+            }
+        }
+        else
+        {
+            docIds = scoreDocs.Select(sd => sd.Doc);
+            Console.Error.WriteLine($"Query for productId=\"{productId}\" matched {scoreDocs.Length} document(s).");
+        }
     }
     else
     {

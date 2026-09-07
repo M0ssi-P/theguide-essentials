@@ -1,0 +1,10 @@
+CREATE TABLE IF NOT EXISTS lines (
+    id TEXT PRIMARY KEY,
+    paragraph_id TEXT NOT NULL,
+    display_number BOOLEAN NOT NULL,
+    number INTEGER NOT NULL,
+    segments TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (paragraph_id) REFERENCES paragraphs(id) ON DELETE CASCADE
+)

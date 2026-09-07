@@ -1,0 +1,21 @@
+CREATE TABLE IF NOT EXISTS sermons (
+    id TEXT PRIMARY KEY,
+    language_id TEXT NOT NULL,
+    date TEXT NOT NULL,
+    date_code TEXT NOT NULL,
+    language TEXT NOT NULL,
+    location TEXT NOT NULL,
+    next_sermon_date TEXT,
+    prev_sermon_date TEXT,
+    title TEXT NOT NULL,
+    sort_date TEXT NOT NULL,
+    minutes INTEGER DEFAULT NUll,
+    is_cab BOOLEAN NOT NULL DEFAULT 0,
+    has_subtitle BOOLEAN NOT NULL DEFAULT 0,
+    total_sections INTEGER,
+    c INTEGER NOT NULL,
+    i INTEGER NOT NULL,
+    ct TEXT NOT NULL,
+    created_at DATETIME DEFAULT CURRENT_TIMESTAMP,
+    updated_at DATETIME DEFAULT CURRENT_TIMESTAMP
+)

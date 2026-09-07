@@ -12,6 +12,7 @@ import type {
     Segment,
 } from './types.ts'
 import { Style } from './types.ts'
+import * as cheerio from 'cheerio'
 
 import type { ILanguage } from '../../types/index.ts'
 import { TableParser } from '../table_parser.ts'
@@ -232,20 +233,10 @@ export default class Table extends TableParser {
 
         const totalSections = res.Result.TotalSections
 
-        const parseDom = (html: string) => {
-            if (typeof window !== 'undefined' && window.DOMParser) {
-                return new DOMParser().parseFromString(html, 'text/html')
-            }
-            throw new Error(
-                'DOMParser is unavailable. If running in Node.js, inject a HTML parser such as jsdom.'
-            )
-        }
+        const parseDom = (html: string) => cheerio.load(html)
 
-        const firstDoc = parseDom(res.Result.Sections[0]?.Content || '')
-        const placeEl = firstDoc.querySelector('.place')
-        const location: string = placeEl
-            ? (placeEl.textContent || '').trim()
-            : ''
+        const $first = parseDom(res.Result.Sections[0]?.Content || '')
+        const location: string = $first('.place').first().text().trim()
 
         let sectionCounter = 0
         res.Result.Sections.forEach((it) => {
@@ -261,35 +252,36 @@ export default class Table extends TableParser {
                 sectionCounter++
             }
 
-            const body = parseDom(it.Content)
-            const paragraphs = Array.from(body.querySelectorAll('p'))
+            const $ = parseDom(it.Content)
+            const paragraphs = $('p').toArray()
 
             let blockCounter = 0
 
             paragraphs.forEach((i) => {
                 blockCounter += 1
-                const classList = Array.from(i.classList)
+                const $i = $(i)
                 const mainClasses = new Set(['first_par', 'normal_pn', 'q'])
+                const mainClassList = [...mainClasses]
 
                 let number: number | null = null
-                if (classList.includes('first_par')) {
+                if ($i.hasClass('first_par')) {
                     number = 1
-                } else if (classList.includes('p')) {
+                } else if ($i.hasClass('p')) {
                     const qnText =
-                        i.querySelector('span.first span.qn')?.textContent || ''
+                        $i.find('span.first span.qn').first().text() || ''
                     const parsed = parseInt(qnText.slice(0, -1), 10)
                     number = isNaN(parsed) ? null : parsed
                 } else {
                     const pnText =
-                        i.querySelector('span.first span.pn')?.textContent || ''
+                        $i.find('span.first span.pn').first().text() || ''
                     const parsed = parseInt(pnText, 10)
                     number = isNaN(parsed) ? null : parsed
                 }
 
-                const isScripture = classList.includes('scr')
-                const isQuestion = classList.includes('q')
+                const isScripture = $i.hasClass('scr')
+                const isQuestion = $i.hasClass('q')
 
-                if (classList.some((c) => mainClasses.has(c))) {
+                if (mainClassList.some((c) => $i.hasClass(c))) {
                     const matchingBlock = hub?.sermon?.blocks?.find(
                         (bk) => bk.blockNumber === number
                     )
@@ -316,18 +308,19 @@ export default class Table extends TableParser {
                     })
 
                     if (
-                        !classList.some((toIgnore) =>
-                            mainClasses.has(toIgnore)
+                        !mainClassList.some((toIgnore) =>
+                            $i.hasClass(toIgnore)
                         ) &&
                         targetP.text.length > 0
                     ) {
                         targetP.text += '\n'
                     }
 
-                    const stSpans = Array.from(i.querySelectorAll('span.st'))
+                    const stSpans = $i.find('span.st').toArray()
                     let sentenceCounter = 0
                     stSpans.forEach((x) => {
-                        if (!x.textContent?.trim()) return
+                        const $x = $(x)
+                        if (!$x.text()?.trim()) return
 
                         sentenceCounter += 1
                         const ignoredClasses = new Set(['eagle', 'se', 'pn'])
@@ -357,10 +350,9 @@ export default class Table extends TableParser {
                             }
                         }
 
-                        Array.from(x.childNodes).forEach((node) => {
-                            if (node.nodeType === 3) {
-                                // TextNode
-                                const text = node.textContent || ''
+                        $x.contents().each((_, node) => {
+                            if (node.type === 'text') {
+                                const text = (node as any).data || ''
 
                                 if (!text.trim()) return
 
@@ -372,17 +364,18 @@ export default class Table extends TableParser {
                                     content: text,
                                     ...getTiming(),
                                 })
-                            } else if (node.nodeType === 1) {
-                                // Element
-                                const el = node as Element
-                                const nodeClasses = Array.from(el.classList)
+                            } else if (node.type === 'tag') {
+                                const $el = $(node)
+                                const nodeClasses = ($el.attr('class') || '')
+                                    .split(/\s+/)
+                                    .filter(Boolean)
 
                                 if (
-                                    !nodeClasses.some((toIgnore) =>
+                                    !nodeClasses.some((toIgnore: string) =>
                                         ignoredClasses.has(toIgnore)
                                     )
                                 ) {
-                                    const text = el.textContent || ''
+                                    const text = $el.text() || ''
 
                                     if (!text.trim()) return
 
