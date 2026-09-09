@@ -7,7 +7,8 @@ const JSON_HEADERS = { 'content-type': 'application/json' }
 const CORS_HEADERS = {
     'access-control-allow-origin': '*',
     'access-control-allow-methods': 'GET,HEAD,PUT,DELETE,POST,OPTIONS',
-    'access-control-allow-headers': 'authorization,content-type,if-none-match',
+    'access-control-allow-headers':
+        'authorization,content-type,if-none-match,x-source-meta',
 }
 
 function json(body: unknown, status = 200): Response {
@@ -111,8 +112,12 @@ async function deleteFile(
     return json({ deleted: key })
 }
 
+function normalizePrefix(prefix: string): string {
+    return prefix && !prefix.endsWith('/') ? `${prefix}/` : prefix
+}
+
 async function listFolder(env: Env, prefix: string): Promise<Response> {
-    const normalized = prefix && !prefix.endsWith('/') ? `${prefix}/` : prefix
+    const normalized = normalizePrefix(prefix)
     const files: FileMeta[] = []
     const folders = new Set<string>()
     let cursor: string | undefined
@@ -153,9 +158,34 @@ async function deleteFolder(
     return json({ deletedPrefix: normalized, deletedCount: deleted })
 }
 
-const LATEST_POINTER_KEY = 'db/latest.json'
-const DB_VERSION_PREFIX = 'db/sermons-'
-const KEEP_VERSIONS = 3
+interface FolderManifest {
+    prefix: string
+    generatedAt: string
+    fileCount: number
+    totalSize: number
+    files: Array<{ key: string; size: number; etag: string }>
+}
+
+const MANIFEST_FILENAME = 'manifest.json'
+
+async function folderLatest(env: Env, prefix: string): Promise<Response> {
+    const normalized = normalizePrefix(prefix)
+    const manifestKey = `${normalized}${MANIFEST_FILENAME}`
+    const obj = await env.BUCKET.get(manifestKey)
+    if (!obj) return notFound()
+    const manifest = JSON.parse(await obj.text()) as FolderManifest
+    return json(manifest)
+}
+
+const VALID_SEGMENT = /^[a-zA-Z0-9_-]+$/
+
+function dbKeyFor(kind: string, id: string): string {
+    return `db/${kind}/${id}.db`
+}
+
+function pointerKeyFor(kind: string, id: string): string {
+    return `db/${kind}/${id}.latest.json`
+}
 
 interface SourceInfo {
     language: string
@@ -217,9 +247,16 @@ function parseSourceInfo(request: Request): SourceInfo | undefined {
     }
 }
 
-async function publishDb(request: Request, env: Env): Promise<Response> {
+async function publishDb(
+    request: Request,
+    env: Env,
+    kind: string,
+    id: string
+): Promise<Response> {
     const authErr = requireAuth(request, env)
     if (authErr) return authErr
+    if (!VALID_SEGMENT.test(kind) || !VALID_SEGMENT.test(id))
+        return json({ error: 'invalid kind or id' }, 400)
     if (!request.body) return json({ error: 'empty body' }, 400)
 
     let source: SourceInfo | undefined
@@ -229,57 +266,98 @@ async function publishDb(request: Request, env: Env): Promise<Response> {
         return json({ error: (err as Error).message }, 400)
     }
 
-    const versionedKey = `${DB_VERSION_PREFIX}${Date.now()}.db`
-    const obj = await env.BUCKET.put(versionedKey, request.body, {
-        httpMetadata: { contentType: 'application/x-sqlite3' },
+    const contentType =
+        request.headers.get('content-type') ?? 'application/x-sqlite3'
+    const key = dbKeyFor(kind, id)
+
+    const obj = await env.BUCKET.put(key, request.body, {
+        httpMetadata: { contentType },
     })
     if (!obj) return json({ error: 'upload failed' }, 500)
 
     const pointer: LatestPointer = {
-        key: versionedKey,
+        key,
         etag: obj.httpEtag,
         size: obj.size,
         uploadedAt: obj.uploaded.toISOString(),
         ...(source ? { source } : {}),
     }
 
-    await env.BUCKET.put(LATEST_POINTER_KEY, JSON.stringify(pointer), {
+    await env.BUCKET.put(pointerKeyFor(kind, id), JSON.stringify(pointer), {
         httpMetadata: { contentType: 'application/json' },
     })
 
-    await pruneOldDbVersions(env, versionedKey)
     return json(pointer)
 }
 
-async function pruneOldDbVersions(env: Env, currentKey: string): Promise<void> {
-    const page = await env.BUCKET.list({ prefix: DB_VERSION_PREFIX })
-    const versions = page.objects
-        .filter((o) => o.key !== currentKey)
-        .sort((a, b) => b.uploaded.getTime() - a.uploaded.getTime())
-    const toDelete = versions
-        .slice(Math.max(KEEP_VERSIONS - 1, 0))
-        .map((o) => o.key)
-    if (toDelete.length) await env.BUCKET.delete(toDelete)
-}
-
-async function getLatestPointer(env: Env): Promise<LatestPointer | null> {
-    const obj = await env.BUCKET.get(LATEST_POINTER_KEY)
+async function getLatestPointer(
+    env: Env,
+    kind: string,
+    id: string
+): Promise<LatestPointer | null> {
+    const obj = await env.BUCKET.get(pointerKeyFor(kind, id))
     if (!obj) return null
     return JSON.parse(await obj.text()) as LatestPointer
 }
 
-async function dbLatest(env: Env): Promise<Response> {
-    const pointer = await getLatestPointer(env)
+async function dbLatest(env: Env, kind: string, id: string): Promise<Response> {
+    if (!VALID_SEGMENT.test(kind) || !VALID_SEGMENT.test(id))
+        return json({ error: 'invalid kind or id' }, 400)
+    const pointer = await getLatestPointer(env, kind, id)
     if (!pointer) return notFound()
     return json(pointer)
 }
 
-async function dbDownload(request: Request, env: Env): Promise<Response> {
-    const pointer = await getLatestPointer(env)
+async function dbDownload(
+    request: Request,
+    env: Env,
+    kind: string,
+    id: string
+): Promise<Response> {
+    if (!VALID_SEGMENT.test(kind) || !VALID_SEGMENT.test(id))
+        return json({ error: 'invalid kind or id' }, 400)
+    const pointer = await getLatestPointer(env, kind, id)
     if (!pointer) return notFound()
     return request.method === 'HEAD'
         ? headFile(env, pointer.key)
         : getFile(request, env, pointer.key)
+}
+
+async function dbKinds(env: Env): Promise<Response> {
+    const kinds = new Set<string>()
+    let cursor: string | undefined
+    do {
+        const page = await env.BUCKET.list({
+            prefix: 'db/',
+            delimiter: '/',
+            cursor,
+        })
+        for (const p of page.delimitedPrefixes) {
+            const kind = p.slice('db/'.length, -1)
+            if (kind) kinds.add(kind)
+        }
+        cursor = page.truncated ? page.cursor : undefined
+    } while (cursor)
+    return json({ kinds: [...kinds].sort() })
+}
+
+async function dbList(env: Env, kind: string): Promise<Response> {
+    if (!VALID_SEGMENT.test(kind)) return json({ error: 'invalid kind' }, 400)
+    const prefix = `db/${kind}/`
+    const ids = new Set<string>()
+    let cursor: string | undefined
+    do {
+        const page = await env.BUCKET.list({ prefix, cursor })
+        for (const obj of page.objects) {
+            const rest = obj.key.slice(prefix.length)
+            let id: string | null = null
+            if (rest.endsWith('.db.gz')) id = rest.slice(0, -'.db.gz'.length)
+            else if (rest.endsWith('.db')) id = rest.slice(0, -'.db'.length)
+            if (id) ids.add(id)
+        }
+        cursor = page.truncated ? page.cursor : undefined
+    } while (cursor)
+    return json({ kind, ids: [...ids].sort() })
 }
 
 export default {
@@ -291,24 +369,67 @@ export default {
             return new Response(null, { headers: CORS_HEADERS })
 
         try {
-            if (pathname === '/table/db/publish' && method === 'POST')
-                return await publishDb(request, env)
-            if (pathname === '/table/db/latest' && method === 'GET')
-                return await dbLatest(env)
+            if (pathname === '/table/db/kinds' && method === 'GET')
+                return await dbKinds(env)
+
+            if (pathname.startsWith('/table/db/list/') && method === 'GET') {
+                const kind = decodeURIComponent(
+                    pathname.slice('/table/db/list/'.length)
+                )
+                return await dbList(env, kind)
+            }
+
             if (
-                pathname === '/table/db/download' &&
+                pathname.startsWith('/table/db/publish/') &&
+                method === 'POST'
+            ) {
+                const [kind, id] = decodeURIComponent(
+                    pathname.slice('/table/db/publish/'.length)
+                ).split('/')
+                if (!kind || !id)
+                    return json(
+                        { error: 'expected /table/db/publish/<kind>/<id>' },
+                        400
+                    )
+                return await publishDb(request, env, kind, id)
+            }
+            if (pathname.startsWith('/table/db/latest/') && method === 'GET') {
+                const [kind, id] = decodeURIComponent(
+                    pathname.slice('/table/db/latest/'.length)
+                ).split('/')
+                if (!kind || !id)
+                    return json(
+                        { error: 'expected /table/db/latest/<kind>/<id>' },
+                        400
+                    )
+                return await dbLatest(env, kind, id)
+            }
+            if (
+                pathname.startsWith('/table/db/download/') &&
                 (method === 'GET' || method === 'HEAD')
             ) {
-                return await dbDownload(request, env)
+                const [kind, id] = decodeURIComponent(
+                    pathname.slice('/table/db/download/'.length)
+                ).split('/')
+                if (!kind || !id)
+                    return json(
+                        { error: 'expected /table/db/download/<kind>/<id>' },
+                        400
+                    )
+                return await dbDownload(request, env, kind, id)
             }
 
             if (pathname.startsWith('/folders/')) {
-                const prefix = decodeURIComponent(
+                const rest = decodeURIComponent(
                     pathname.slice('/folders/'.length)
                 )
-                if (method === 'GET') return await listFolder(env, prefix)
+                if (rest.endsWith('/latest') && method === 'GET') {
+                    const prefix = rest.slice(0, -'/latest'.length)
+                    return await folderLatest(env, prefix)
+                }
+                if (method === 'GET') return await listFolder(env, rest)
                 if (method === 'DELETE')
-                    return await deleteFolder(request, env, prefix)
+                    return await deleteFolder(request, env, rest)
             }
 
             if (pathname.startsWith('/files/')) {

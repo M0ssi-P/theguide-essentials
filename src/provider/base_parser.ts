@@ -18,7 +18,6 @@ export abstract class BaseParser extends BaseProvider {
 
     initialiseNetwork(): void {
         let okHttpClient = axios.create({
-            timeout: 10000,
             headers: defaultHeaders,
         })
         this.client = okHttpClient

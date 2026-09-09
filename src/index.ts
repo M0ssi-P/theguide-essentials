@@ -17,6 +17,7 @@ import { SermonsRepository } from './db/table/sermon.ts'
 import * as fsp from 'node:fs/promises'
 import * as os from 'node:os'
 import * as path from 'node:path'
+import { publishDb, type SourceInfo } from './rs/client-r3.ts'
 
 dotenv.config()
 const app = express()
@@ -42,7 +43,7 @@ app.get('/init-db', async (req, res) => {
 
     let table = new Table()
     let languages = table.getAllLanguages()
-    let en = languages.find((x) => x.tag === 'en')
+    let en = languages.find((x) => x.tag === 'sw')
     if (!en) {
         res.status(500).json({
             status: 'error',
@@ -51,16 +52,16 @@ app.get('/init-db', async (req, res) => {
         return
     }
 
-    let sermons = await table.getAllSermons(en)
+    let sermons = await table.getAllSermons(en, "sw")
     const tempDir = await fsp.mkdtemp(path.join(os.tmpdir(), 'sermons-db-'))
-    const dbPath = path.join(tempDir, 'table-en.db')
+    const dbPath = path.join(tempDir, 'table-sw.db')
     const db = new Database(dbPath)
 
     const tableUpdateChecker = await table.client
         .get('https://updater.branham.org/api/table/catalog')
         .then((r) => r.data)
 
-    let checker = tableUpdateChecker['eng']
+    let checker: SourceInfo = tableUpdateChecker['swa']
 
     const index = await openLanguageIndex({
         zipUrl: checker.downloadUrl,
@@ -69,14 +70,14 @@ app.get('/init-db', async (req, res) => {
     try {
         startTableStatement(db)
         createUpdatedAtTrigger(db)
-        
+
         let sermonsRepo = new SermonsRepository(db)
 
         for (const sermon of sermons) {
             console.log(
                 `${(process.memoryUsage().heapUsed / 1024 / 1024).toFixed(0)} MB before ${sermon.dateCode}`
             )
-            let fullSermon = await table.getSermon(sermon, 'en', 'KJV', index)
+            let fullSermon = await table.getSermon(sermon, 'sw', 'KJV', index)
 
             const insertTransaction = db.transaction(() => {
                 sermonsRepo.importSermon(fullSermon, 'en', (sermonId) => {
@@ -109,23 +110,24 @@ app.get('/init-db', async (req, res) => {
         }
 
         db.close()
-        const dbBytes = await fsp.readFile(dbPath)           
 
         delete checker['infobaseJumpFiles']
 
-        await table.client(`${workerUrl}/table/db/publish`, {
-            method: 'POST',
-            headers: {
-                Authorization: `Bearer ${adminToken}`,
-                'X-Source-Meta': JSON.stringify(checker),
-            },
-            data: dbBytes,
+        const res = await publishDb({
+            kind: 'table',
+            dbPath,
+            source: checker,
+            id: checker.language,
         })
+
+        console.log('Published database to worker:', res)
     } catch (error) {
+        console.error('Error publishing database to worker:', error)
         if (db.open) db.close()
         await closeLanguageIndex(index)
         await fsp.rm(tempDir, { recursive: true, force: true })
     } finally {
+        console.error('Cleaning up resources...')
         if (db.open) db.close()
         await closeLanguageIndex(index)
         await fsp.rm(tempDir, { recursive: true, force: true })
