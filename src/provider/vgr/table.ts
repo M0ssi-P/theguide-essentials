@@ -20,13 +20,19 @@ import { languageJson } from './utils.ts'
 import {
     type LuceneDoc,
     type OpenLanguageIndex,
+    LUCENE_DUMP_EXE,
     queryProductId,
 } from '../../pipeline.ts'
-import {
-    buildSentenceIndexById,
-    getDocsForProductId,
-    getHasSubtitle,
-} from '../../subtitle.ts'
+import { buildSentenceIndexById, getHasSubtitle } from '../../subtitle.ts'
+
+type RawSection = ISermonResponse['Result']['Sections'][number] & {
+    key?: string
+}
+
+const field = (doc: LuceneDoc, name: string): string | undefined => {
+    const v = doc[name]
+    return Array.isArray(v) ? v[0] : v
+}
 
 export default class Table extends TableParser {
     override readonly name = 'The Table'
@@ -153,6 +159,99 @@ export default class Table extends TableParser {
         return promises
     }
 
+    // A sermon that is in the Lucene index but not in allSermons (e.g. sw 60-0108).
+    sermonFromLucene(docs: LuceneDoc[], language: string): Sermon {
+        const head = docs.find((d) => field(d, 'level') === 'sermon') ?? docs[0]
+        // allSermons writes the suffix uppercase ("53-0405S"), the index lowercase
+        const dateCode = (field(head, 'productId') ?? '').toUpperCase()
+        const isCab = field(head, 'recordType') === 'book_chapters'
+        const lastMs = Math.max(
+            0,
+            ...docs.flatMap((d) =>
+                [...(field(d, 'html') ?? '').matchAll(/\bms="(\d+)"/g)].map(
+                    (m) => parseInt(m[1], 10)
+                )
+            )
+        )
+        const [yy, mmdd = ''] = dateCode.split('-')
+        const date = new Date(
+            Date.UTC(
+                1900 + parseInt(yy, 10),
+                parseInt(mmdd.slice(0, 2), 10) - 1,
+                parseInt(mmdd.slice(2, 4), 10)
+            )
+        )
+
+        return {
+            id: null,
+            date: isNaN(date.getTime())
+                ? ''
+                : date.toLocaleDateString('en-US', {
+                      month: 'long',
+                      day: 'numeric',
+                      year: 'numeric',
+                      timeZone: 'UTC',
+                  }),
+            dateCode,
+            language,
+            location: cheerio
+                .load(field(head, 'html') ?? '')('.place')
+                .first()
+                .text()
+                .trim(),
+            nextSermonDate: '',
+            prevSermonDate: '',
+            title: field(head, 'title') ?? '',
+            // shortcut: no hub suffix ordering (e.g. "-4" for A), sorts by the bare date code
+            sortDate: isCab ? '' : dateCode.slice(0, 7),
+            minutes: Math.round(lastMs / 60000),
+            isCab,
+            // shortcut: c is not in the Lucene index; 0 until allSermons lists the sermon
+            c: 0,
+            i: parseInt(field(head, 'productIdentityId') ?? '0', 10),
+            ct: isCab ? 'B' : 'S',
+            updatedAt: 12121212121212,
+        }
+    }
+
+    private sectionsFromLucene(docs: LuceneDoc[]): RawSection[] {
+        const usedKeys = new Set<string>()
+        let lastNumber: number | null = null
+        return docs.map((d) => {
+            const html = field(d, 'html') ?? ''
+            // rebuilds sermonRequest's Paragraph ('header', '1-2', '10', '' for CAB)
+            let label = ''
+            if (field(d, 'level') === 'sermon') {
+                label = 'header'
+            } else if (field(d, 'recordType') !== 'book_chapters') {
+                const numbers = (field(d, 'paragraphNumbers') ?? '')
+                    .split(/\s+/)
+                    .filter(Boolean)
+                    .map(Number)
+                // paragraphNumbers leaves out the implied 1 of the opening p.first_par
+                if (lastNumber === null && /class="first_par\b/.test(html)) {
+                    numbers.unshift(1)
+                }
+                if (numbers.length > 0) {
+                    const lo = Math.min(...numbers)
+                    const hi = Math.max(...numbers)
+                    label = lo === hi ? `${lo}` : `${lo}-${hi}`
+                    lastNumber = hi
+                } else if (lastNumber !== null) {
+                    // continues the previous paragraph
+                    label = `${lastNumber}`
+                }
+            }
+            // section ids hash the key, so keys must be unique within a sermon
+            const key =
+                label && !usedKeys.has(label)
+                    ? label
+                    : (field(d, 'recordId') ?? label)
+            usedKeys.add(key)
+            return { Content: html, IsHit: false, Paragraph: label, key }
+        })
+    }
+
     async getSermon(
         sermon: Sermon,
         language?: string | null,
@@ -161,22 +260,6 @@ export default class Table extends TableParser {
     ): Promise<Sermon> {
         const sections: Section[] = []
         const lang = language ?? 'en'
-
-        const payload: SermonRequest = {
-            GetAllContent: true,
-            HighlightQuery: null,
-            SermonProductIdentityId: sermon.i,
-            Language: lang,
-        }
-
-        const resPromise = this.client(
-            `${this.tUrl}/rest/sermons/sermonRequest`,
-            {
-                method: 'POST',
-                headers: this.header,
-                data: JSON.stringify(payload),
-            }
-        ).then((r) => r.data as Promise<ISermonResponse>)
 
         let hubPromise: Promise<IHubSermonResponse | null> =
             Promise.resolve(null)
@@ -194,7 +277,7 @@ export default class Table extends TableParser {
         if (luceneIndex) {
             lyricsDoc = queryProductId(
                 luceneIndex,
-                'lucene-dump/bin/Release/net8.0/LuceneDump.exe',
+                LUCENE_DUMP_EXE,
                 sermon.dateCode
             ).catch((err) => {
                 console.error(
@@ -205,45 +288,55 @@ export default class Table extends TableParser {
             })
         }
 
-        const [res, hub, lyricDoc] = await Promise.all([
-            resPromise,
-            hubPromise,
-            lyricsDoc,
-        ])
+        const [hub, lyricDoc] = await Promise.all([hubPromise, lyricsDoc])
 
-        const docs = lyricDoc
-            ? getDocsForProductId(lyricDoc, sermon!.dateCode)
-            : null
+        // keep index (dump) order: one doc per sermonRequest section, header first
+        const wanted = sermon.dateCode.toLowerCase()
+        const docs = (lyricDoc ?? []).filter(
+            (d) => field(d, 'productId')?.toLowerCase() === wanted
+        )
 
-        const hasSubtitle = docs ? getHasSubtitle(docs) : false
+        const hasSubtitle = getHasSubtitle(docs)
 
-        const timingById = docs
-            ? buildSentenceIndexById(docs, sermon!.dateCode)
-            : null
+        const timingById = buildSentenceIndexById(docs, sermon.dateCode)
 
-        const orderedLines =
-            timingById && timingById.size > 0
-                ? [...timingById.values()].sort(
-                      (a, b) =>
-                          a.section - b.section ||
-                          a.block - b.block ||
-                          a.sentence - b.sentence
-                  )
-                : []
-
-        const totalSections = res.Result.TotalSections
+        let rawSections: RawSection[]
+        let totalSections: number
+        if (docs.length > 0) {
+            rawSections = this.sectionsFromLucene(docs)
+            totalSections = rawSections.length
+        } else {
+            const payload: SermonRequest = {
+                GetAllContent: true,
+                HighlightQuery: null,
+                SermonProductIdentityId: sermon.i,
+                Language: lang,
+            }
+            const res = await this.client(
+                `${this.tUrl}/rest/sermons/sermonRequest`,
+                {
+                    method: 'POST',
+                    headers: this.header,
+                    data: JSON.stringify(payload),
+                }
+            ).then((r) => r.data as ISermonResponse)
+            rawSections = res.Result.Sections
+            totalSections = res.Result.TotalSections
+        }
 
         const parseDom = (html: string) => cheerio.load(html)
 
-        const $first = parseDom(res.Result.Sections[0]?.Content || '')
+        const $first = parseDom(rawSections[0]?.Content || '')
         const location: string = $first('.place').first().text().trim()
 
         let sectionCounter = 0
-        res.Result.Sections.forEach((it) => {
+        // last paragraph number seen, reused for unnumbered paragraphs (lines.number is NOT NULL)
+        let lastNumber = 0
+        rawSections.forEach((it) => {
             const section: Section = {
                 canHit: it.IsHit,
                 isHeader: it.Paragraph === 'header',
-                key: it.Paragraph || 'whole',
+                key: it.key ?? (it.Paragraph || 'whole'),
                 paragraph: it.Paragraph || 'whole',
                 content: [],
             }
@@ -266,28 +359,36 @@ export default class Table extends TableParser {
                 let number: number | null = null
                 if ($i.hasClass('first_par')) {
                     number = 1
-                } else if ($i.hasClass('p')) {
-                    const qnText =
-                        $i.find('span.first span.qn').first().text() || ''
-                    const parsed = parseInt(qnText.slice(0, -1), 10)
-                    number = isNaN(parsed) ? null : parsed
                 } else {
-                    const pnText =
-                        $i.find('span.first span.pn').first().text() || ''
-                    const parsed = parseInt(pnText, 10)
+                    // parseInt ignores a trailing '.', e.g. "12." in span.qn
+                    const numText =
+                        $i
+                            .find('span.first span.pn, span.first span.qn')
+                            .first()
+                            .text() || ''
+                    const parsed = parseInt(numText, 10)
                     number = isNaN(parsed) ? null : parsed
                 }
 
                 const isScripture = $i.hasClass('scr')
                 const isQuestion = $i.hasClass('q')
 
-                if (mainClassList.some((c) => $i.hasClass(c))) {
-                    const matchingBlock = hub?.sermon?.blocks?.find(
-                        (bk) => bk.blockNumber === number
-                    )
+                // a section can open with an unnumbered p (CAB chapters, songs, lead-ins)
+                // that continues a paragraph from the previous section: start one here
+                if (
+                    mainClassList.some((c) => $i.hasClass(c)) ||
+                    (section.content.length === 0 && !section.isHeader)
+                ) {
+                    const matchingBlock =
+                        number === null
+                            ? undefined
+                            : hub?.sermon?.blocks?.find(
+                                  (bk) => bk.blockNumber === number
+                              )
+                    if (number !== null) lastNumber = number
                     section.content.push({
                         id: matchingBlock ? matchingBlock.blockId : null,
-                        number: number,
+                        number: number ?? lastNumber,
                         isFirst: number === 1,
                         isQuestion: isQuestion,
                         text: '',
@@ -295,10 +396,7 @@ export default class Table extends TableParser {
                     })
                 }
 
-                if (
-                    section.content.length > 0 &&
-                    section.content[section.content.length - 1].number !== null
-                ) {
+                if (section.content.length > 0) {
                     const targetP = section.content[section.content.length - 1]
 
                     targetP.content.push({
@@ -325,36 +423,27 @@ export default class Table extends TableParser {
                         sentenceCounter += 1
                         const ignoredClasses = new Set(['eagle', 'se', 'pn'])
 
+                        // span.st id is the subtitle id in Lucene html (sermonRequest scrambles it)
                         const getTiming = () => {
-                            const findTiming = orderedLines.find(
-                                (line) =>
-                                    line.section === sectionCounter &&
-                                    line.block === blockCounter &&
-                                    line.sentence === sentenceCounter
-                            )
-
-                            const index = [
-                                sectionCounter,
-                                blockCounter,
-                                sentenceCounter,
-                            ]
-
-                            if (findTiming) {
-                                return {
-                                    start: findTiming.start,
-                                    end: findTiming.end,
-                                    index,
-                                }
-                            } else {
-                                return {}
-                            }
+                            const t = timingById.get($x.attr('id') ?? '')
+                            return t
+                                ? {
+                                      start: t.start,
+                                      end: t.end,
+                                      index: [
+                                          sectionCounter,
+                                          blockCounter,
+                                          sentenceCounter,
+                                      ],
+                                  }
+                                : {}
                         }
 
                         $x.contents().each((_, node) => {
                             if (node.type === 'text') {
                                 const text = (node as any).data || ''
 
-                                if (!text.trim()) return
+                                if (!text) return
 
                                 targetP.text += text
                                 targetP.content[
@@ -375,9 +464,16 @@ export default class Table extends TableParser {
                                         ignoredClasses.has(toIgnore)
                                     )
                                 ) {
-                                    const text = $el.text() || ''
+                                    // span.qn sits inside span.bold; keep the number out of the text
+                                    const text =
+                                        $el
+                                            .clone()
+                                            .find('.qn, .pn, .se, .eagle')
+                                            .remove()
+                                            .end()
+                                            .text() || ''
 
-                                    if (!text.trim()) return
+                                    if (!text) return
 
                                     if (nodeClasses.includes('en')) {
                                         targetP.text += text
@@ -417,6 +513,15 @@ export default class Table extends TableParser {
                                     } else if (
                                         nodeClasses.includes('ellquell')
                                     ) {
+                                        targetP.text += text
+                                        targetP.content[
+                                            targetP.content.length - 1
+                                        ].segments.push({
+                                            style: [Style.Normal],
+                                            content: text,
+                                            ...getTiming(),
+                                        })
+                                    } else {
                                         targetP.text += text
                                         targetP.content[
                                             targetP.content.length - 1

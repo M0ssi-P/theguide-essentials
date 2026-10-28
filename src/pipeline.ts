@@ -9,6 +9,8 @@ const execFileAsync = promisify(execFile)
 
 const XOR_KEY = 155
 
+export const LUCENE_DUMP_EXE = 'lucene-dump/bin/Release/net8.0/LuceneDump.exe'
+
 export interface PipelineOptions {
     zipUrl: string
     workDir: string
@@ -163,6 +165,20 @@ export async function queryProductId(
     productId?: string
 ): Promise<LuceneDoc[]> {
     return runLuceneDumpToMemory(luceneDumpExePath, index.indexDir, productId)
+}
+
+/** Distinct productId values in the index (e.g. "53-0405s", "cab 01 - revelation"). */
+export async function listProductIds(
+    index: OpenLanguageIndex,
+    luceneDumpExePath: string
+): Promise<string[]> {
+    const { stdout, stderr } = await execFileAsync(
+        luceneDumpExePath,
+        [index.indexDir, '--ids'],
+        { maxBuffer: 64 * 1024 * 1024 }
+    )
+    if (stderr.trim()) console.error(stderr.trim())
+    return JSON.parse(stdout) as string[]
 }
 
 export async function closeLanguageIndex(

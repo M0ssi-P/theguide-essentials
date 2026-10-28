@@ -189,10 +189,14 @@ export function getDocsForProductId(
     docs: LuceneDoc[],
     productId: string
 ): LuceneDoc[] {
+    // allSermons gives "53-0405M", the index stores "53-0405m"
+    const wanted = productId.toLowerCase()
     return docs
         .filter((d) => {
             const v = d.productId
-            return Array.isArray(v) ? v.includes(productId) : v === productId
+            return Array.isArray(v)
+                ? v.some((x) => x.toLowerCase() === wanted)
+                : v?.toLowerCase() === wanted
         })
         .sort((a, b) => firstMsInDoc(a) - firstMsInDoc(b))
 }

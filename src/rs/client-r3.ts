@@ -2,10 +2,13 @@ import {
     S3Client,
     PutObjectCommand,
     HeadObjectCommand,
+    GetObjectCommand,
 } from '@aws-sdk/client-s3'
 import { Upload } from '@aws-sdk/lib-storage'
-import { createReadStream } from 'fs'
-import { createGzip } from 'zlib'
+import { createReadStream, createWriteStream } from 'fs'
+import { createGunzip, createGzip } from 'zlib'
+import { pipeline } from 'stream/promises'
+import type { Readable } from 'stream'
 
 export interface SourceInfo {
     language: string
@@ -119,4 +122,43 @@ export async function publishDb(
     )
 
     return pointer
+}
+
+export async function getLatestPointer(
+    kind: string,
+    id: string
+): Promise<LatestPointer | null> {
+    const bucket = process.env.R2_BUCKET
+    if (!bucket) throw new Error('Missing R2_BUCKET in your environment')
+
+    try {
+        const obj = await getS3Client().send(
+            new GetObjectCommand({
+                Bucket: bucket,
+                Key: pointerKeyFor(kind, id),
+            })
+        )
+        return JSON.parse(await obj.Body!.transformToString())
+    } catch (error: any) {
+        if (error?.name === 'NoSuchKey') return null
+        throw error
+    }
+}
+
+export async function downloadDb(
+    kind: string,
+    id: string,
+    destPath: string
+): Promise<void> {
+    const bucket = process.env.R2_BUCKET
+    if (!bucket) throw new Error('Missing R2_BUCKET in your environment')
+
+    const obj = await getS3Client().send(
+        new GetObjectCommand({ Bucket: bucket, Key: dbKeyFor(kind, id, true) })
+    )
+    await pipeline(
+        obj.Body as Readable,
+        createGunzip(),
+        createWriteStream(destPath)
+    )
 }

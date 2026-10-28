@@ -128,10 +128,12 @@ export class SermonsRepository {
     importParagraphs(
         paragraph: Paragraph,
         sectionId: string,
+        position: number,
         idMapper: (id: string) => void
     ): void {
+        // position keeps paragraphs that share a number (unnumbered ones) from colliding
         const generatedId = generateIdFromName(
-            `${sectionId}:paragraph:${paragraph.number}:${paragraph.id}`
+            `${sectionId}:paragraph:${position}:${paragraph.number}:${paragraph.id}`
         )
 
         this.insertParagraphStmt.run(
@@ -146,9 +148,10 @@ export class SermonsRepository {
         idMapper(generatedId)
     }
 
-    importLine(line: Line, paragraphId: string): void {
+    importLine(line: Line, paragraphId: string, position: number): void {
+        // every line of a paragraph has the paragraph's number, so the id needs its position
         const generatedId = generateIdFromName(
-            `${paragraphId}:line:${line.number}`
+            `${paragraphId}:line:${position}`
         )
 
         this.insertLineStmt.run(

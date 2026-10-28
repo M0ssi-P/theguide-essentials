@@ -7,7 +7,7 @@ using Lucene.Net.Util;
 
 if (args.Length < 2)
 {
-    Console.Error.WriteLine("Usage: LuceneDump <indexDir> <outputJsonPath> [productId]");
+    Console.Error.WriteLine("Usage: LuceneDump <indexDir> <outputJsonPath|-|--ids> [productId]");
     return 1;
 }
 
@@ -19,6 +19,24 @@ if (!System.IO.Directory.Exists(indexDir))
 {
     Console.Error.WriteLine($"Index directory not found: {indexDir}");
     return 1;
+}
+
+if (outputPath == "--ids")
+{
+    var ids = new SortedSet<string>(StringComparer.Ordinal);
+    var idField = new HashSet<string> { "productId" };
+    using var idDirectory = FSDirectory.Open(indexDir);
+    using var idReader = DirectoryReader.Open(idDirectory);
+    IBits? idLiveDocs = MultiFields.GetLiveDocs(idReader);
+    for (int docId = 0; docId < idReader.MaxDoc; docId++)
+    {
+        if (idLiveDocs != null && !idLiveDocs.Get(docId)) continue;
+        string? stored = idReader.Document(docId, idField).Get("productId");
+        if (stored != null) ids.Add(stored);
+    }
+    Console.Out.Write(JsonSerializer.Serialize(ids));
+    Console.Error.WriteLine($"Wrote {ids.Count} productIds to stdout");
+    return 0;
 }
 
 var docs = new List<Dictionary<string, object>>();
@@ -66,7 +84,8 @@ using (var reader = DirectoryReader.Open(directory))
         }
         else
         {
-            docIds = scoreDocs.Select(sd => sd.Doc);
+            // index order = reading order (header first); hits come back by score
+            docIds = scoreDocs.Select(sd => sd.Doc).OrderBy(d => d);
             Console.Error.WriteLine($"Query for productId=\"{productId}\" matched {scoreDocs.Length} document(s).");
         }
     }
