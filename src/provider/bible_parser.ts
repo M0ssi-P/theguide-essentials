@@ -1,6 +1,6 @@
-import { ILanguage } from '../types'
-import { BaseParser } from './base_parser'
-import { IBibleVersion } from './bible/types'
+import type { ILanguage } from '../types/index.ts'
+import { BaseParser } from './base_parser.ts'
+import type { IBibleVersion } from './bible/types.ts'
 
 export default abstract class BibleParser extends BaseParser {
     abstract getAllLanguages(): Promise<Array<ILanguage>>

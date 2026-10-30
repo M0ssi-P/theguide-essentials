@@ -12,15 +12,24 @@ import {
 import { buildSentenceIndexById, getDocsForProductId } from './subtitle.ts'
 import Database from 'better-sqlite3'
 import { createUpdatedAtTrigger } from './db/config/update_at_trigger.ts'
-import { startTableStatement } from './db/config/start_statement.ts'
+import {
+    startBibleStatement,
+    startTableStatement,
+} from './db/config/start_statement.ts'
 import { SermonsRepository } from './db/table/sermon.ts'
+import { BibleRepository } from './db/bible/bible.ts'
+import Bible from './provider/bible/bible.ts'
 import * as fsp from 'node:fs/promises'
 import * as os from 'node:os'
 import * as path from 'node:path'
 import {
+    bibleKeyId,
     downloadDb,
     getLatestPointer,
     publishDb,
+    putJson,
+    upsertBibleVersion,
+    type LatestPointer,
     type SourceInfo,
 } from './rs/client-r3.ts'
 import {
@@ -250,6 +259,236 @@ app.get('/update-db', async (req, res) => {
         if (db?.open) db.close()
         if (index) await closeLanguageIndex(index)
         // dry run keeps the updated db for inspection
+        if (!dryRun) await fsp.rm(tempDir, { recursive: true, force: true })
+    }
+})
+
+const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
+
+app.get('/bible/languages', async (req, res) => {
+    const dryRun = req.query.dryRun === '1'
+
+    try {
+        const languages = await new Bible().getAllLanguages()
+        if (!dryRun) await putJson('bible/languages.json', languages)
+
+        res.json({
+            status: 'success',
+            count: languages.length,
+            ...(dryRun ? { languages } : {}),
+        })
+    } catch (error) {
+        console.error('Error refreshing bible languages:', error)
+        res.status(500).json({ status: 'error', message: String(error) })
+    }
+})
+
+app.get('/init-bible', async (req, res) => {
+    const lang = String(req.query.lang ?? 'en')
+    const versionQuery = String(req.query.version ?? '').toLowerCase()
+    const dryRun = req.query.dryRun === '1'
+    // for testing: only build these books, e.g. books=PSA,JHN
+    const onlyBooks = req.query.books
+        ? String(req.query.books).toUpperCase().split(',')
+        : null
+    const startedAt = Date.now()
+
+    const bible = new Bible()
+    const language = (await bible.getAllLanguages()).find(
+        (x) => x.tag === lang || x.iso63901 === lang
+    )
+    if (!language?.tag) {
+        res.status(400).json({
+            status: 'error',
+            message: `Unknown lang "${lang}"`,
+        })
+        return
+    }
+
+    // without a version, build the language's default one
+    const picked = (await bible.getVersions(language.tag)).find((v) =>
+        versionQuery
+            ? v.abbreviation.toLowerCase() === versionQuery ||
+              `${v.id}` === versionQuery
+            : v.id === language.id
+    )
+    if (!picked) {
+        res.status(404).json({
+            status: 'error',
+            message: `No version "${versionQuery}" for ${language.tag}`,
+        })
+        return
+    }
+
+    const tempDir = await fsp.mkdtemp(path.join(os.tmpdir(), 'bible-db-'))
+    const dbPath = path.join(tempDir, `bible-${picked.id}.db`)
+    const db = new Database(dbPath)
+
+    try {
+        const version = await bible.getFullVersion(picked.id)
+        startBibleStatement(db)
+        const repo = new BibleRepository(db)
+        repo.importVersion(version, language.tag)
+
+        const chapters: {
+            bookId: string
+            book: string
+            usfm: string
+            number: number
+        }[] = []
+        for (const [position, book] of version.books.entries()) {
+            if (!book.text || (onlyBooks && !onlyBooks.includes(book.usfm)))
+                continue
+            const bookId = repo.importBook(book, version.id, position)
+            for (const chapter of book.chapters) {
+                // intro chapters (BOOK.INTRO1) are not canonical
+                if (!chapter.canonical) continue
+                chapters.push({
+                    bookId,
+                    book: book.usfm,
+                    usfm: chapter.usfm,
+                    number: parseInt(chapter.usfm.split('.')[1]),
+                })
+            }
+        }
+
+        const fetchChapter = async (
+            c: (typeof chapters)[number],
+            attempt = 1
+        ): Promise<Awaited<ReturnType<Bible['getChapter']>>> => {
+            try {
+                return await bible.getChapter(version.id, c.book, c.number)
+            } catch (error) {
+                if (attempt >= 3) throw error
+                await sleep(2000 * attempt)
+                return fetchChapter(c, attempt + 1)
+            }
+        }
+
+        // fail fast instead of building a version with no audio timings
+        await bible.client.get(`${bible.alignerURI}/health`).catch(() => {
+            throw new Error(
+                `Aligner not reachable at ${bible.alignerURI}, start tools/aligner first`
+            )
+        })
+
+        let gpuMs = 0
+        let failedAlignments = 0
+        const pending: Promise<void>[] = []
+        for (let i = 0; i < chapters.length; i += 4) {
+            const batch = chapters.slice(i, i + 4)
+            const fetched = await Promise.all(batch.map((c) => fetchChapter(c)))
+
+            for (const [j, chapter] of fetched.entries()) {
+                const c = batch[j]!
+                const chapterId = repo.importChapter(
+                    c.bookId,
+                    c.usfm,
+                    c.number,
+                    chapter
+                )
+                for (const audio of chapter.audioInfo) {
+                    pending.push(
+                        bible
+                            .align(
+                                `https:${audio.download_urls.format_mp3_32k}`,
+                                language.iso63903 ?? language.tag,
+                                chapter.verses
+                            )
+                            .then((r) => {
+                                gpuMs += r.gpuMs
+                                repo.importAudio(
+                                    chapterId,
+                                    audio,
+                                    r.durationMs,
+                                    r.timings
+                                )
+                            })
+                            .catch((error) => {
+                                failedAlignments++
+                                console.error(
+                                    `Alignment failed for ${c.usfm} voice ${audio.id}:`,
+                                    String(error)
+                                )
+                                repo.importAudio(chapterId, audio, null, [])
+                            })
+                    )
+                }
+            }
+            console.log(`${i + batch.length}/${chapters.length} chapters`)
+
+            // alignment runs behind the fetching; cap the backlog so the GPU stays busy without piling up downloads
+            while (pending.length > 8) await pending.shift()
+            await sleep(300)
+        }
+        await Promise.all(pending)
+
+        db.exec('ANALYZE')
+        const counts = Object.fromEntries(
+            [
+                'version',
+                'books',
+                'chapters',
+                'paragraphs',
+                'lines',
+                'audio',
+                'audio_timings',
+            ].map((t) => [
+                t,
+                (
+                    db.prepare(`SELECT COUNT(*) AS n FROM ${t}`).get() as {
+                        n: number
+                    }
+                ).n,
+            ])
+        )
+        db.close()
+
+        if (failedAlignments > 0 && !dryRun) {
+            throw new Error(
+                `${failedAlignments} audio alignments failed, not publishing (rerun, or use dryRun to inspect)`
+            )
+        }
+
+        const key = bibleKeyId(version.abbreviation, version.id)
+        let pointer: LatestPointer | null = null
+        if (!dryRun) {
+            pointer = await publishDb({
+                kind: 'bible',
+                folder: `bible/${language.tag}`,
+                id: key,
+                dbPath,
+            })
+            await upsertBibleVersion(language.tag, {
+                id: version.id,
+                abbreviation: version.abbreviation,
+                title: version.title,
+                localTitle: version.local_title,
+                hasAudio: !!version.audio,
+                key: pointer.key,
+                etag: pointer.etag,
+                size: pointer.size,
+                uploadedAt: pointer.uploadedAt,
+            })
+        }
+
+        res.json({
+            status: 'success',
+            version: version.abbreviation,
+            key,
+            chapters: chapters.length,
+            counts,
+            failedAlignments,
+            gpuMs,
+            wallMs: Date.now() - startedAt,
+            ...(dryRun ? { dbPath } : { pointer }),
+        })
+    } catch (error) {
+        console.error('Error building bible database:', error)
+        res.status(500).json({ status: 'error', message: String(error) })
+    } finally {
+        if (db.open) db.close()
+        // dry run keeps the db for inspection
         if (!dryRun) await fsp.rm(tempDir, { recursive: true, force: true })
     }
 })

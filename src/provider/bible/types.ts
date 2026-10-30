@@ -1,4 +1,4 @@
-import { ILanguage } from '../../types'
+import type { ILanguage } from '../../types/index.ts'
 
 export interface IBibleVersionHTMLorText {
     html: string | null
@@ -120,4 +120,41 @@ export interface IChapterContent {
     version?: IBibleVersion | null
     audio?: ChapterAud[] | null
     chapter?: ChapterSection[]
+}
+
+export interface IBibleSegment {
+    content: string
+    style: string[] // Normal, Italic, SmallCaps, Bold
+    isJesus: boolean
+}
+
+// one verse piece inside a paragraph; a verse that crosses paragraphs has a line in each
+export interface IBibleLine {
+    verse: number
+    displayNumber: boolean
+    segments: IBibleSegment[]
+}
+
+export interface IBibleParagraph {
+    type: string // USFM class: p, q1, m, s1, d...
+    isHeading: boolean
+    heading: string | null
+    lines: IBibleLine[]
+}
+
+export interface IBibleAudio {
+    default: boolean
+    id: number
+    version_id: number
+    title: string
+    download_urls: {
+        format_hls: string
+        format_mp3_32k: string
+    }
+}
+
+export interface IVerseTiming {
+    verse: number
+    startMs: number
+    endMs: number
 }

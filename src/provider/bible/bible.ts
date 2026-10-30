@@ -1,22 +1,44 @@
 import type { ILanguage } from '../../types/index.ts'
 import BibleParser from '../bible_parser.ts'
-import FormData from 'form-data'
 import fs from 'fs'
-import { fileURLToPath } from 'url'
-import { parseStream } from 'music-metadata'
 import path from 'path'
-import {
-    type IBibleVersion,
-    type IChapterContent,
-    type IParagraph,
+import type {
+    IBibleAudio,
+    IBibleParagraph,
+    IBibleSegment,
+    IBibleVersion,
+    IVerseTiming,
 } from './types.ts'
 import { load } from 'cheerio'
-import { start } from 'repl'
-import { version } from 'os'
+import type { AnyNode } from 'domhandler'
 
-interface VerseMap {
-    [verseNumber: string]: string
+// footnotes and cross references are both span.note; label is the verse number
+const SKIPPED = ['note', 'label']
+// chapter number and parallel reference lines
+const SKIPPED_PARAGRAPHS = ['label', 'cl', 'r', 'mr', 'sr']
+const STYLES: Record<string, string> = {
+    add: 'Italic',
+    it: 'Italic',
+    qs: 'Italic',
+    tl: 'Italic',
+    nd: 'SmallCaps',
+    sc: 'SmallCaps',
+    bd: 'Bold',
 }
+
+const mapLanguage = (it: any): ILanguage => ({
+    id: it.id ?? null,
+    iso63901: it.iso_639_1,
+    iso63903: it.iso_639_3,
+    name: it.name,
+    localName: it.local_name,
+    tag: it.language_tag,
+    hasAudio: it.has_audio ?? null,
+    hasText: it.has_text ?? null,
+    totalVersions: it.total_versions ?? null,
+    textDirection: it.text_direction,
+    font: it.font ?? null,
+})
 
 class Bible extends BibleParser {
     override name: string = 'The Table'
@@ -24,11 +46,7 @@ class Bible extends BibleParser {
     override baseURI: string = 'https://www.bible.com'
     isDiverse: boolean = true
 
-    private tUrl: string = 'https://table.branham.org'
-    private messageBaseURL = 'https://search.messagehub.info/api'
-    __filename = fileURLToPath(import.meta.url)
-
-    __dirname = path.dirname(this.__filename)
+    alignerURI = 'http://localhost:8765'
 
     private header = {
         'X-Requested-With': 'XMLHttpRequest',
@@ -49,22 +67,8 @@ class Bible extends BibleParser {
             }
         )
 
-        const parsed = res.data
-
         return (
-            parsed?.response?.data?.defaultVersions?.map((it: any) => ({
-                id: it.id,
-                iso63901: it.iso63901,
-                iso63903: it.iso63903,
-                name: it.name,
-                localName: it.localName,
-                tag: it.tag,
-                hasAudio: it.hasAudio,
-                hasText: it.hasText,
-                totalVersions: it.totalVersions,
-                textDirection: it.textDirection,
-                font: it.font,
-            })) ?? []
+            res.data?.response?.data?.default_versions?.map(mapLanguage) ?? []
         )
     }
 
@@ -80,25 +84,13 @@ class Bible extends BibleParser {
             res.data?.response?.data?.versions.map((it: any) => ({
                 id: it.id,
                 abbreviation: it.abbreviation,
-                localAbbreviation: it.localAbbreviation,
+                localAbbreviation: it.local_abbreviation,
                 title: it.title,
-                localTitle: it.localTitle,
+                localTitle: it.local_title,
                 audio: it.audio,
-                audioCount: it.audioCount,
+                audioCount: it.audio_count,
                 text: it.text,
-                language: {
-                    id: it.language.id,
-                    iso63901: it.language.iso63901,
-                    iso63903: it.language.iso63903,
-                    name: it.language.name,
-                    localName: it.language.localName,
-                    tag: it.language.tag,
-                    hasAudio: it.language.hasAudio,
-                    hasText: it.language.hasText,
-                    totalVersions: it.language.totalVersions,
-                    textDirection: it.language.textDirection,
-                    font: it.language.font,
-                },
+                language: mapLanguage(it.language),
             })) ?? []
         )
     }
@@ -114,246 +106,176 @@ class Bible extends BibleParser {
     async getChapter(versionId: number, bookUsfm: string, chapter: number) {
         const url = `${this.baseURI}/bible/${versionId}/${bookUsfm}.${chapter}`
 
-        const res = await this.client.get(url)
-        const html = res.data
+        // bible.com is a Next.js App Router site now: ask for the raw RSC payload instead of HTML
+        const res = await this.client.get(url, {
+            headers: { RSC: '1' },
+            responseType: 'arraybuffer',
+        })
+        const buf = Buffer.from(res.data)
+        const rsc = buf.toString('utf8')
 
-        const res$ = load(html)
-        const nextData = JSON.parse(res$('#__NEXT_DATA__').html() ?? '{}')
-        const $ = load(nextData?.props?.pageProps?.chapterInfo.content ?? '')
-        const audioInfo: {
-            default: boolean
-            id: number
-            version_id: number
-            title: string
-            download_urls: {
-                format_hls: string
-                format_mp3_32k: string
+        // chapterInfo is a plain JSON object inside the payload; cut it out by brace matching
+        const key = '"chapterInfo":'
+        const start = rsc.indexOf(key + '{') + key.length
+        if (start < key.length) throw new Error(`No chapterInfo in ${url}`)
+        let end = start
+        for (let depth = 0, inStr = false; end < rsc.length; end++) {
+            const c = rsc[end]
+            if (inStr) {
+                if (c === '\\') end++
+                else if (c === '"') inStr = false
+            } else if (c === '"') inStr = true
+            else if (c === '{') depth++
+            else if (c === '}' && --depth === 0) break
+        }
+        const chapterInfo = JSON.parse(rsc.slice(start, end + 1))
+
+        // long strings come as separate text rows: "$6d" -> "\n6d:T<hex byte length>,<text>"
+        let content: string = chapterInfo.content ?? ''
+        if (content.startsWith('$')) {
+            const row = buf.indexOf(`\n${content.slice(1)}:T`)
+            const comma = buf.indexOf(',', row)
+            const len = parseInt(
+                buf.toString('utf8', row + content.length + 2, comma),
+                16
+            )
+            content =
+                row < 0 ? '' : buf.toString('utf8', comma + 1, comma + 1 + len)
+        }
+
+        const $ = load(content)
+        const audioInfo: IBibleAudio[] = chapterInfo.audioChapterInfo ?? []
+        const next: string | null = chapterInfo.next?.usfm ?? null
+        const prev: string | null = chapterInfo.previous?.usfm ?? null
+
+        // walks an element and appends its text as segments, inheriting styles from the parents
+        const collect = (
+            el: AnyNode,
+            style: string[],
+            isJesus: boolean,
+            out: IBibleSegment[]
+        ) => {
+            $(el)
+                .contents()
+                .each((_, node) => {
+                    if (node.type === 'text') {
+                        const last = out[out.length - 1]
+                        const s = style.length ? style : ['Normal']
+                        if (
+                            last &&
+                            last.isJesus === isJesus &&
+                            last.style.join() === s.join()
+                        ) {
+                            last.content += node.data
+                        } else {
+                            out.push({ content: node.data, style: s, isJesus })
+                        }
+                        return
+                    }
+                    const classes = ($(node).attr('class') ?? '').split(/\s+/)
+                    if (classes.some((c) => SKIPPED.includes(c))) return
+                    const added = classes
+                        .map((c) => STYLES[c])
+                        .filter((s): s is string => !!s && !style.includes(s))
+                    collect(
+                        node,
+                        [...style, ...added],
+                        isJesus || classes.includes('wj'),
+                        out
+                    )
+                })
+            return out
+        }
+
+        const clean = (segments: IBibleSegment[]) => {
+            segments.forEach(
+                (s) => (s.content = s.content.replace(/\s+/g, ' '))
+            )
+            if (segments.length) {
+                segments[0]!.content = segments[0]!.content.trimStart()
+                const last = segments[segments.length - 1]!
+                last.content = last.content.trimEnd()
             }
-        }[] = nextData?.props?.pageProps?.chapterInfo.audioChapterInfo ?? []
+            return segments.filter((s) => s.content)
+        }
 
-        const next = nextData.props?.pageProps?.chapterInfo.next?.usfm ?? null
-        const prev =
-            nextData.props?.pageProps?.chapterInfo.previous?.usfm ?? null
+        const paragraphs: IBibleParagraph[] = []
+        const verseText = new Map<number, string>()
 
-        const HeadingList = ['s', 's1', 'is', 'is1', 'ms', 'ms1']
-        const ParagraphList = ['p', 'q1', 'q2', 'pi', 'li1', 'm', 'pc']
-
-        const promises: IChapterContent = { chapter: [] }
-
-        $('div.version > div.book > div.chapter')
+        $('div.chapter')
             .children('div')
             .each((_, el) => {
                 const elem = $(el)
-                const className = elem.attr('class') ?? ''
+                const type = elem.attr('class') ?? ''
+                if (SKIPPED_PARAGRAPHS.includes(type)) return
 
-                // Heading
-                if (HeadingList.includes(className)) {
-                    const headingText = elem.find('span.heading').text()
-                    promises.chapter!.push({
-                        hasHeading: true,
-                        hasSubheading: false,
-                        heading: {
-                            heading: headingText,
-                            subHeading: null,
-                            type: '',
-                        },
-                        content: [],
+                const verses = elem.children('span.verse')
+                if (!verses.length) {
+                    // headings (s1, ms, d, qa...) and blank lines (b)
+                    const heading = clean(collect(el, [], false, []))
+                        .map((s) => s.content)
+                        .join('')
+                    paragraphs.push({
+                        type,
+                        isHeading: !!heading,
+                        heading: heading || null,
+                        lines: [],
                     })
                     return
                 }
 
-                // Paragraph
-                if (ParagraphList.includes(className)) {
-                    if (!promises.chapter || promises.chapter.length === 0) {
-                        promises.chapter?.push({
-                            hasHeading: false,
-                            hasSubheading: false,
-                            heading: {
-                                heading: null,
-                                subHeading: null,
-                                type: null,
-                            },
-                            content: [],
-                        })
-                    }
+                const paragraph: IBibleParagraph = {
+                    type,
+                    isHeading: false,
+                    heading: null,
+                    lines: [],
+                }
+                verses.each((_, verseEl) => {
+                    // "JHN.3.16", or "JHN.3.16+JHN.3.17" for combined verses
+                    const usfm = $(verseEl).attr('data-usfm') ?? ''
+                    const verse = parseInt(
+                        usfm.split('+')[0]!.split('.')[2] ?? ''
+                    )
+                    const segments = clean(collect(verseEl, [], false, []))
+                    if (isNaN(verse) || !segments.length) return
 
-                    const paragraph: IParagraph = {
-                        type: className,
-                        verses: [],
-                    }
-
-                    elem.find('> span.verse').each((_, verseEl) => {
-                        const verseSpan = $(verseEl)
-                        const numberText = verseSpan
-                            .find('> span.label')
+                    paragraph.lines.push({
+                        verse,
+                        displayNumber: !!$(verseEl)
+                            .children('span.label')
                             .text()
-                            .trim()
-                        const number =
-                            parseInt(numberText) ||
-                            parseInt(
-                                (verseSpan.attr('data-usfm') ?? '0')
-                                    .split('.')
-                                    .pop()!
-                            )
-
-                        let verseText = ''
-                        $(verseEl)
-                            .children()
-                            .each((_, child) => {
-                                const childClass = $(child).attr('class') || ''
-                                if (
-                                    !childClass.includes('note') &&
-                                    !childClass.includes('label')
-                                ) {
-                                    verseText += $(child).text()
-                                }
-                            })
-                        verseText = verseText.trim()
-
-                        if (verseText) {
-                            paragraph?.verses?.push({
-                                number,
-                                displayNumber: !isNaN(parseInt(numberText)),
-                                content: verseText as any,
-                            })
-                        }
+                            .trim(),
+                        segments,
                     })
-
-                    promises.chapter![
-                        promises.chapter!.length - 1
-                    ]!!.content?.push(paragraph)
-                }
-            })
-
-        let duplicatesSolved: {
-            [verseNumber: string]: string
-        } = {}
-
-        promises?.chapter?.forEach((section) => {
-            section?.content?.forEach((paragraph) => {
-                paragraph?.verses?.forEach((verse) => {
-                    const verseKey = `${verse.number}`
-                    if (duplicatesSolved[verseKey]) {
-                        duplicatesSolved[verseKey] = duplicatesSolved[
-                            verseKey
-                        ] += ` ${verse.content ?? ''}`
-                    } else {
-                        duplicatesSolved[verseKey] =
-                            verse.content?.join(' ') ?? ''
-                    }
+                    const text = segments.map((s) => s.content).join('')
+                    verseText.set(
+                        verse,
+                        [verseText.get(verse), text].filter(Boolean).join(' ')
+                    )
                 })
-            })
-        })
-
-        let text = ''
-        Object.keys(duplicatesSolved)
-            .sort((a, b) => parseInt(a) - parseInt(b))
-            .forEach((key) => {
-                text += `${duplicatesSolved[key]} `
+                paragraphs.push(paragraph)
             })
 
-        return {
-            chapterInto: duplicatesSolved,
-            audioInfo,
-            text: text.trim(),
-            next,
-            prev,
-        }
+        const verses = [...verseText.entries()]
+            .sort((a, b) => a[0] - b[0])
+            .map(([verse, text]) => ({ verse, text }))
+
+        return { paragraphs, verses, audioInfo, next, prev }
     }
 
-    async alignPerVerse(audioUrl: string, text: string) {
-        const response = await this.client.get(audioUrl, {
-            responseType: 'stream',
+    // verse timings from the MMS aligner service (tools/aligner)
+    async align(
+        audioUrl: string,
+        language: string,
+        verses: { verse: number; text: string }[]
+    ): Promise<{ durationMs: number; gpuMs: number; timings: IVerseTiming[] }> {
+        const res = await this.client.post(`${this.alignerURI}/align`, {
+            audioUrl,
+            language,
+            verses,
         })
 
-        const form = new FormData()
-
-        form.append('audio', response.data, {
-            filename: 'chapter.mp3',
-            contentType: 'audio/mpeg',
-        })
-
-        form.append('transcript', Buffer.from(text), {
-            filename: 'transcript.txt',
-            contentType: 'text/plain',
-        })
-
-        const result = await this.client.post(
-            'http://localhost:8765/transcriptions?async=false',
-            form,
-            {
-                headers: form.getHeaders(),
-                maxContentLength: Infinity,
-                maxBodyLength: Infinity,
-            }
-        )
-
-        return result.data
-    }
-
-    async getDurationFromStream(url: string) {
-        try {
-            const response = await this.client({
-                method: 'get',
-                url,
-                responseType: 'stream',
-            })
-            const metadata = await parseStream(response.data, {
-                mimeType: 'audio/mpeg',
-            })
-            return metadata.format.duration || 0
-        } catch (e) {
-            return 0
-        }
-    }
-
-    fillGaps(words: any) {
-        for (let i = 0; i < words.length; i++) {
-            if (words[i].case === 'not-found-in-audio') {
-                // 1. Find the last successful word before this gap
-                let prev = words
-                    .slice(0, i)
-                    .reverse()
-                    .find((w: any) => w.case === 'success')
-                // 2. Find the next successful word after this gap
-                let next = words
-                    .slice(i + 1)
-                    .find((w: any) => w.case === 'success')
-
-                if (prev && next) {
-                    let gapDuration = next.start - prev.end
-                    // Find how many words are in this specific gap
-                    let gapStartIndex = i
-                    let gapEndIndex = i
-                    while (
-                        words[gapEndIndex + 1] &&
-                        words[gapEndIndex + 1].case === 'not-found-in-audio'
-                    ) {
-                        gapEndIndex++
-                    }
-
-                    let numMissing = gapEndIndex - gapStartIndex + 1
-                    let timePerWord = gapDuration / numMissing
-
-                    // 3. Assign estimated timestamps
-                    for (let j = 0; j < numMissing; j++) {
-                        let targetIndex = gapStartIndex + j
-                        words[targetIndex].start = prev.end + j * timePerWord
-                        words[targetIndex].end =
-                            words[targetIndex].start + timePerWord
-                        words[targetIndex].isEstimated = true // Flag it for your own reference
-                    }
-                    // Skip the words we just filled
-                    i = gapEndIndex
-                }
-            }
-        }
-        return {
-            start: words[0]?.start ?? 0,
-            end: words[words.length - 1]?.end ?? 0,
-            startOffset: words[0]?.startOffset ?? 0,
-            endOffset: words[words.length - 1]?.endOffset ?? 0,
-        }
+        return res.data
     }
 
     async generateTranscript(
@@ -368,66 +290,15 @@ class Bible extends BibleParser {
             process.cwd(),
             `src/datastore/bible/${version.abbreviation}-${version.id}/subtitles/`
         )
-        const verses = await this.getChapter(version.id, bookUsfm, chapter)
-        const verseKeys = Object.keys(verses.chapterInto)
+        const chapterInfo = await this.getChapter(version.id, bookUsfm, chapter)
 
-        const verseRanges = verseKeys.map((key, index) => {
-            const text = verses.chapterInto[key]
-            const start = verses.text.indexOf(text ?? '')
-            return {
-                key: key,
-                start: start,
-                end: start + (text?.length ?? 0),
-            }
-        })
-
-        for (const audio of verses.audioInfo) {
+        for (const audio of chapterInfo.audioInfo) {
             const audioUrl = `https:${audio?.download_urls?.format_mp3_32k}`
-
-            const [totalDuration, result] = await Promise.all([
-                this.getDurationFromStream(audioUrl),
-                this.alignPerVerse(audioUrl, verses.text),
-            ])
-
-            const versesWithWords = verseRanges.map((range) => {
-                const filteredWords = result.words.filter(
-                    (w: any) =>
-                        w.startOffset >= range.start &&
-                        w.startOffset < range.end
-                )
-
-                return {
-                    verse: range.key,
-                    timing: this.fillGaps(filteredWords),
-                }
-            })
-
-            for (let i = 0; i < versesWithWords.length; i++) {
-                let current = versesWithWords[i]!!
-
-                if (i > 0) {
-                    current.timing.start = versesWithWords[i - 1]?.timing.end
-                } else {
-                    current.timing.start = 0
-                }
-
-                if (current.timing.end <= current.timing.start) {
-                    let nextValidVerse = versesWithWords
-                        .slice(i + 1)
-                        .find((v) => v.timing.end > 0)
-
-                    if (nextValidVerse) {
-                        current.timing.end = nextValidVerse.timing.start
-                    } else {
-                        current.timing.end = totalDuration
-                    }
-                }
-            }
-
-            if (versesWithWords.length > 0) {
-                versesWithWords[versesWithWords.length - 1]!!.timing.end =
-                    totalDuration
-            }
+            const { timings } = await this.align(
+                audioUrl,
+                version.language?.iso_639_3 ?? 'eng',
+                chapterInfo.verses
+            )
 
             promises.push({
                 audioName: `${book} Chapter ${chapter} `,
@@ -436,9 +307,12 @@ class Bible extends BibleParser {
                 versionId: audio.version_id,
                 default: audio.default,
                 fileId: audioUrl.split('/').pop()?.split('.')[0] ?? '',
-                next: verses.next,
-                prev: verses.prev,
-                lyrics: versesWithWords,
+                next: chapterInfo.next,
+                prev: chapterInfo.prev,
+                lyrics: timings.map((t) => ({
+                    verse: `${t.verse}`,
+                    timing: { start: t.startMs / 1000, end: t.endMs / 1000 },
+                })),
             })
         }
 

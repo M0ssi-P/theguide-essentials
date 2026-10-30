@@ -7,7 +7,7 @@ import type {
     Sermon,
 } from '../../provider/vgr/types.ts'
 
-function generateIdFromName(name: string): string {
+export function generateIdFromName(name: string): string {
     return createHash('sha256').update(name).digest('hex').substring(0, 16)
 }
 

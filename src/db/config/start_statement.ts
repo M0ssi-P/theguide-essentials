@@ -18,3 +18,24 @@ export function startTableStatement(db: Database.Database): void {
 
     executeStatements()
 }
+
+export function startBibleStatement(db: Database.Database): void {
+    const sqlStatements: string[] = [
+        'version.sql',
+        'books.sql',
+        'chapters.sql',
+        'paragraphs.sql',
+        'lines.sql',
+        'audio.sql',
+        'audio_timings.sql',
+        'indexes.sql',
+    ].map((file) => loadSql(file, 'bible'))
+
+    const executeStatements = db.transaction(() => {
+        for (const sql of sqlStatements) {
+            db.exec(sql)
+        }
+    })
+
+    executeStatements()
+}
