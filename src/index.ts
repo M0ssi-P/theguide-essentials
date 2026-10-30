@@ -24,10 +24,12 @@ import * as os from 'node:os'
 import * as path from 'node:path'
 import {
     bibleKeyId,
+    deleteBibleVersion,
     downloadDb,
+    getBibleLanguages,
     getLatestPointer,
     publishDb,
-    putJson,
+    upsertBibleLanguage,
     upsertBibleVersion,
     type LatestPointer,
     type SourceInfo,
@@ -265,20 +267,51 @@ app.get('/update-db', async (req, res) => {
 
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
 
+// the languages that have a published version in R2 (added by /init-bible, removed by DELETE /bible)
 app.get('/bible/languages', async (req, res) => {
-    const dryRun = req.query.dryRun === '1'
+    try {
+        const languages = await getBibleLanguages()
+        res.json({ status: 'success', count: languages.length, languages })
+    } catch (error) {
+        console.error('Error reading bible languages:', error)
+        res.status(500).json({ status: 'error', message: String(error) })
+    }
+})
+
+// DELETE /bible?lang=eng&version=KJV
+app.delete('/bible', async (req, res) => {
+    const lang = String(req.query.lang ?? '')
+    const version = String(req.query.version ?? '')
+    if (!lang || !version) {
+        res.status(400).json({
+            status: 'error',
+            message: 'lang and version are required',
+        })
+        return
+    }
 
     try {
-        const languages = await new Bible().getAllLanguages()
-        if (!dryRun) await putJson('bible/languages.json', languages)
-
+        // accept "en" as well as the folder's tag "eng"
+        const tag =
+            (await getBibleLanguages()).find(
+                (l) => l.tag === lang || l.iso63901 === lang
+            )?.tag ?? lang
+        const result = await deleteBibleVersion(tag, version)
+        if (!result) {
+            res.status(404).json({
+                status: 'error',
+                message: `No published version "${version}" for ${tag}`,
+            })
+            return
+        }
         res.json({
             status: 'success',
-            count: languages.length,
-            ...(dryRun ? { languages } : {}),
+            deleted: result.deleted.key,
+            remainingVersions: result.remaining,
+            languageRemoved: result.remaining === 0,
         })
     } catch (error) {
-        console.error('Error refreshing bible languages:', error)
+        console.error('Error deleting bible version:', error)
         res.status(500).json({ status: 'error', message: String(error) })
     }
 })
@@ -470,6 +503,7 @@ app.get('/init-bible', async (req, res) => {
                 size: pointer.size,
                 uploadedAt: pointer.uploadedAt,
             })
+            await upsertBibleLanguage(language)
         }
 
         res.json({

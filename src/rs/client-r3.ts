@@ -3,12 +3,14 @@ import {
     PutObjectCommand,
     HeadObjectCommand,
     GetObjectCommand,
+    DeleteObjectCommand,
 } from '@aws-sdk/client-s3'
 import { Upload } from '@aws-sdk/lib-storage'
 import { createReadStream, createWriteStream } from 'fs'
 import { createGunzip, createGzip } from 'zlib'
 import { pipeline } from 'stream/promises'
 import type { Readable } from 'stream'
+import type { ILanguage } from '../types/index.ts'
 
 export interface SourceInfo {
     language: string
@@ -231,4 +233,56 @@ export async function upsertBibleVersion(
     const updated = [...versions.filter((v) => v.id !== entry.id), entry]
     await putJson(key, updated)
     return updated
+}
+
+const BIBLE_LANGUAGES_KEY = 'bible/languages.json'
+
+// only languages with at least one published version are listed
+export async function getBibleLanguages(): Promise<ILanguage[]> {
+    return (await getJson<ILanguage[]>(BIBLE_LANGUAGES_KEY)) ?? []
+}
+
+// adds (or refreshes) the language in bible/languages.json when one of its versions is published
+export async function upsertBibleLanguage(language: ILanguage): Promise<void> {
+    const languages = await getBibleLanguages()
+    await putJson(BIBLE_LANGUAGES_KEY, [
+        ...languages.filter((l) => l.tag !== language.tag),
+        language,
+    ])
+}
+
+// removes a version's db, pointer and versions.json entry; the language goes too once it has no versions left
+export async function deleteBibleVersion(
+    lang: string,
+    version: string
+): Promise<{ deleted: BibleVersionEntry; remaining: number } | null> {
+    const bucket = process.env.R2_BUCKET
+    if (!bucket) throw new Error('Missing R2_BUCKET in your environment')
+
+    const versionsKey = `bible/${lang}/versions.json`
+    const versions = (await getJson<BibleVersionEntry[]>(versionsKey)) ?? []
+    const q = version.toLowerCase()
+    const entry = versions.find(
+        (v) => v.abbreviation.toLowerCase() === q || `${v.id}` === q
+    )
+    if (!entry) return null
+
+    const s3 = getS3Client()
+    const remove = (Key: string) =>
+        s3.send(new DeleteObjectCommand({ Bucket: bucket, Key }))
+    await remove(entry.key)
+    await remove(entry.key.replace(/\.db(\.gz)?$/, '.latest.json'))
+
+    const remaining = versions.filter((v) => v.id !== entry.id)
+    if (remaining.length) {
+        await putJson(versionsKey, remaining)
+    } else {
+        await remove(versionsKey)
+        const languages = await getBibleLanguages()
+        await putJson(
+            BIBLE_LANGUAGES_KEY,
+            languages.filter((l) => l.tag !== lang)
+        )
+    }
+    return { deleted: entry, remaining: remaining.length }
 }
