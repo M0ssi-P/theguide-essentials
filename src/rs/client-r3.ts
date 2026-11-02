@@ -10,6 +10,7 @@ import { createReadStream, createWriteStream } from 'fs'
 import { createGunzip, createGzip } from 'zlib'
 import { pipeline } from 'stream/promises'
 import type { Readable } from 'stream'
+import { createHash } from 'crypto'
 import type { ILanguage } from '../types/index.ts'
 
 export interface SourceInfo {
@@ -207,6 +208,23 @@ export async function getJson<T>(key: string): Promise<T | null> {
         if (error?.name === 'NoSuchKey') return null
         throw error
     }
+}
+
+/** Uploads a small file to [key] unless the same bytes are already there (a plain upload's ETag is its MD5); true when it uploaded. */
+export async function putFileIfChanged(key: string, bytes: Buffer, contentType: string): Promise<boolean> {
+    const bucket = process.env.R2_BUCKET
+    if (!bucket) throw new Error('Missing R2_BUCKET in your environment')
+
+    const s3 = getS3Client()
+    const md5 = createHash('md5').update(bytes).digest('hex')
+    try {
+        const head = await s3.send(new HeadObjectCommand({ Bucket: bucket, Key: key }))
+        if ((head.ETag ?? '').replace(/"/g, '') === md5) return false
+    } catch (error: any) {
+        if (error?.name !== 'NotFound' && error?.$metadata?.httpStatusCode !== 404) throw error
+    }
+    await s3.send(new PutObjectCommand({ Bucket: bucket, Key: key, Body: bytes, ContentType: contentType }))
+    return true
 }
 
 export async function putJson(key: string, body: unknown): Promise<void> {
