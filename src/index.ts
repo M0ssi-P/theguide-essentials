@@ -407,6 +407,7 @@ app.get('/init-bible', async (req, res) => {
 
         let gpuMs = 0
         let failedAlignments = 0
+        let alignerDown: unknown = null
         const pending: Promise<void>[] = []
         for (let i = 0; i < chapters.length; i += 4) {
             const batch = chapters.slice(i, i + 4)
@@ -439,6 +440,8 @@ app.get('/init-bible', async (req, res) => {
                             })
                             .catch((error) => {
                                 failedAlignments++
+                                // no HTTP response even after retries: the aligner process is gone
+                                if (!error?.response) alignerDown = error
                                 console.error(
                                     `Alignment failed for ${c.usfm} voice ${audio.id}:`,
                                     String(error)
@@ -449,6 +452,11 @@ app.get('/init-bible', async (req, res) => {
                 }
             }
             console.log(`${i + batch.length}/${chapters.length} chapters`)
+            if (alignerDown) {
+                throw new Error(
+                    `Aligner stopped responding around ${batch[0]!.usfm} (${String(alignerDown)}), restart tools/aligner and rerun`
+                )
+            }
 
             // alignment runs behind the fetching; cap the backlog so the GPU stays busy without piling up downloads
             while (pending.length > 8) await pending.shift()

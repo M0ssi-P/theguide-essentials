@@ -46,7 +46,7 @@ class Bible extends BibleParser {
     override baseURI: string = 'https://www.bible.com'
     isDiverse: boolean = true
 
-    alignerURI = 'http://localhost:8765'
+    alignerURI = 'http://127.0.0.1:8765'
 
     private header = {
         'X-Requested-With': 'XMLHttpRequest',
@@ -267,15 +267,22 @@ class Bible extends BibleParser {
     async align(
         audioUrl: string,
         language: string,
-        verses: { verse: number; text: string }[]
+        verses: { verse: number; text: string }[],
+        attempt = 1
     ): Promise<{ durationMs: number; gpuMs: number; timings: IVerseTiming[] }> {
-        const res = await this.client.post(`${this.alignerURI}/align`, {
-            audioUrl,
-            language,
-            verses,
-        })
-
-        return res.data
+        try {
+            const res = await this.client.post(`${this.alignerURI}/align`, {
+                audioUrl,
+                language,
+                verses,
+            })
+            return res.data
+        } catch (error: any) {
+            // dropped connections (ECONNRESET from a stale keep-alive socket, a CDN hiccup) are worth a retry
+            if (attempt >= 3 || error?.response) throw error
+            await new Promise((r) => setTimeout(r, 1000 * attempt))
+            return this.align(audioUrl, language, verses, attempt + 1)
+        }
     }
 
     async generateTranscript(

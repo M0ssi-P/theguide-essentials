@@ -8,7 +8,7 @@ const CORS_HEADERS = {
     'access-control-allow-origin': '*',
     'access-control-allow-methods': 'GET,HEAD,PUT,DELETE,POST,OPTIONS',
     'access-control-allow-headers':
-        'authorization,content-type,if-none-match,x-source-meta',
+        'authorization,content-type,if-none-match,range,x-source-meta',
 }
 
 function json(body: unknown, status = 200): Response {
@@ -57,6 +57,7 @@ function metaHeaders(obj: R2Object): Headers {
     headers.set('etag', obj.httpEtag)
     headers.set('last-modified', obj.uploaded.toUTCString())
     headers.set('content-length', String(obj.size))
+    headers.set('accept-ranges', 'bytes')
     if (obj.httpMetadata?.contentType)
         headers.set('content-type', obj.httpMetadata.contentType)
     return headers
@@ -85,14 +86,23 @@ async function getFile(
     env: Env,
     key: string
 ): Promise<Response> {
-    const obj = await env.BUCKET.get(key)
+    // a Range header ("bytes=1000-") lets the apps resume a download that was cut off
+    const wantsRange = request.headers.has('range')
+    const obj = await env.BUCKET.get(key, wantsRange ? { range: request.headers } : undefined)
     if (!obj) return notFound()
 
     const ifNoneMatch = request.headers.get('if-none-match')
     if (ifNoneMatch && ifNoneMatch === obj.httpEtag) {
         return new Response(null, { status: 304, headers: metaHeaders(obj) })
     }
-    return new Response(obj.body, { headers: metaHeaders(obj) })
+    const headers = metaHeaders(obj)
+    const range = obj.range as { offset?: number; length?: number } | undefined
+    if (wantsRange && range?.offset !== undefined && range.length !== undefined) {
+        headers.set('content-range', `bytes ${range.offset}-${range.offset + range.length - 1}/${obj.size}`)
+        headers.set('content-length', String(range.length))
+        return new Response(obj.body, { status: 206, headers })
+    }
+    return new Response(obj.body, { headers })
 }
 
 async function headFile(env: Env, key: string): Promise<Response> {
