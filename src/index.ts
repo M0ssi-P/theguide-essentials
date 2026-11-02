@@ -19,6 +19,7 @@ import {
 import { SermonsRepository } from './db/table/sermon.ts'
 import { BibleRepository } from './db/bible/bible.ts'
 import Bible from './provider/bible/bible.ts'
+import { publishSongbook } from './songbook/songbook.ts'
 import * as fsp from 'node:fs/promises'
 import * as os from 'node:os'
 import * as path from 'node:path'
@@ -268,6 +269,17 @@ app.get('/update-db', async (req, res) => {
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
 
 // the languages that have a published version in R2 (added by /init-bible, removed by DELETE /bible)
+// songbooks for the apps' song store: /songbooks/only-believe or /songbooks/nyimbo-za-wokovu
+// (dryRun=1 only builds the database; force=1 republishes an unchanged book)
+app.get('/songbooks/:id', async (req, res) => {
+    try {
+        res.json(await publishSongbook(req.params.id, { dryRun: req.query.dryRun === '1', force: req.query.force === '1' }))
+    } catch (error) {
+        console.error('Error building songbook:', error)
+        res.status(500).json({ status: 'error', message: String(error) })
+    }
+})
+
 app.get('/bible/languages', async (req, res) => {
     try {
         const languages = await getBibleLanguages()
